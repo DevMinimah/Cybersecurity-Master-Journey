@@ -1,19 +1,34 @@
-# 🎓 ISC2 Certified in Cybersecurity (CC)
+# 🎓 ISC2 Certified in Cybersecurity (CC) — ✅ COMPLETED
 
-## 5-Domain Progress Tracker
+## 🏆 Certification Earned
+| Field | Details |
+|-------|---------|
+| Status | ✅ Certified |
+| Date Completed | 2026-05-XX |
+| Credential ID | [Your ISC2 Credential ID] |
+| Verify Badge | [🔗 Credly/ISC2 Verification Link] |
 
-| Domain | Title | Theory | Practical | Status | Badge |
-|--------|-------|--------|-----------|--------|-------|
-| 01 | [Security Principles](./Domain-01/) | ⚪ | ⚪ | 🟡 In Progress | - |
-| 02 | [Incident Response](./Domain-02/) | ⚪ | ⚪ | 🟡 In Progress | - |
-| 03 | [Business Continuity] | ⚪ | ⚪ | ⚪ Not Started | - |
-| 04 | [Network Security] | ⚪ | ⚪ | ⚪ Not Started | - |
-| 05 | [Access Control] | ⚪ | ⚪ | ⚪ Not Started | - |
+## 📋 5-Domain Completion Summary
 
-### 📈 How to Use
-- ✅ = Completed | 🟡 = In Progress | ⚪ = Not Started
-- Click any domain to view theory + practical documentation
-- Update as you progress — visual motivation! 🎯
+| Domain | Title | Theory | Practical | Status |
+|--------|-------|--------|-----------|--------|
+| 01 | [Security Principles](./Domain-01/) | ✅ | ✅ | ✅ Completed |
+| 02 | [Incident Response](./Domain-02/) | ✅ | ✅ | ✅ Completed |
+| 03 | [Business Continuity](./Domain-03/) | ✅ | ✅ | ✅ Completed |
+| 04 | [Network Security](./Domain-04/) | ✅ | ✅ | ✅ Completed |
+| 05 | [Access Control](./Domain-05/) | ✅ | ✅ | ✅ Completed |
+
+## 🎯 Skills Demonstrated
+✅ Security governance & risk management  
+✅ Incident response procedures  
+✅ Business continuity planning  
+✅ Network security fundamentals  
+✅ Identity & access management  
+
+## 📸 Certificate & Badge
+![ISC2 CC Badge](../../Assets/badges/isc2-cc-badge.png)  
+📄 [Download Official Certificate](../../Assets/certificates/isc2-cc-certificate.pdf)  
+🔗 [Verify on ISC2 Portal](https://www.isc2.org/Certifications/CC)
 
 ---
-*🔄 Last updated: May 2026*
+*✅ Completing Badges earned and await exam and full CC certification*
