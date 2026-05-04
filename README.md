@@ -1,2 +1,64 @@
-# Cybersecurity-Master-Journey
-Professional cybersecurity portfolio featuring multi-vendor certifications, capstone projects, hands-on labs, and non-technical insights, hosted as a responsive portfolio website.
+# 🛡️ My Cybersecurity Master Journey
+
+*Professional portfolio documenting my path to cybersecurity excellence through multi-vendor certifications, hands-on labs, and capstone projects.*
+
+---
+
+## 📊 Quick Stats
+| Metric | Value |
+|--------|-------|
+| 🎓 Certifications in Progress | 2 |
+| ✅ Modules Completed | 0 |
+| 🏆 Capstones Finished | 0 |
+| 🔧 Labs Documented | 0 |
+
+---
+
+## 🎓 Active Certifications
+
+| Program | Provider | Progress | Status |
+| :--- | :--- | :--- | :--- |
+| Certified in Cybersecurity (CC) | ISC2 | 2/5 Domains | 🟡 In Progress |
+| Cybersecurity Professional | IBM SkillsBuild | 2/13 Modules | 🟡 In Progress |
+| Cybersecurity Analyst | Google/Coursera | 0/8 Courses | ⚪ Planned |
+| Security, Compliance & Identity | Microsoft Learn | 0/5 Paths | ⚪ Planned |
+| Cyber Fundamentals | TS Academy | 0/6 Modules | ⚪ Planned |
+
+👉 [View Detailed Progress](./Certifications/)
+
+---
+
+## 🏆 Capstone Projects
+
+*Real-world projects demonstrating applied cybersecurity skills*
+
+- 🔲 ISC2 CC Capstone - Security Governance Project ⚪ Planned
+- 🔲 IBM Cybersecurity Capstone - Security Operations Workflow ⚪ Planned
+- 🔲 Google Cyber Capstone - Incident Response Plan ⚪ Planned
+
+👉 [Browse All Capstones](./Capstones/)
+
+---
+
+## 🧪 Practical Skills Portfolio
+
+*Hands-on technical and administrative activities documented with evidence*
+
+🔹 Technical Labs: Nmap scanning, Wireshark analysis, vulnerability assessments  
+🔹 Administrative Work: Backup policies, access control plans, risk assessments  
+🔹 Professional Deliverables: Reports, presentations, checklists, diagrams
+
+👉 [Explore Lab Documentation](./Certifications/)
+
+---
+
+## 🌐 View This Portfolio
+🔗 Live Website: https://yourusername.github.io/Cybersecurity-Master-Journey/  
+🔗 GitHub Repository: https://github.com/yourusername/Cybersecurity-Master-Journey
+
+---
+
+> *"Continuous learning is the minimum requirement for success in cybersecurity."*  
+> 🛡️ Building versatile skills across IBM, Google, Microsoft, ISC2, TS Academy & more
+
+*Last updated: May 2026*

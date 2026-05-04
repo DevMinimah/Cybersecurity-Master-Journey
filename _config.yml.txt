@@ -1,0 +1,16 @@
+title: "🛡️ My Cybersecurity Journey"
+description: "Professional portfolio tracking multi-vendor certifications, hands-on labs, and capstone projects"
+theme: jekyll-theme-minimal
+show_downloads: false
+
+# Site navigation
+nav:
+  - name: "Home"
+    url: "/"
+  - name: "Certifications"
+    url: "/Certifications/"
+  - name: "Capstones"
+    url: "/Capstones/"
+
+# Make Markdown render nicely
+markdown: GFM
