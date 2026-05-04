@@ -24,8 +24,7 @@
 | Security, Compliance & Identity | Microsoft Learn | 0/5 Paths | ⚪ Planned |
 | Cyber Fundamentals | TS Academy | 0/6 Modules | ⚪ Planned |
 
-👉 [View Detailed Progress](./Certifications/)
-
+👉 [View Detailed Progress & All Certifications](./Certifications/index.md)
 ---
 
 ## 🏆 Capstone Projects
