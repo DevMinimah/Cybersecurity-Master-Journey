@@ -13,7 +13,7 @@
 
 ## 💡 Key Takeaways:
 - The CIA Triad is the universal foundation for evaluating security decisions
-- Risk management is proactive—not reactive—and requires continuous assessment
+- Risk management is proactive, not reactive and requires continuous assessment
 - Security controls must be layered and aligned with organizational risk tolerance
 - Ethical conduct is mandatory, not optional, in the cybersecurity profession
 
