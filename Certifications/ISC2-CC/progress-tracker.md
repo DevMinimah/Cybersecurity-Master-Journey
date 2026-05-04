@@ -2,7 +2,6 @@
 
 ## 🏆 Certification Earned
 | Field | Details |
-
 | Status | ✅ Certified |
 | Date Completed | 2026-05-XX |
 | Credential ID | [Your ISC2 Credential ID] |
