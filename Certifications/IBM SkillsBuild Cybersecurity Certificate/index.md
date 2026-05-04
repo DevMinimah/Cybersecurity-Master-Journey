@@ -16,18 +16,18 @@
 
 | Mod | Title | Theory | Practical | Status |
 |-----|-------|--------|-----------|--------|
-| 01 | [Intro to Cybersecurity](./Module-01/theory.md) | [📖 View](./Module-01/theory.md) | [🔧 View](./Module-01/practical.md) | 🟡 In Progress |
-| 02 | [Network Security](./Module-02/theory.md) | [📖 View](./Module-02/theory.md) | [🔧 View](./Module-02/practical.md) | 🟡 In Progress |
+| 01 | [Data and Privacy](./Module-01/theory.md) | [📖 View](./Module-01/theory.md) | [🔧 View](./Module-01/practical.md) | 🟡 In Progress |
+| 02 | [Governance, Risk, and Compliance](./Module-02/theory.md) | [📖 View](./Module-02/theory.md) | [🔧 View](./Module-02/practical.md) | 🟡 In Progress |
 | 03 | [Threats & Vulnerabilities](./Module-03/theory.md) | [📖 View](./Module-03/theory.md) | [🔧 View](./Module-03/practical.md) | ⚪ Not Started |
-| 04 | [Identity & Access Management](./Module-04/theory.md) | [📖 View](./Module-04/theory.md) | [🔧 View](./Module-04/practical.md) | ⚪ Not Started |
-| 05 | [Cryptography & PKI](./Module-05/theory.md) | [📖 View](./Module-05/theory.md) | [🔧 View](./Module-05/practical.md) | ⚪ Not Started |
-| 06 | [Cloud Security](./Module-06/theory.md) | [📖 View](./Module-06/theory.md) | [🔧 View](./Module-06/practical.md) | ⚪ Not Started |
-| 07 | [Security Operations](./Module-07/theory.md) | [📖 View](./Module-07/theory.md) | [🔧 View](./Module-07/practical.md) | ⚪ Not Started |
-| 08 | [Incident Response](./Module-08/theory.md) | [📖 View](./Module-08/theory.md) | [🔧 View](./Module-08/practical.md) | ⚪ Not Started |
-| 09 | [Compliance & GRC](./Module-09/theory.md) | [📖 View](./Module-09/theory.md) | [🔧 View](./Module-09/practical.md) | ⚪ Not Started |
-| 10 | [App & Data Security](./Module-10/theory.md) | [📖 View](./Module-10/theory.md) | [🔧 View](./Module-10/practical.md) | ⚪ Not Started |
-| 11 | [Emerging Tech & AI Security](./Module-11/theory.md) | [📖 View](./Module-11/theory.md) | [🔧 View](./Module-11/practical.md) | ⚪ Not Started |
-| 12 | [Career Readiness & Ethics](./Module-12/theory.md) | [📖 View](./Module-12/theory.md) | [🔧 View](./Module-12/practical.md) | ⚪ Not Started |
+| 04 | [Vulnerabilit Management](./Module-04/theory.md) | [📖 View](./Module-04/theory.md) | [🔧 View](./Module-04/practical.md) | ⚪ Not Started |
+| 05 | [System Security](./Module-05/theory.md) | [📖 View](./Module-05/theory.md) | [🔧 View](./Module-05/practical.md) | ⚪ Not Started |
+| 06 | [Network Security](./Module-06/theory.md) | [📖 View](./Module-06/theory.md) | [🔧 View](./Module-06/practical.md) | ⚪ Not Started |
+| 07 | [Cloud Computing and Virtualization](./Module-07/theory.md) | [📖 View](./Module-07/theory.md) | [🔧 View](./Module-07/practical.md) | ⚪ Not Started |
+| 08 | [Secure Cloud Infrasturcture](./Module-08/theory.md) | [📖 View](./Module-08/theory.md) | [🔧 View](./Module-08/practical.md) | ⚪ Not Started |
+| 09 | [Security Operations](./Module-09/theory.md) | [📖 View](./Module-09/theory.md) | [🔧 View](./Module-09/practical.md) | ⚪ Not Started |
+| 10 | [Security Monitoring](./Module-10/theory.md) | [📖 View](./Module-10/theory.md) | [🔧 View](./Module-10/practical.md) | ⚪ Not Started |
+| 11 | [Incident Response](./Module-11/theory.md) | [📖 View](./Module-11/theory.md) | [🔧 View](./Module-11/practical.md) | ⚪ Not Started |
+| 12 | [Digital System Forensics](./Module-12/theory.md) | [📖 View](./Module-12/theory.md) | [🔧 View](./Module-12/practical.md) | ⚪ Not Started |
 | 13 | [🎓 Final Capstone](./Module-13/theory.md) | [📖 View](./Module-13/theory.md) | [🔧 View](./Module-13/practical.md) | ⚪ Not Started |
 
 ---
@@ -37,12 +37,12 @@
 
 | Capstone | Covers | Focus Area | Documentation | Status |
 |----------|--------|------------|---------------|--------|
-| 🔹 Capstone A | Mod 01 + 02 | Security Baseline Assessment | [View](./Capstones/Capstone-A/) | ⚪ Locked |
-| 🔹 Capstone B | Mod 03 + 04 | Threat Mitigation Plan | [View](./Capstones/Capstone-B/) | ⚪ Locked |
-| 🔹 Capstone C | Mod 05 + 06 | Secure Architecture Design | [View](./Capstones/Capstone-C/) | ⚪ Locked |
-| 🔹 Capstone D | Mod 07 + 08 | Incident Response Simulation | [View](./Capstones/Capstone-D/) | ⚪ Locked |
-| 🔹 Capstone E | Mod 09 + 10 | Compliance & Data Protection | [View](./Capstones/Capstone-E/) | ⚪ Locked |
-| 🔹 Capstone F | Mod 11 + 12 | Emerging Tech Security Audit | [View](./Capstones/Capstone-F/) | ⚪ Locked |
+| 🔹 Capstone 1 | Mod 01 + 02 | Evaluate an Organization's Data Security Posture | [View](./Capstones/Capstone-1/) | ⚪ Locked |
+| 🔹 Capstone 2 | Mod 03 + 04 | Perform an Impact Analysis to Address Vulnerabilities | [View](./Capstones/Capstone-2/) | ⚪ Locked |
+| 🔹 Capstone 3 | Mod 05 + 06 | Design a Secure Network for Increased Security | [View](./Capstones/Capstone-3/) | ⚪ Locked |
+| 🔹 Capstone 4 | Mod 07 + 08 | Propose Cloud Services and Security Measures | [View](./Capstones/Capstone-4/) | ⚪ Locked |
+| 🔹 Capstone 5 | Mod 09 + 10 | Assemble a SOC Team and Perform Security Monitoring Tasks | [View](./Capstones/Capstone-5/) | ⚪ Locked |
+| 🔹 Capstone 6 | Mod 11 + 12 | Investigate an Incident Through Digital Forensics | [View](./Capstones/Capstone-6/) | ⚪ Locked |
 | 🎓 Final Capstone | Mod 13 | End-to-End Security Project | [View](./Capstones/Capstone-Final/) | ⚪ Locked |
 
 > 💡 How it works: Each capstone folder will contain your deliverables, screenshots, executive summaries, and reflection notes. Links will auto-activate as you complete each module pair.
