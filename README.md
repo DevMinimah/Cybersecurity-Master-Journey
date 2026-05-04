@@ -53,8 +53,8 @@
 ---
 
 ## 🌐 View This Portfolio
-🔗 Live Website: https://yourusername.github.io/Cybersecurity-Master-Journey/  
-🔗 GitHub Repository: https://github.com/yourusername/Cybersecurity-Master-Journey
+🔗 Live Website: https://Devminimah.github.io/Cybersecurity-Master-Journey/  
+🔗 GitHub Repository: https://github.com/Devminimah/Cybersecurity-Master-Journey
 
 ---
 
