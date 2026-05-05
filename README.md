@@ -6,7 +6,6 @@
 
 ## 📊 Quick Stats
 | Metric | Value |
-|--------|-------|
 | 🎓 Certifications in Progress | 2 |
 | ✅ Modules Completed | 0 |
 | 🏆 Capstones Finished | 0 |
