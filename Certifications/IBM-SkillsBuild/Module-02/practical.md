@@ -11,10 +11,6 @@ To design an administrative control plan focused on employee cybersecurity train
 
 ## 🛠 Tools Used:
 - Adobe file editor
-- Microsoft Word (plan documentation)
-- PowerPoint (training slide drafts)
-- LMS template (training tracking structure)
-- Email client (threat notification templates)
 
 ## 📋 What I Did:
 1. Developed a cybersecurity onboarding curriculum covering secure system access, password management, and core IT security policies.
