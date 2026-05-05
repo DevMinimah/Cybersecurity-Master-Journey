@@ -1,4 +1,4 @@
-# Module 02: Governance, Risk, and Compliance - Theory Notes
+# Module 02: Governance, Risk, and Compliance - Theory
 
 ## 📅 Date Started: 2026-05-03
 ## 📅 Date Completed: 2026-05-04
