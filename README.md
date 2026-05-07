@@ -18,7 +18,7 @@
 | Program | Provider | Progress | Status |
 | Cybersecurity Fundamentals | IBM SkillsBuild | 1/1 Course | ✅ Completed 🏆 |
 | Certified in Cybersecurity (CC) | ISC2 | 5/5 Domains | ✅ Completed 🏆 |
-| IBM SkillsBuild Cybersecurity Certificate | IBM SkillsBuild | 4/13 Modules ✅ | 🟡 In Progress |
+| IBM SkillsBuild Cybersecurity Certificate | IBM SkillsBuild | 4/13 Modules | 🟡 In Progress |
 | IBM SkillsBuild Information Security Specialist Certificate | IBM SkillsBuild | 12 Courses | ⚪ Planned |
 | Google Cybersecurity Professional Certificate | Google/Coursera | 0/8 Courses | ⚪ Planned |
 | Microsoft Cybers Architect Expert | Microsoft Learn | 0/5 Paths | ⚪ Planned |
