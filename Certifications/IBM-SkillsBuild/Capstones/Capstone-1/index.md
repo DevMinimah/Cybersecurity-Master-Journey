@@ -20,7 +20,6 @@ Evaluating an Organization's Data Security Posture against:
 ### 1. HIPAA Compliance Assessment
 
 | Area | Status | Findings |
-|------|--------|----------|
 | Privacy Rule | ⚠️ Partial | Policies exist, but delayed paper-to-digital entry creates windows for unauthorized access or loss of PHI. No documented patient authorization or minimum necessary access procedures. |
 | Security Rule | ❌ Non-compliant | Fails across all three safeguard categories: <br>• *Administrative*: Policies lack enforcement, formal risk analysis, contingency planning <br>• *Physical*: Single workstation on open desk; backup media carried personally without secure storage <br>• *Technical*: No access controls, audit logs, encryption, or network security |
 | Breach Notification | ❌ Not documented | Current practices create high breach probability with no defined 60-day notification workflow or mitigation steps |
@@ -35,7 +34,6 @@ Threats Identified:
 Vulnerabilities Discovered:
 Risk Levels Assigned:
 | Level | Issue | Impact |
-|-------|-------|--------|
 | 🔴 Critical | Unencrypted backup drive carried offsite | PHI exposure, HIPAA violation |
 | 🔴 Critical | Single computer dependency | Total data loss if hardware fails |
 | 🟠 High | Delayed paper-to-digital entry | Data loss window, compliance gap |
@@ -100,10 +98,9 @@ I learned that true security posture requires defense-in-depth: encryption every
 ## 🏆 Official Microcredential Earned
 
 | Field | Details |
-|-------|---------|
 | Credential | IBM SkillsBuild: Evaluate Data Security Posture |
-| Issued | [May 04, 2026] |
-| Credential ID | [09aa3a71-c2da-40f2-b9b7-ff11b0137c7d] |
+| Issued | May 04, 2026 |
+| Credential ID | 09aa3a71-c2da-40f2-b9b7-ff11b0137c7d |
 | Verify | [🔗 https://www.credly.com/badges/09aa3a71-c2da-40f2-b9b7-ff11b0137c7d/public_url] |
 
 ### Badge Display
