@@ -2,11 +2,10 @@
 # 💼 IBM SkillsBuild: Cybersecurity Certificate — 🟡 In Progress
 
 | Field | Details |
-|-------|---------|
 | Status | 🟡 In Progress |
-| Modules Completed | 2/13 |
-| Practical Activity Done | 2/13 |
-| Capstones Passed | 0/7 |
+| Modules Completed | 4/13 |
+| Practical Activity Done | 4/13 |
+| Capstones Passed | 1/7 |
 | Expected Completion | 2026-Q3 |
 | Verify Credential | [🔗 IBM Digital Badge Link] |
 
@@ -19,8 +18,8 @@
 |-----|-------|--------|-----------|--------|
 | 01 | [Data and Privacy](./Module-01/theory.md) | [📖 View](./Module-01/theory.md) | [🔧 View](./Module-01/practical.md) | ✅ Completed |
 | 02 | [Governance, Risk, and Compliance](./Module-02/theory.md) | [📖 View](./Module-02/theory.md) | [🔧 View](./Module-02/practical.md) | ✅ Completed |
-| 03 | [Threats & Vulnerabilities](./Module-03/theory.md) | [📖 View](./Module-03/theory.md) | [🔧 View](./Module-03/practical.md) | ⚪️ Not Started |
-| 04 | [Vulnerability Management](./Module-04/theory.md) | [📖 View](./Module-04/theory.md) | [🔧 View](./Module-04/practical.md) | ⚪️ Not Started |
+| 03 | [Threats & Vulnerabilities](./Module-03/theory.md) | [📖 View](./Module-03/theory.md) | [🔧 View](./Module-03/practical.md) | ✅ Completed |
+| 04 | [Vulnerability Management](./Module-04/theory.md) | [📖 View](./Module-04/theory.md) | [🔧 View](./Module-04/practical.md) | ✅ Completed |
 | 05 | [System Security](./Module-05/theory.md) | [📖 View](./Module-05/theory.md) | [🔧 View](./Module-05/practical.md) | ⚪️ Not Started |
 | 06 | [Network Security](./Module-06/theory.md) | [📖 View](./Module-06/theory.md) | [🔧 View](./Module-06/practical.md) | ⚪️ Not Started |
 | 07 | [Cloud Computing and Virtualization](./Module-07/theory.md) | [📖 View](./Module-07/theory.md) | [🔧 View](./Module-07/practical.md) | ⚪️ Not Started |
