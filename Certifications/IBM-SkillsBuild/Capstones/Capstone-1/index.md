@@ -91,14 +91,14 @@ Recommendations for Improvement:
 ## 💡 What I Learned
 Evaluating Cedarville Family Health Clinic highlighted the critical gap between *having policies* and *implementing technical safeguards*. In healthcare, even well-intentioned manual processes (like carrying a backup drive in a purse) can violate HIPAA and expose clinics to severe financial, legal, and reputational risk. 
 
-I learned that true security posture requires defense-in-depth: encryption everywhere, automated tested backups, strict access controls, and continuous staff training. Most importantly, compliance isn't a checklist—it's an operational culture that must be validated through regular testing and documentation.
+I learned that true security posture requires defense-in-depth: encryption everywhere, automated tested backups, strict access controls, and continuous staff training. Most importantly, compliance isn't a checklist, it's an operational culture that must be validated through regular testing and documentation.
 
 ---
 
 ## 🏆 Official Microcredential Earned
 
 | Field | Details |
-| Credential | IBM SkillsBuild: Evaluate Data Security Posture |
+| Credential | IBM SkillsBuild: Governance, Risk, Compliance, and Data Privacy |
 | Issued | May 04, 2026 |
 | Credential ID | 09aa3a71-c2da-40f2-b9b7-ff11b0137c7d |
 | Verify | [🔗 https://www.credly.com/badges/09aa3a71-c2da-40f2-b9b7-ff11b0137c7d/public_url] |
