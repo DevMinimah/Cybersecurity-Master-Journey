@@ -109,4 +109,5 @@ I learned that true security posture requires defense-in-depth: encryption every
 > ℹ️ *This capstone was completed in a controlled simulation environment. Proprietary simulation materials are not shared publicly per IBM SkillsBuild policy. This report and the official microcredential serve as verified proof of competency.*
 
 ---
-*🔙 [Back to IBM SkillsBuild Dashboard](/Certifications/IBM-SkillsBuild/)*
+*🔙 [Back to IBM SkillsBuild Dashboard](../../index.md)*
+* 

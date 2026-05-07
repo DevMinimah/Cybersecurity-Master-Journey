@@ -12,4 +12,4 @@
 - [TS Academy](./TS-Academy/) — Planned
 
 ---
-*🔙 [Back to Home](/)*
+*🔙 [Back to Home](../README.md)*

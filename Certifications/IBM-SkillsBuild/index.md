@@ -48,4 +48,4 @@
 > 💡 Note: Capstone links are set to # for now. When you reach a checkpoint, I’ll show you how to add an index.md inside that capstone folder so the link activates instantly.
 
 ---
-*🔙 [Back to Certifications Hub](/Certifications/)*
+*🔙 [Back to Certifications Hub](../index.md)*
