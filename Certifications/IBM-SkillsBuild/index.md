@@ -36,15 +36,24 @@
 *IBM requires a capstone after each module pair to validate applied skills before microcredential eligibility.*
 
 | Capstone | Covers | Focus Area | Documentation | Status |
-|----------|--------|------------|---------------|--------|
-| 🔹 Capstone 1 | Mod 01 + 02 | Evaluate an Organization's Data Security Posture | [View](./Capstones/Capstone-1/) | 🟡 Ready for Content || 🔹 Capstone 2 | Mod 03 + 04 | Perform an Impact Analysis to Address Vulnerabilities | # | ⚪️ Locked |
+| 🔹 Capstone 1 | Mod 01 + 02 | Evaluate an Organization's Data Security Posture | [View](./Capstones/Capstone-1/) | 🟡 Ready for Content |
+| 🔹 Capstone 2 | Mod 03 + 04 | Perform an Impact Analysis to Address Vulnerabilities | # | ⚪️ Locked |
 | 🔹 Capstone 3 | Mod 05 + 06 | Design a Secure Network for Increased Security | # | ⚪️ Locked |
 | 🔹 Capstone 4 | Mod 07 + 08 | Propose Cloud Services and Security Measures | # | ⚪️ Locked |
 | 🔹 Capstone 5 | Mod 09 + 10 | Assemble a SOC Team and Perform Security Monitoring Tasks | # | ⚪️ Locked |
 | 🔹 Capstone 6 | Mod 11 + 12 | Investigate an Incident Through Digital Forensics | # | ⚪️ Locked |
 | 🎓 Final Capstone | Mod 13 | End-to-End Security Project | # | ⚪️ Locked |
 
-> 💡 Note: Capstone links are set to # for now. When you reach a checkpoint, I’ll show you how to add an index.md inside that capstone folder so the link activates instantly.
+> 💡 Program Structure: Capstones are completed sequentially after each module pair, validating applied skills before microcredential eligibility. Completed capstones include full documentation, deliverables, and verified credentials.
+
 
 ---
 *🔙 [Back to Certifications Hub](../index.md)*
+
+
+
+
+
+
+
+
