@@ -36,10 +36,10 @@ To analyze threat intelligence data using STIX (Structured Threat Information Ex
 
 ## 💡 What I Learned:
 - Threat intelligence standardization (STIX) is critical for effective information sharing between organizations, security vendors, and CERTs, enabling faster detection and response to emerging threats.
-- Structured threat data allows for automation—security tools can ingest STIX feeds to automatically update detection rules, block malicious IPs, and identify compromised systems.
+- Structured threat data allows for automation security tools can ingest STIX feeds to automatically update detection rules, block malicious IPs, and identify compromised systems.
 - Penetration testing is a proactive security control that identifies vulnerabilities before attackers exploit them; regular testing is essential for maintaining security posture.
 - OWASP ZAP is an essential tool for web application security testing, providing both automated scanning and manual testing capabilities aligned with OWASP Top 10 vulnerabilities.
-- Risk categorization and clear reporting are as important as finding vulnerabilities—stakeholders need prioritized, actionable findings to allocate remediation resources effectively.
+- Risk categorization and clear reporting are as important as finding vulnerabilities stakeholders need prioritized, actionable findings to allocate remediation resources effectively.
 - The penetration testing lifecycle (reconnaissance, scanning, exploitation, reporting) mirrors real attacker behavior, helping organizations understand their exposure from an adversary's perspective.
 
 ## 📸 Screenshot:

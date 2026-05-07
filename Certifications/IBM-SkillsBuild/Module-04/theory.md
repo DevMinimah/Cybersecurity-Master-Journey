@@ -6,7 +6,7 @@
 ## 🎯 What I Learned:
 - Threat intelligence: Types, sources, and analysis using frameworks like STIX (Structured Threat Information eXpression)
 - Vulnerability assessment: Systematic process of identifying, prioritizing, and reporting security weaknesses
-- Penetration testing: Four phases—planning, information gathering, testing, and reporting
+- Penetration testing: Four phases planning, information gathering, testing, and reporting
 - Security tools: OWASP ZAP and other pen testing tools for identifying web application vulnerabilities
 - Risk prioritization: Evaluating and ranking vulnerabilities based on potential impact
 
@@ -14,7 +14,7 @@
 - Threat intelligence transforms raw data into actionable insights for proactive defense
 - Vulnerability assessments are preventive measures; penetration testing validates security controls
 - The four phases of pen testing ensure thorough, documented, and ethical security testing
-- Prioritization is critical—not all vulnerabilities pose the same level of risk
+- Prioritization is critical not all vulnerabilities pose the same level of risk
 - Automated tools like OWASP ZAP complement manual security testing efforts
 
 ## 🔗 Links/Resources:
