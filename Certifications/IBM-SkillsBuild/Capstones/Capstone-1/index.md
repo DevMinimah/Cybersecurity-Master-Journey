@@ -60,7 +60,6 @@ Regulatory Requirements Checked:
 Gaps Identified:
 Remediation Roadmap:
 | Priority | Action | Timeline |
-|----------|--------|----------|
 | 1 | Conduct formal Security Risk Analysis (SRA) | Week 1 |
 | 2 | Deploy full-disk encryption on all workstations & removable media | Week 2 |
 | 3 | Implement automated 3-2-1 backup strategy with quarterly restore testing | Week 3 |
@@ -70,7 +69,6 @@ Remediation Roadmap:
 ### 4. Data Encryption Analysis
 
 | Category | Status | Details |
-|----------|--------|---------|
 | Encryption at Rest | ❌ None | Main workstation and portable backup drive store unencrypted PHI. No full-disk or file-level encryption implemented. |
 | Encryption in Transit | ⚠️ Unverified | Internet connection used for supply ordering, but no TLS/SSL configuration or secure clinic-to-vendor PHI transmission documented. |
 | Key Management | ❌ Non-existent | No encryption keys deployed, stored, or rotated. No separation of duties for cryptographic controls. |
@@ -104,9 +102,9 @@ I learned that true security posture requires defense-in-depth: encryption every
 | Field | Details |
 |-------|---------|
 | Credential | IBM SkillsBuild: Evaluate Data Security Posture |
-| Issued | [Add Date] |
-| Credential ID | [Add Your ID] |
-| Verify | [🔗 Credly Verification Link] |
+| Issued | [May 04, 2026] |
+| Credential ID | [09aa3a71-c2da-40f2-b9b7-ff11b0137c7d] |
+| Verify | [🔗 https://www.credly.com/badges/09aa3a71-c2da-40f2-b9b7-ff11b0137c7d/public_url] |
 
 ### Badge Display
 ![IBM SkillsBuild Microcredential Badge](../../Assets/badges/governance-risk-compliance-and-data-privacy.png)
