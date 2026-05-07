@@ -7,19 +7,19 @@
 ## 📊 Quick Stats
 | Metric | Value |
 | 🎓 Certifications in Progress | 2 |
-| ✅ Modules Completed | 0 |
-| 🏆 Capstones Finished | 0 |
-| 🔧 Labs Documented | 0 |
+| ✅ Modules Completed | 4 |
+| 🏆 Capstones Finished | 1 |
+| 🔧 Labs Documented |  |
 
 ---
 
 ## 🎓 Active Certifications
 
 | Program | Provider | Progress | Status |
-| :--- | :--- | :--- | :--- |
-| Certified in Cybersecurity (CC) | ISC2 | 5/5 Domains | ✅ In Progress |
-| IBM SkillsBuild Cybersecurity Certificate | IBM SkillsBuild | 2/13 Modules ✅ | 🟡 In Progress |
-IBM SkillsBuild Information Security Specialist Certificate | IBM SkillsBuild | 12 Courses | ⚪ Planned |
+| Cybersecurity Fundamentals | IBM SkillsBuild | 1/1 Course | ✅ Completed 🏆 |
+| Certified in Cybersecurity (CC) | ISC2 | 5/5 Domains | ✅ Completed 🏆 |
+| IBM SkillsBuild Cybersecurity Certificate | IBM SkillsBuild | 4/13 Modules ✅ | 🟡 In Progress |
+| IBM SkillsBuild Information Security Specialist Certificate | IBM SkillsBuild | 12 Courses | ⚪ Planned |
 | Google Cybersecurity Professional Certificate | Google/Coursera | 0/8 Courses | ⚪ Planned |
 | Microsoft Cybers Architect Expert | Microsoft Learn | 0/5 Paths | ⚪ Planned |
 | Cybersecurity | TS Academy | 0/6 Modules | ⚪ Planned |
