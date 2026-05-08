@@ -115,7 +115,7 @@ Most importantly, I learned that security assessments aren't just technical exer
 | Credential | IBM SkillsBuild: Vulnerability Management |
 | Issued | May 08, 2026 |
 | Credential ID | 173b0ebb-a010-4f62-8c83-54e8def38ffb |
-| Verify | [🔗 View on Credly](https://www.credly.com/earner/earned/badge/173b0ebb-a010-4f62-8c83-54e8def38ffb) |
+| Verify | [🔗 View on Credly](https://www.credly.com/badges/173b0ebb-a010-4f62-8c83-54e8def38ffb/public_url) |
 
 ### Badge Display
 ![IBM SkillsBuild Badge](../../Assets/badges/vulnerability-management.png)

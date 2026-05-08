@@ -8,7 +8,7 @@
 | Metric | Value |
 | 🎓 Certifications in Progress | 2 |
 | ✅ Modules Completed | 4 |
-| 🏆 Capstones Finished | 1 |
+| 🏆 Capstones Finished | 2 |
 | 🔧 Labs Documented |  |
 
 ---

@@ -25,7 +25,7 @@
 | Field | Details |
 | Credential Name | cybersecurity-fundamentals |
 | Credential ID | c2b4e36a-ca69-4ced-a5b6-d27983443440 |
-| Verify | [🔗 View on Credly](https://www.credly.com/earner/earned/badge/c2b4e36a-ca69-4ced-a5b6-d27983443440) |
+| Verify | [🔗 View on Credly](https://www.credly.com/badges/c2b4e36a-ca69-4ced-a5b6-d27983443440/public_url) |
 
 ### Badge Display
 ![IBM Cybersecurity Fundamentals Badge](../../Assets/badges/cybersecurity-fundamentals.png)
