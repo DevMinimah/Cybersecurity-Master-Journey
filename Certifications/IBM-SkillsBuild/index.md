@@ -20,7 +20,7 @@
 | 02 | [Governance, Risk, and Compliance](./Module-02/theory.md) | [📖 View](./Module-02/theory.md) | [🔧 View](./Module-02/practical.md) | ✅ Completed |
 | 03 | [Threats & Vulnerabilities](./Module-03/theory.md) | [📖 View](./Module-03/theory.md) | [🔧 View](./Module-03/practical.md) | ✅ Completed |
 | 04 | [Vulnerability Management](./Module-04/theory.md) | [📖 View](./Module-04/theory.md) | [🔧 View](./Module-04/practical.md) | ✅ Completed |
-| 05 | [System Security](./Module-05/theory.md) | [📖 View](./Module-05/theory.md) | [🔧 View](./Module-05/practical.md) | ⚪️ Not Started |
+| 05 | [System Security](./Module-05/theory.md) | [📖 View](./Module-05/theory.md) | [🔧 View](./Module-05/practical.md) | ✅ Completed |
 | 06 | [Network Security](./Module-06/theory.md) | [📖 View](./Module-06/theory.md) | [🔧 View](./Module-06/practical.md) | ⚪️ Not Started |
 | 07 | [Cloud Computing and Virtualization](./Module-07/theory.md) | [📖 View](./Module-07/theory.md) | [🔧 View](./Module-07/practical.md) | ⚪️ Not Started |
 | 08 | [Secure Cloud Infrastructure](./Module-08/theory.md) | [📖 View](./Module-08/theory.md) | [🔧 View](./Module-08/practical.md) | ⚪️ Not Started |
