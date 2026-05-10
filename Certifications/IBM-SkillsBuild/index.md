@@ -3,9 +3,9 @@
 
 | Field | Details |
 | Status | 🟡 In Progress |
-| Modules Completed | 4/13 |
-| Practical Activity Done | 4/13 |
-| Capstones Passed | 1/7 |
+| Modules Completed | 6/13 |
+| Practical Activity Done | 6/13 |
+| Capstones Passed | 2/7 |
 | Expected Completion | 2026-Q3 |
 | Verify Credential | [🔗 IBM Digital Badge Link] |
 
@@ -21,7 +21,7 @@
 | 03 | [Threats & Vulnerabilities](./Module-03/theory.md) | [📖 View](./Module-03/theory.md) | [🔧 View](./Module-03/practical.md) | ✅ Completed |
 | 04 | [Vulnerability Management](./Module-04/theory.md) | [📖 View](./Module-04/theory.md) | [🔧 View](./Module-04/practical.md) | ✅ Completed |
 | 05 | [System Security](./Module-05/theory.md) | [📖 View](./Module-05/theory.md) | [🔧 View](./Module-05/practical.md) | ✅ Completed |
-| 06 | [Network Security](./Module-06/theory.md) | [📖 View](./Module-06/theory.md) | [🔧 View](./Module-06/practical.md) | ⚪️ Not Started |
+| 06 | [Network Security](./Module-06/theory.md) | [📖 View](./Module-06/theory.md) | [🔧 View](./Module-06/practical.md) | ⚪️ ✅ Completed |
 | 07 | [Cloud Computing and Virtualization](./Module-07/theory.md) | [📖 View](./Module-07/theory.md) | [🔧 View](./Module-07/practical.md) | ⚪️ Not Started |
 | 08 | [Secure Cloud Infrastructure](./Module-08/theory.md) | [📖 View](./Module-08/theory.md) | [🔧 View](./Module-08/practical.md) | ⚪️ Not Started |
 | 09 | [Security Operations](./Module-09/theory.md) | [📖 View](./Module-09/theory.md) | [🔧 View](./Module-09/practical.md) | ⚪️ Not Started |
