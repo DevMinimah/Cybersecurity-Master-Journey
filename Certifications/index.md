@@ -8,7 +8,7 @@
 
 ## 🟡 In Progress
 - [IBM-SkillsBuild Cybersecurity Certificate](./IBM-SkillsBuild/index.md) — Modules 1-4 Started
-- [Google Cybersecurity](./Google-Cyber/) — Planned
+- [Google Cybersecurity Professional Certificate](./Google-Cybersecurity/index.md) — Planned
 - [Microsoft Security](./Microsoft-Security/) — Planned
 - [TS Academy](./TS-Academy/) — Planned
 
