@@ -33,7 +33,9 @@ Threats Identified:
 
 Vulnerabilities Discovered:
 Risk Levels Assigned:
+
 | Level | Issue | Impact |
+|-------|-------|--------|
 | 🔴 Critical | Unencrypted backup drive carried offsite | PHI exposure, HIPAA violation |
 | 🔴 Critical | Single computer dependency | Total data loss if hardware fails |
 | 🟠 High | Delayed paper-to-digital entry | Data loss window, compliance gap |
@@ -57,7 +59,9 @@ Regulatory Requirements Checked:
 
 Gaps Identified:
 Remediation Roadmap:
+
 | Priority | Action | Timeline |
+|----------|--------|----------|
 | 1 | Conduct formal Security Risk Analysis (SRA) | Week 1 |
 | 2 | Deploy full-disk encryption on all workstations & removable media | Week 2 |
 | 3 | Implement automated 3-2-1 backup strategy with quarterly restore testing | Week 3 |
