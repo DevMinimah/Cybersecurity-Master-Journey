@@ -6,16 +6,30 @@
 | Courses | 0/8 Completed |
 | Capstones | 0/1 Completed |
 
+
 ## 📚 Course Progress
+
 | Course | Title | Theory | Practical | Status |
+|--------|-------|--------|-----------|--------|
 | 01 | Foundations of Cybersecurity | [📖](./Course-01/theory.md) | [🔧](./Course-01/practical.md) | ⚪ Not Started |
 | 02 | Play It Safe: Manage Security Risks | [📖](./Course-02/theory.md) | [🔧](./Course-02/practical.md) | ⚪ Not Started |
-| 03 | Connect and Protect: Networks and Network Security | [📖](./Course-03/theory.md) | [🔧](./Course-03/practical.md) |  Not Started |
-| 04 | Tools of the Trade: Linux and SQL | [📖](./Course-04/theory.md) | [](./Course-04/practical.md) | ⚪ Not Started |
-| 05 | Assets, Threats, and Vulnerabilities | [](./Course-05/theory.md) | [🔧](./Course-05/practical.md) | ⚪ Not Started |
+| 03 | Connect and Protect: Networks and Network Security | [📖](./Course-03/theory.md) | [🔧](./Course-03/practical.md) | ⚪ Not Started |
+| 04 | Tools of the Trade: Linux and SQL | [📖](./Course-04/theory.md) | [🔧](./Course-04/practical.md) | ⚪ Not Started |
+| 05 | Assets, Threats, and Vulnerabilities | [📖](./Course-05/theory.md) | [🔧](./Course-05/practical.md) | ⚪ Not Started |
 | 06 | Sound the Alarm: Detection and Response | [📖](./Course-06/theory.md) | [🔧](./Course-06/practical.md) | ⚪ Not Started |
 | 07 | Automate Cybersecurity Tasks with Python | [📖](./Course-07/theory.md) | [🔧](./Course-07/practical.md) | ⚪ Not Started |
 | 08 | Put It to Work: Prepare for Cybersecurity Jobs | [📖](./Course-08/theory.md) | [🔧](./Course-08/practical.md) | ⚪ Not Started |
+
+---
+## 🏆 Capstone Project
+
+| Capstone | Focus Area | Status |
+|----------|------------|--------|
+| Final Capstone | End-to-End Security Assessment | ⚪ Locked |
+
+---
+
+*🔙 [Back to Certifications Hub](../index.md)*
 
 ##  Capstone Project
 | Capstone | Covers | Focus Area | Documentation | Status |
