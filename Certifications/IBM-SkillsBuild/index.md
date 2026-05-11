@@ -5,7 +5,7 @@
 | Status | 🟡 In Progress |
 | Modules Completed | 6/13 |
 | Practical Activity Done | 6/13 |
-| Capstones Passed | 2/7 |
+| Capstones Passed | 3/7 |
 | Expected Completion | 2026-Q3 |
 | Verify Credential | [🔗 IBM Digital Badge Link] |
 
@@ -38,7 +38,7 @@
 | Capstone | Covers | Focus Area | Documentation | Status |
 | 🔹 Capstone 1 | Mod 01 + 02 | Evaluate an Organization's Data Security Posture | [View](./Capstones/Capstone-1/) | ✅ Completed |
 | 🔹 Capstone 2 | Mod 03 + 04 | Perform an Impact Analysis to Address Vulnerabilities | [View](./Capstones/Capstone-2/) | ✅ Completed |
-| 🔹 Capstone 3 | Mod 05 + 06 | Design a Secure Network for Increased Security | # | ⚪️ Locked |
+| 🔹 Capstone 3 | Mod 05 + 06 | Design a Secure Network for Increased Security | [View](./Capstones/Capstone-3/) | ✅ Completed |
 | 🔹 Capstone 4 | Mod 07 + 08 | Propose Cloud Services and Security Measures | # | ⚪️ Locked |
 | 🔹 Capstone 5 | Mod 09 + 10 | Assemble a SOC Team and Perform Security Monitoring Tasks | # | ⚪️ Locked |
 | 🔹 Capstone 6 | Mod 11 + 12 | Investigate an Incident Through Digital Forensics | # | ⚪️ Locked |

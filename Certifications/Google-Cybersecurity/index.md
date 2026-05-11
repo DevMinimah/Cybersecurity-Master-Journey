@@ -28,13 +28,6 @@
 | Final Capstone | End-to-End Security Assessment | ⚪ Locked |
 
 ---
-
-*🔙 [Back to Certifications Hub](../index.md)*
-
-##  Capstone Project
-| Capstone | Covers | Focus Area | Documentation | Status |
-|  Final Capstone | Course 08 | End-to-End Security Assessment | # |  Locked |
-
 > 💡 Note: Links are placeholders. I'll activate them as you complete each course.
 
 ---
