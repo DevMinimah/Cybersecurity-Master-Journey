@@ -12,12 +12,11 @@ Click any domain to view theory notes & practical activities:
 
 | Domain | Title | Theory | Practical |
 |--------|-------|--------|-----------|
-| 01 | [Security Principles](./Domain-01/theory.md) | ✅ | [View](./Domain-01/practical.md) |
-| 02 | [Incident Response](./Domain-02/theory.md) | ✅ | [View](./Domain-02/practical.md) |
-| 03 | [Business Continuity](./Domain-03/theory.md) | ✅ | [View](./Domain-03/practical.md) |
-| 04 | [Network Security](./Domain-04/theory.md) | ✅ | [View](./Domain-04/practical.md) |
-| 05 | [Access Control](./Domain-05/theory.md) | ✅ | [View](./Domain-05/practical.md) |
-
+| 01 | [Security Principles](./Domain-01/theory.md) | ✅ Completed | 
+| 02 | [Incident Response](./Domain-02/theory.md) | ✅ Completed | 
+| 03 | [Access Control Concepts](./Domain-03/theory.md) | ✅ Completed |
+| 04 | [Network Security](./Domain-04/theory.md) | ✅ Completed | 
+| 05 | [Security Operations](./Domain-05/theory.md) | ✅ Completed | 
 
 ## 🏆 Proof of Completion
 ![ISC2 CC Badge](../../Assets/badges/isc2-cc-badge.png)  
