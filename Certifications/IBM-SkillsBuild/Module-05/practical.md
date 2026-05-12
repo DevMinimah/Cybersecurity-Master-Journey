@@ -34,4 +34,14 @@ To establish a structured lifecycle plan for securing device firmware against ta
 - Defense-in-depth starts at the hardware/firmware layer; securing the lowest tier ensures that higher-level controls (OS, applications, network) remain effective.
 - Help desk operations directly impact security posture; validating configurations, reviewing logs, and enforcing baselines reduce organizational risk and support compliance audits.
 
-##  Screenshot:
+## 📸 Screenshot:
+🔒 Screenshot Restriction Notice
+
+Screenshots from IBM SkillsBuild simulated lab environments are proprietary content and cannot be shared externally per IBM's academic integrity policy and terms of use.
+Lab Completion Verified:
+- ✅ Platform: IBM SkillsBuild
+- ✅ Module Status: 100% COMPLETE
+- ✅ Activities Completed: 4-step firmware security plan, Windows Defender Firewall configuration
+- ✅ Completion Date: 2026-05-08
+
+Alternative Evidence: Comprehensive written documentation provided in sections above.

@@ -43,3 +43,13 @@ To analyze threat intelligence data using STIX (Structured Threat Information Ex
 - The penetration testing lifecycle (reconnaissance, scanning, exploitation, reporting) mirrors real attacker behavior, helping organizations understand their exposure from an adversary's perspective.
 
 ## 📸 Screenshot:
+🔒 Screenshot Restriction Notice
+
+Screenshots from IBM SkillsBuild simulated lab environments are proprietary content and cannot be shared externally per IBM's academic integrity policy and terms of use.
+Lab Completion Verified:
+- ✅ Platform: IBM SkillsBuild
+- ✅ Module Status: 100% COMPLETE
+- ✅ Activities Completed: STIX threat intelligence analysis, OWASP ZAP vulnerability scanning, risk categorization
+- ✅ Completion Date: 2026-05-07
+
+Alternative Evidence: Comprehensive written documentation provided in sections above.

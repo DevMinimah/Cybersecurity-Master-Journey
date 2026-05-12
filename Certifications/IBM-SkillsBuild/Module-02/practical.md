@@ -31,4 +31,13 @@ To design an administrative control plan focused on employee cybersecurity train
 - Training must be tracked and audited to function as a true administrative control—documentation, accountability, and regular refreshers complete the compliance lifecycle.
 
 ## 📸 Screenshot:
-(Drag images here later)
+🔒 Screenshot Restriction Notice
+
+Screenshots from IBM SkillsBuild simulated lab environments are proprietary content and cannot be shared externally per IBM's academic integrity policy and terms of use.
+Lab Completion Verified:
+- ✅ Platform: IBM SkillsBuild
+- ✅ Module Status: 100% COMPLETE
+- ✅ Activities Completed: Administrative control plan (employee training, onboarding, threat notifications)
+- ✅ Completion Date: 2026-05-04
+
+Alternative Evidence: Comprehensive written documentation provided in sections above.

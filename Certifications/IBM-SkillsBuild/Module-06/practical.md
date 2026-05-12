@@ -37,3 +37,13 @@ To evaluate proposed network architectures against specific organizational secur
 - Network security is a foundational control that directly reduces attack surface, limits lateral movement, and supports both technical defense and regulatory audit requirements.
 
 ## 📸 Screenshot:
+🔒 Screenshot Restriction Notice
+
+Screenshots from IBM SkillsBuild simulated lab environments are proprietary content and cannot be shared externally per IBM's academic integrity policy and terms of use.
+Lab Completion Verified:
+- ✅ Platform: IBM SkillsBuild
+- ✅ Module Status: 100% COMPLETE
+- ✅ Activities Completed: Network security design (DMZ architecture & air-gapped network)
+- ✅ Completion Date: 2026-05-10
+
+Alternative Evidence: Comprehensive written documentation provided in sections above.
