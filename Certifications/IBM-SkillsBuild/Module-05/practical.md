@@ -1,4 +1,4 @@
-# Module 05: Firmware & Endpoint Security - Practical Lab
+# Module 05: Firmware & Endpoint Security - Practical Activity
 
 ## 📅 Date Started: 2026-05-08
 ## 📅 Date Completed: 2026-08
