@@ -1,7 +1,7 @@
 # Module 02: Administrative Controls & Compliance - Practical Activity
 
-## 📅 Date Started: 2026-05-06
-## 📅 Date Completed: 2026-05-07
+## 📅 Date Started: 2026-05-03
+## 📅 Date Completed: 2026-05-04
 
 ## 🧪 Activity Type:
 Scenario-based Cybersecurity administrative simulation (policy design & compliance planning)
