@@ -5,11 +5,14 @@
 ---
 
 ## 📊 Quick Stats
+
 | Metric | Value |
-| 🎓 Certifications in Progress | 2 |
-| ✅ Modules Completed | 4 |
-| 🏆 Capstones Finished | 2 |
-| 🔧 Labs Documented |  |
+|--------|-------|
+| ✅ Certifications Completed | 2 |
+| 🟡 Certifications in Progress | 1 |
+| ✅ Modules/Courses Completed | 1-8 |
+| 🏆 Capstones Finished | 4 |
+| 📝 Practical Activities Documented | 12 |
 
 ---
 
