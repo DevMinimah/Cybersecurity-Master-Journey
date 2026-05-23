@@ -24,7 +24,7 @@ Click any domain to view theory notes & practical activities:
 | Domain | Certificate | Download |
 |--------|-------------|----------|
 | 01 | Security Principles | [📄 View PDF](../../Assets/certificates/isc2/isc2-domain-01-security-principles.pdf) |
-| 02 | Incident Response, BC & DR | [📄 View PDF](../../Assets/certificates/isc2/isc2-domain-02-incident-response.pdf) |
+| 02 | Incident Response, BC & DR | [📄View PDF](../../Assets/certificates/isc2/isc2-domain-02-incident-response.pdf) |
 | 03 | Access Control Concepts | [📄 View PDF](../../Assets/certificates/isc2/isc2-domain-03-access-control.pdf) |
 | 04 | Network Security | [📄 View PDF](../../Assets/certificates/isc2/isc2-domain-04-network-security.pdf) |
 | 05 | Security Operations | [📄 View PDF](../../Assets/certificates/isc2/isc2-domain-05-security-operations.pdf) |
