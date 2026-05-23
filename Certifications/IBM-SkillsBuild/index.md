@@ -39,7 +39,7 @@
 | 🔹 Capstone 1 | Mod 01 + 02 | Evaluate an Organization's Data Security Posture | [View](./Capstones/Capstone-1/) | ✅ Completed |
 | 🔹 Capstone 2 | Mod 03 + 04 | Perform an Impact Analysis to Address Vulnerabilities | [View](./Capstones/Capstone-2/) | ✅ Completed |
 | 🔹 Capstone 3 | Mod 05 + 06 | Design a Secure Network for Increased Security | [View](./Capstones/Capstone-3/) | ✅ Completed |
-| 🔹 Capstone 4 | Mod 07 + 08 | Propose Cloud Services and Security Measures | # | ⚪️ Locked |
+| 🔹 Capstone 4 | Mod 07 + 08 | Propose Cloud Services and Security Measures | [View](./Capstones/Capstone-4/) | ✅ Completed |
 | 🔹 Capstone 5 | Mod 09 + 10 | Assemble a SOC Team and Perform Security Monitoring Tasks | # | ⚪️ Locked |
 | 🔹 Capstone 6 | Mod 11 + 12 | Investigate an Incident Through Digital Forensics | # | ⚪️ Locked |
 | 🎓 Final Capstone | Mod 13 | End-to-End Security Project | # | ⚪️ Locked |
