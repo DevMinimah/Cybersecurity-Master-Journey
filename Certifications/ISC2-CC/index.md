@@ -36,5 +36,5 @@ Click any domain to view theory notes & practical activities:
 📄 [Download Certificate](../../Assets/certificates/isc2-cc-certificate.pdf)
 
 ---
-*🔙 [Back to Certifications Hub](/Certifications/)*
+*🔙 * [Back to Certifications Hub](../index.md)*
 
