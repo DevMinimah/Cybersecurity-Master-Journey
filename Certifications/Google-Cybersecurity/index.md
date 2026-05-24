@@ -1,5 +1,5 @@
 # ️ Google Cybersecurity Professional Certificate
-
+ 
 | Field | Details |
 | Status | ⚪ Not Started |
 | Platform | Coursera / Google |
@@ -19,16 +19,10 @@
 | 06 | Sound the Alarm: Detection and Response | [📖](./Course-06/theory.md) | [🔧](./Course-06/practical.md) | ⚪ Not Started |
 | 07 | Automate Cybersecurity Tasks with Python | [📖](./Course-07/theory.md) | [🔧](./Course-07/practical.md) | ⚪ Not Started |
 | 08 | Put It to Work: Prepare for Cybersecurity Jobs | [📖](./Course-08/theory.md) | [🔧](./Course-08/practical.md) | ⚪ Not Started |
+| 08 | Accelerate Your Job Search with AI | [📖](./Course-09/theory.md) | [🔧](./Course-09/practical.md) | ⚪ Not Started |
 
 ---
-## 🏆 Capstone Project
-
-| Capstone | Focus Area | Status |
-|----------|------------|--------|
-| Final Capstone | End-to-End Security Assessment | ⚪ Locked |
-
----
-> 💡 Note: Links are placeholders. I'll activate them as you complete each course.
+> 💡 Note: Links are placeholders. I'll activate them as I complete each course.
 
 ---
 *🔙 [Back to Certifications Hub](../index.md)*
