@@ -35,14 +35,15 @@ To evaluate and distinguish between standard SOC models (In-house, V-SOCaaS, Hyb
 - Role Specialization: A successful SOC requires a diverse team with specialized roles. Proper assignment ensures that incidents are escalated correctly and handled by personnel with the appropriate level of expertise.
 
 ## 📸 Screenshot:
-🔒 Screenshot Restriction Notice
+🔒 **Screenshot Restriction Notice**
 
 Screenshots from IBM SkillsBuild simulated lab environments are proprietary content and cannot be shared externally per IBM's academic integrity policy and terms of use.
 
-Lab Completion Verified:
+**Lab Completion Verified:**
 - ✅ Platform: IBM SkillsBuild
 - ✅ Module Status: 100% COMPLETE
 - ✅ Activities Completed: SOC model selection for Marsh Entertainment and Sunlight Enterprises, SOC role assignment activity
-- ✅ Completion Date: 2026-05-24
+- ✅ Completion Date: 2026-05-21
 
-Alternative Evidence: Comprehensive written documentation provided in sections above.
+**Alternative Evidence:** Comprehensive written documentation provided in sections above.
+```
