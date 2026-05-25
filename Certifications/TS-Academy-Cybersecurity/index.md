@@ -28,4 +28,4 @@
 |----------|------------|--------|
 | Final Capstone | Defend & Respond | ⚪ Locked |
 
-*🔙 [Back to Certifications Hub](../index.md)*-
+*🔙 [Back to Certifications Hub](../index.md)*
