@@ -19,7 +19,7 @@
 | 06 | Sound the Alarm: Detection and Response | [📖](./Course-06/theory.md) | [🔧](./Course-06/practical.md) | ⚪ Not Started |
 | 07 | Automate Cybersecurity Tasks with Python | [📖](./Course-07/theory.md) | [🔧](./Course-07/practical.md) | ⚪ Not Started |
 | 08 | Put It to Work: Prepare for Cybersecurity Jobs | [📖](./Course-08/theory.md) | [🔧](./Course-08/practical.md) | ⚪ Not Started |
-| 08 | Accelerate Your Job Search with AI | [📖](./Course-09/theory.md) | [🔧](./Course-09/practical.md) | ⚪ Not Started |
+| 09 | Accelerate Your Job Search with AI | [📖](./Course-09/theory.md) | [🔧](./Course-09/practical.md) | ⚪ Not Started |
 
 ---
 > 💡 Note: Links are placeholders. I'll activate them as I complete each course.
