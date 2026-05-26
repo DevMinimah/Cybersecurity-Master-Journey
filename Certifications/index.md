@@ -8,7 +8,7 @@
 
 ## 🟡 In Progress
 - [IBM-SkillsBuild Cybersecurity Certificate](./IBM-SkillsBuild/index.md) — Modules 1-10 Started
-- [Google Cybersecurity Professional Certificate](./Google-Cybersecurity/index.md) 1 Started
+- [Google Cybersecurity Professional Certificate](./Google-Cybersecurity/index.md) — Course 1 Started
 - [TS Academy Cybersecurity](./TS-Academy-Cybersecurity/index.md) — Planned
 - [Microsoft Certified: Security Operations Analyst Associate](./Microsoft-Security/) — Planned
 
