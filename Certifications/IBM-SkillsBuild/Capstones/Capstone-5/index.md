@@ -22,7 +22,7 @@ Design a tailored Security Operations Center (SOC) model for diverse organizatio
 ## 👥 Phase 2: SOC Team Assembly & Role Assignment
 - Action: Screened 7 candidates against technical certifications, experience, and operational skills
 - Advancement Rate: 71% (5/7 candidates advanced to role assignment)
-- Roles Filled: SOC Manager, Tier 1/2 Analysts, Security Engineer, Incident Responder
+- Roles Filled: Communication Specialist, Security Analysts, Security Engineer, Vulnerability Assessment Specialist and Threat Hunter
 - Methodology: Matched skill sets to responsibility tiers, ensuring complementary coverage and 100% role-assignment accuracy
 - Outcome: Built a balanced, operationally ready SOC team with clear escalation paths and specialized expertise
 
