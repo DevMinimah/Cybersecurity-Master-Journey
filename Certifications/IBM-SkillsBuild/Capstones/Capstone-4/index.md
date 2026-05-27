@@ -86,7 +86,7 @@ Upon completion, I can confidently:
 | Credential | IBM SkillsBuild: Cloud Security |
 | Issued | May 23, 2026 |
 | Credential ID | 960774b1-b037-4f92-ac1d-e31d0828dd81 |
-| Verify | [🔗 View Badge](https://www.credly.com/badges/960774b1-b037-4f92-ac1d-e31d0828dd81/public_url) |
+| Verify | [🔗 View on Credly](https://www.credly.com/badges/960774b1-b037-4f92-ac1d-e31d0828dd81/public_url) |
 
 ### Badge Display
 ![IBM SkillsBuild Badge](../../Assets/badges/cloud-security.png)
