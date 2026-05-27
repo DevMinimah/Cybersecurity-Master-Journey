@@ -1,8 +1,8 @@
 # Capstone 1: Evaluate an Organization's Data Security Posture
-## 🏥 Cedarville Family Health Clinic
+## 🏥 A Family Health Clinic
 
 > 🎓 Simulation-Based Capstone Project  
-> *This evaluation was completed as part of the IBM SkillsBuild Cybersecurity Certificate program. Cedarville Family Health Clinic is a simulated healthcare scenario created for educational purposes. All findings, recommendations, and artifacts are based on the simulated environment and demonstrate applied learning of HIPAA compliance, risk assessment, and data security principles.*
+> *This evaluation was completed as part of the IBM SkillsBuild Cybersecurity Certificate program. The Family Health Clinic is a simulated healthcare scenario created for educational purposes. All findings, recommendations, and artifacts are based on the simulated environment and demonstrate applied learning of HIPAA compliance, risk assessment, and data security principles.*
 
 ---
 
@@ -93,7 +93,7 @@ Recommendations for Improvement:
 ---
 
 ## 💡 What I Learned
-Evaluating Cedarville Family Health Clinic highlighted the critical gap between *having policies* and *implementing technical safeguards*. In healthcare, even well-intentioned manual processes (like carrying a backup drive in a purse) can violate HIPAA and expose clinics to severe financial, legal, and reputational risk. 
+Evaluating The Family Health Clinic highlighted the critical gap between *having policies* and *implementing technical safeguards*. In healthcare, even well-intentioned manual processes (like carrying a backup drive in a purse) can violate HIPAA and expose clinics to severe financial, legal, and reputational risk. 
 
 I learned that true security posture requires defense-in-depth: encryption everywhere, automated tested backups, strict access controls, and continuous staff training. Most importantly, compliance isn't a checklist, it's an operational culture that must be validated through regular testing and documentation.
 

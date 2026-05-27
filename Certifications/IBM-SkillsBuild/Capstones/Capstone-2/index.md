@@ -1,8 +1,8 @@
 # Capstone 2: Perform an Impact Analysis to Address Vulnerabilities
-## 🏢 Capital Ink Publishing - Cybersecurity Risk Assessment
+## 🏢 A Publishing Company - Cybersecurity Risk Assessment
 
 > 🎓 Simulation-Based Capstone Project  
-> *This assessment was completed as part of the IBM SkillsBuild Cybersecurity Certificate program. Capital Ink Publishing is a simulated digital publishing scenario created for educational purposes. All findings, recommendations, and artifacts demonstrate applied learning of vulnerability analysis, impact assessment, and risk mitigation.*
+> *This assessment was completed as part of the IBM SkillsBuild Cybersecurity Certificate program. The publishing company is a simulated digital publishing scenario created for educational purposes. All findings, recommendations, and artifacts demonstrate applied learning of vulnerability analysis, impact assessment, and risk mitigation.*
 
 ---
 

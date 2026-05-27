@@ -1,8 +1,8 @@
 # Capstone 4: Propose Cloud Services and Security Measures
-## ☁️ Cloud Migration & Security Architecture for Jasper Manufacturing
+## ☁️ Cloud Migration & Security Architecture for A Manufacturing Company
 
 > 🎓 Simulation-Based Capstone Project  
-> *Completed as part of the IBM SkillsBuild Cybersecurity Certificate program. Jasper Manufacturing is a simulated small manufacturing scenario created for educational purposes. All architecture designs, threat models, and security recommendations demonstrate applied learning in cloud strategy, risk assessment, and defense-in-depth implementation.*
+> *Completed as part of the IBM SkillsBuild Cybersecurity Certificate program. The Manufacturing company is a simulated small manufacturing scenario created for educational purposes. All architecture designs, threat models, and security recommendations demonstrate applied learning in cloud strategy, risk assessment, and defense-in-depth implementation.*
 
 ---
 
