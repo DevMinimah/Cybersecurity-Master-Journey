@@ -13,7 +13,6 @@ Scenario-based professional simulation: Acting as a security analyst to respond 
 To apply incident response frameworks by assessing a brute force attack threat through SIEM analysis, implementing immediate mitigation measures including firewall blocking and password policy updates, establishing continuous monitoring capabilities, and documenting comprehensive incident reports with lessons learned for organizational security improvement.
 
 ## 🛠 Tools Used:
-- Adobe file editor
 - Splunk Enterprise (SIEM platform)
 - Network firewall configuration interface
 - Microsoft Excel (incident documentation)
