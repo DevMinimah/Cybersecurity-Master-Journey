@@ -10,10 +10,10 @@
 - [IBM SkillsBuild Cybersecurity Certificate](./IBM-SkillsBuild-Cybersecurity-Certificate/index.md) — Modules 1-11 Started
 - [Google Cybersecurity Professional Certificate](./Google-Cybersecurity/index.md) — Course 1 Started
 - [TS Academy Cybersecurity](./TS-Academy-Cybersecurity/index.md) — Planned
-- [Microsoft Certified: Security Operations Analyst Associate](./Microsoft-Security/) — Planned
+- [Microsoft Certified: Security Operations Analyst Associate](./Microsoft-Security-Operations-Analyst/index.md) — Planned
 - [IBM SkillsBuild Information Security Specialist](./IBM-InfoSec-Specialist/index.md) — Planned
 
-
+ — ⚪ Not Started
 
 ---
 *🔙 [Back to Home](../README.md)*

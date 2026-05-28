@@ -24,7 +24,7 @@
 | Google Cybersecurity Professional Certificate | Google/Coursera | 1/9 Courses | 🟡 In Progress |
 | Cybersecurity | TS Academy | 0/7 Modules | ⚪ Planned |
 | IBM SkillsBuild Information Security Specialist Certificate | IBM SkillsBuild | 12 Courses | ⚪ Planned |                                                                       
-| Microsoft Cybers Architect Expert | Microsoft Learn | 0/5 Paths | ⚪ Planned |
+| Microsoft Certified: Security Operations Analyst Associate | Microsoft Learn | 0/5 Paths | ⚪ Planned |
 
 
 👉 [View Detailed Progress & All Certifications](./Certifications/index.md)
