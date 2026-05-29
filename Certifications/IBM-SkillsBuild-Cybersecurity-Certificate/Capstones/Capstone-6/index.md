@@ -32,7 +32,7 @@ Execute a comprehensive digital forensics investigation into a simulated data br
 - Tool Used: AccessData FTK Imager
 - Action: Created bit-for-bit forensic image of target physical media
 - Verification: Validated image integrity using cryptographic hash comparison (MD5/SHA-1) between original and forensic copy
-- Principle Applied: "Never analyze original evidence" — work exclusively on verified forensic replicas
+- Principle Applied: Never analyze original evidence, work exclusively on verified forensic replicas
 - Outcome: Exact replica created with verified integrity, ready for analysis
 
 ---
