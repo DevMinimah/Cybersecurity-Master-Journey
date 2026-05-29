@@ -6,8 +6,8 @@
 | Modules Completed | 12/13 |
 | Practical Activity Done | 12/13 |
 | Capstones Passed | 6/7 |
-| Expected Completion | 2026-Q3 |
 | Verify Credential | [🔗 IBM Digital Badge Link] |
+
 
 ---
 
