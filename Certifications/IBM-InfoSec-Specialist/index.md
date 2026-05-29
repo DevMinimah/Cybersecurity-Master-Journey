@@ -7,8 +7,6 @@
 | Capstones/Hands-On Labs Passed | 0/6 |
 | Verify Credential | [🔗 IBM Digital Badge Link] |
 
-# 🛡️ IBM SkillsBuild: Information Security Specialist Certificate
-
 ---
 
 ## 📚 Module Progress by Domain
