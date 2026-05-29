@@ -48,7 +48,7 @@
 
 ---
 
-## 🛠️ Hands-On Lab Projects
+## 🛠️ Capstones/Hands-On Labs Projects
 
 | Lab | Title | Documentation | Status |
 |-----|-------|---------------|--------|
