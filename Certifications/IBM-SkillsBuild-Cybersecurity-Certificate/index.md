@@ -3,9 +3,9 @@
 
 | Field | Details |
 | Status | 🟡 In Progress |
-| Modules Completed | 11/13 |
+| Modules Completed | 12/13 |
 | Practical Activity Done | 12/13 |
-| Capstones Passed | 5/7 |
+| Capstones Passed | 6/7 |
 | Expected Completion | 2026-Q3 |
 | Verify Credential | [🔗 IBM Digital Badge Link] |
 
@@ -41,7 +41,7 @@
 | 🔹 Capstone 3 | Mod 05 + 06 | Design a Secure Network for Increased Security | [View](./Capstones/Capstone-3/) | ✅ Completed |
 | 🔹 Capstone 4 | Mod 07 + 08 | Propose Cloud Services and Security Measures | [View](./Capstones/Capstone-4/) | ✅ Completed |
 | 🔹 Capstone 5 | Mod 09 + 10 | Assemble a SOC Team and Perform Security Monitoring Tasks | [View](./Capstones/Capstone-5/) | ✅ Completed |
-| 🔹 Capstone 6 | Mod 11 + 12 | Investigate an Incident Through Digital Forensics | # | ⚪️ Locked |
+| 🔹 Capstone 6 | Mod 11 + 12 | Investigate an Incident Through Digital Forensics | [View](./Capstones/Capstone-6/) | ✅ Completed |
 | 🎓 Final Capstone | Mod 13 | End-to-End Security Project | # | ⚪️ Locked |
 
 > 💡 Program Structure: Capstones are completed sequentially after each module pair, validating applied skills before microcredential eligibility. Completed capstones include full documentation, deliverables, and verified credentials.
