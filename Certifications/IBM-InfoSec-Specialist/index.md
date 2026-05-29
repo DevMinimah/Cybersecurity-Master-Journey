@@ -1,18 +1,20 @@
 # 🛡️ IBM SkillsBuild: Information Security Specialist Certificate
 
 | Field | Details |
-|-------|---------|
 | Status | ⚪ Not Started |
-| Platform | IBM SkillsBuild |
-| Modules | 0/13 Completed |
-| Domains | 0/4 Completed |
-| Hands-On Labs | 0/6 Completed |
+| Modules Completed | 0/13 |
+| Practical Activity Done | 0/13 |
+| Capstones/Hands-On Labs Passed | 0/6 |
+| Verify Credential | [🔗 IBM Digital Badge Link] |
+
+# 🛡️ IBM SkillsBuild: Information Security Specialist Certificate
 
 ---
 
 ## 📚 Module Progress by Domain
 
 ### 🏛️ Domain 1: Governance, Risk, Compliance, and Data Privacy
+
 | Module | Title | Theory | Practical | Status |
 |--------|-------|--------|-----------|--------|
 | 01 | Introduction to Information Security Governance | [📖](./Module-01/theory.md) | [🔧](./Module-01/practical.md) | ⚪ Not Started |
@@ -21,6 +23,7 @@
 | 04 | Data Privacy Principles and Global Regulations (GDPR/CCPA) | [📖](./Module-04/theory.md) | [🔧](./Module-04/practical.md) | ⚪ Not Started |
 
 ### 🔍 Domain 2: Vulnerability Management
+
 | Module | Title | Theory | Practical | Status |
 |--------|-------|--------|-----------|--------|
 | 05 | Vulnerability Identification and Asset Mapping | [📖](./Module-05/theory.md) | [🔧](./Module-05/practical.md) | ⚪ Not Started |
@@ -28,6 +31,7 @@
 | 07 | Threat Intelligence Integration and Analysis | [📖](./Module-07/theory.md) | [🔧](./Module-07/practical.md) | ⚪ Not Started |
 
 ### 🌐 Domain 3: System and Network Security
+
 | Module | Title | Theory | Practical | Status |
 |--------|-------|--------|-----------|--------|
 | 08 | Network Security Architectures and Defensive Controls | [📖](./Module-08/theory.md) | [🔧](./Module-08/practical.md) | ⚪ Not Started |
@@ -35,6 +39,7 @@
 | 10 | Identity and Access Management (IAM) Implementation | [📖](./Module-10/theory.md) | [🔧](./Module-10/practical.md) | ⚪ Not Started |
 
 ### ☁️ Domain 4: Cloud Security
+
 | Module | Title | Theory | Practical | Status |
 |--------|-------|--------|-----------|--------|
 | 11 | Cloud Infrastructure and Architecture Security | [📖](./Module-11/theory.md) | [🔧](./Module-11/practical.md) | ⚪ Not Started |
@@ -55,4 +60,5 @@
 | 06 | Comprehensive Security Audit and Compliance Report | # | ⚪ Locked |
 
 ---
+
 *🔙 [Back to Certifications Hub](../index.md)*
