@@ -26,6 +26,3 @@
 - [IBM SkillsBuild - Data and Privacy Course](https://skillsbuild.org)
 - [CIA Triad Explained](https://www.ibm.com/security/cia-triad)
 - [EC-Council Certified Encryption Specialist](https://www.eccouncil.org)
-
-## 📸 Screenshots:
-*(Screenshots captured )*

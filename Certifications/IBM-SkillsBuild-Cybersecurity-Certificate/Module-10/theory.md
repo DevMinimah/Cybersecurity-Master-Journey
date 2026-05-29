@@ -27,6 +27,3 @@
 - [IBM SIEM](https://www.ibm.com/think/topics/siem)
 - [What is Splunk](https://www.fortinet.com/resources/cyberglossary/what-is-splunk)
 - [NSLookup Command](https://monovm.com/blog/nslookup-command/)
-
-## 📸 Screenshots:
-*(Module 10 completion)*

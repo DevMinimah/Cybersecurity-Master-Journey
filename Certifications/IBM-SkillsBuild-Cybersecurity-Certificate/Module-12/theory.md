@@ -29,6 +29,3 @@
 - [NIST Digital Forensics Definition](https://csrc.nist.gov/glossary/term/digital_forensics)
 - [What is Digital Forensics - EC-Council](https://www.eccouncil.org/cybersecurity/what-is-digital-forensics)
 - [NIST SP 800-86: Guide to Integrating Forensic Techniques into Incident Response](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-86.pdf)
-
-## 📸 Screenshots:
-*( Module 12 completion )*

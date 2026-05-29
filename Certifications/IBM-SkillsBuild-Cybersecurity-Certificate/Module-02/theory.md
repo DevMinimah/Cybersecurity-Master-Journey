@@ -20,7 +20,3 @@
 - [IBM SkillsBuild - Governance, Risk, and Compliance](https://skillsbuild.org)
 - [NIST Risk Management Framework](https://csrc.nist.gov/projects/risk-management)
 - [Key Issues-General Data Protection Regulation](https://gdpr-info.eu/issues)
-
-
-## 📸 Screenshots:
-*(Screenshots captured )*

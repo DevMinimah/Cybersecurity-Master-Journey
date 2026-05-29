@@ -31,6 +31,3 @@
 - [MITRE ATT&CK Framework](https://attack.mitre.org/)
 - [IBM SIEM](https://www.ibm.com/think/topics/siem)
 - [What is Splunk](https://www.fortinet.com/resources/cyberglossary/what-is-splunk)
-
-## 📸 Screenshots:
-*(Module 11 completion)*

@@ -28,6 +28,3 @@
 - [Cybersecurity and Infrastructure Security Agency (CISA)](https://www.cisa.gov/)
 - [Introduction to STIX](https://oasis-open.github.io/cti-documentation/stix/intro.html)
 - [CompTIA PenTest+ Certification](https://www.comptia.org/certifications/pentest)
-
-## 📸 Screenshots:
-*(Module 04 completion)*

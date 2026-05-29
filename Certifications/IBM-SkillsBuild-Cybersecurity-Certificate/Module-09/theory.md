@@ -24,5 +24,3 @@
 - [IBM SkillsBuild - Security Operations](https://skillsbuild.org)
 - [IBM Security Operations Center](https://www.ibm.com/think/topics/security-operations-center)
 
-## 📸 Screenshots:
-*(Module 09 completion)*

@@ -38,4 +38,3 @@ To identify, analyze, and mitigate endpoint threats (adware, spyware, malware) u
 ## 📸 Screenshot:
 ![Module 03 Malwarebytes Scan for malwares](<Malwarebytes Scan.jpg>)
 ![Module 03 adware/spyware detection & removal](<AdwCleaner Scan.jpg>)
-![Module 03 Physical Security Layout](<Physical Security Control.png>)

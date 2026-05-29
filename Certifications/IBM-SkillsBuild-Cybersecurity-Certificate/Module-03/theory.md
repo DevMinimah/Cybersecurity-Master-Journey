@@ -26,6 +26,3 @@
 - [What is Ransomware](https://youtu.be/imNfrtvYYbw?si=8doJf0KyJ-WRGTL6)
 - [What are Insider Threats](https://www.ibm.com/think/topics/insider-threats)
 - [7 Examples of Real-Life Data Breaches Caused by Insider Threats](https://www.syteca.com/en/blog/real-life-examples-insider-threat-caused-breaches)
-
-## 📸 Screenshots:
-*(Add your Module 03 completion screenshots here)

@@ -22,6 +22,3 @@
 - [IBM SkillsBuild - Cloud Computing and Virtualization](https://skillsbuild.org)
 - [IBM Private Cloud](https://www.ibm.com/topics/private-cloud)
 - [HPE Cloud Services](https://www.hpe.com/us/en/what-is/cloud-services.html)
-
-## 📸 Screenshots:
-*(Add your Module 07 completion screenshots here)*

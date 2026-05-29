@@ -24,6 +24,3 @@
 - [IBM QRadar Network Security](https://www.ibm.com/qradar/network-security)
 - [CompTIA Network+ Certification](https://www.comptia.org/certifications/network)
 - [Merriam-Webster: Computer Terms Origins](https://www.merriam-webster.com/wordplay/word-origins-computer-terms)
-
-## 📸 Screenshots:
-*(Module 06 completion)*

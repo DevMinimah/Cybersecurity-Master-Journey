@@ -25,6 +25,3 @@
 ## 🔗 Links/Resources:
 - [IBM SkillsBuild - System Security](https://skillsbuild.org)
 - [Red Hat Certified System Administrator](https://www.redhat.com/en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam)
-
-## 📸 Screenshots:
-*(Module 05 completion)*

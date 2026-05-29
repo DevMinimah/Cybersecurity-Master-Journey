@@ -26,6 +26,3 @@
 - [IBM Cloud Security](https://www.ibm.com/cloud-security)
 - [CISA Cloud Security Technical Reference Architecture](https://www.cisa.gov/resources-tools/resources/cloud-security-technical-reference-architecture)
 - [Understanding CASB, CWPP, CSPM, and CNAPP](https://www.uptycs.com/blog/whats-the-difference-between-casb-cwpp-cspm-and-cnapp)
-
-## 📸 Screenshots:
-*(Module 08 completion)*
