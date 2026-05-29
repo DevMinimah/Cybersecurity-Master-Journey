@@ -4,7 +4,7 @@
 | Field | Details |
 | Status | 🟡 In Progress |
 | Modules Completed | 11/13 |
-| Practical Activity Done | 11/13 |
+| Practical Activity Done | 12/13 |
 | Capstones Passed | 5/7 |
 | Expected Completion | 2026-Q3 |
 | Verify Credential | [🔗 IBM Digital Badge Link] |
@@ -27,7 +27,7 @@
 | 09 | [Security Operations](./Module-09/theory.md) | [📖 View](./Module-09/theory.md) | [🔧 View](./Module-09/practical.md) | ✅ Completed |
 | 10 | [Security Monitoring](./Module-10/theory.md) | [📖 View](./Module-10/theory.md) | [🔧 View](./Module-10/practical.md) | ✅ Completed |
 | 11 | [Incident Response](./Module-11/theory.md) | [📖 View](./Module-11/theory.md) | [🔧 View](./Module-11/practical.md) | ✅ Completed |
-| 12 | [Digital System Forensics](./Module-12/theory.md) | [📖 View](./Module-12/theory.md) | [🔧 View](./Module-12/practical.md) | 🟡 In Progress |
+| 12 | [Digital System Forensics](./Module-12/theory.md) | [📖 View](./Module-12/theory.md) | [🔧 View](./Module-12/practical.md) | ✅ Completed |
 | 13 | [🎓 Final Capstone](./Module-13/theory.md) | [📖 View](./Module-13/theory.md) | [🔧 View](./Module-13/practical.md) | ⚪️ Not Started |
 
 ---

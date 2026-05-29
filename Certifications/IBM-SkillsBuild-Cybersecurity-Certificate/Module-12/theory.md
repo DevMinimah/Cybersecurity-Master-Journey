@@ -16,7 +16,7 @@
 
 ## 💡 Key Takeaways:
 - Digital forensics is critical for incident response, legal proceedings, and understanding the scope of security breaches
-- Chain of custody is non-negotiable—improper evidence handling can render findings inadmissible in court
+- Chain of custody is non-negotiable, improper evidence handling can render findings inadmissible in court
 - The four-phase forensic process provides a systematic, repeatable methodology that ensures thorough investigations
 - Forensic imaging creates bit-for-bit copies that preserve the original evidence, maintaining its integrity for analysis and legal proceedings
 - Data recovery techniques can uncover deleted files, hidden partitions, and artifacts that attackers may have tried to conceal
