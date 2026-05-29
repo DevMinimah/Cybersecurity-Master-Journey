@@ -1,4 +1,4 @@
-# Module 12: Digital System Forensics - Practical Lab
+# Module 12: Digital System Forensics - Practical   Activity
 
 ## 📅 Date Started: 2026-05-27
 ## 📅 Date Completed: 2026-05-28
