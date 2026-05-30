@@ -3,7 +3,7 @@
 | Field | Details |
 | Status | 🟡 In Progress |
 | Platform | Coursera / Google |
-| Courses | 0/8 Completed |
+| Courses | 1/8 Completed |
 | Capstones | 0/1 Completed |
 
 
@@ -11,8 +11,8 @@
 
 | Course | Title | Theory | Practical | Status |
 |--------|-------|--------|-----------|--------|
-| 01 | Foundations of Cybersecurity | [📖](./Course-01/theory.md) | [🔧](./Course-01/practical.md) | 🟡 In Progress |
-| 02 | Play It Safe: Manage Security Risks | [📖](./Course-02/theory.md) | [🔧](./Course-02/practical.md) | ⚪ Not Started |
+| 01 | Foundations of Cybersecurity | [📖](./Course-01/theory.md) | [🔧](./Course-01/practical.md) | ✅ Completed |
+| 02 | Play It Safe: Manage Security Risks | [📖](./Course-02/theory.md) | [🔧](./Course-02/practical.md) | 🟡 In Progress |
 | 03 | Connect and Protect: Networks and Network Security | [📖](./Course-03/theory.md) | [🔧](./Course-03/practical.md) | ⚪ Not Started |
 | 04 | Tools of the Trade: Linux and SQL | [📖](./Course-04/theory.md) | [🔧](./Course-04/practical.md) | ⚪ Not Started |
 | 05 | Assets, Threats, and Vulnerabilities | [📖](./Course-05/theory.md) | [🔧](./Course-05/practical.md) | ⚪ Not Started |
