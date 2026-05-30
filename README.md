@@ -20,6 +20,7 @@
 *Hands-on proficiency gained through IBM SkillsBuild, ISC2, and practical labs.*
 
 ### 🔍 Digital Forensics, Incident Response & SIEM
+
 | Tool | Proficiency | Use Case |
 |------|------------|----------|
 | FTK Imager | Intermediate | Forensic disk imaging, hash verification, write-blocker simulation |
@@ -28,6 +29,7 @@
 | NIST IR Framework | Working Knowledge | Incident lifecycle management, containment strategies, evidence handling |
 
 ### 🌐 Network Security & Reconnaissance
+
 | Tool | Proficiency | Use Case |
 |------|------------|----------|
 | Nmap / Zenmap GUI | Intermediate | Port scanning, service detection, OS fingerprinting, topology mapping |
@@ -36,26 +38,30 @@
 | TCP/IP Suite | Working Knowledge | Network communication analysis, subnetting, routing concepts |
 
 ### ⚔️ Offensive Security & Penetration Testing
+
 | Tool | Proficiency | Use Case |
 |------|------------|----------|
 | Kali Linux | Working Knowledge | Consolidated pentesting environment for reconnaissance, exploitation, and reporting |
 | OWASP ZAP | Familiar | Automated web app scanning, manual security testing, API security validation |
 | Metasploit Framework | Familiar | Exploit development practice, payload generation, post-exploitation concepts |
 
-### 🖥️ Virtualization & Lab Infrastructure
+### ️ Virtualization & Lab Infrastructure
+
 | Tool | Proficiency | Use Case |
 |------|------------|----------|
 | VirtualBox | Intermediate | Isolated lab environments, multi-OS testing, safe malware analysis practice |
 | VMware Workstation | Familiar | Alternative virtualization for network simulation and tool testing |
 | Docker (Basic) | Familiar | Containerized security tool deployment, reproducible lab setups |
 
-### ☁️ Cloud & Infrastructure Security
+### ️ Cloud & Infrastructure Security
+
 | Tool/Platform | Proficiency | Use Case |
 |--------------|------------|----------|
 | AWS / Azure Concepts | Foundational | Shared responsibility model, IAM, security groups, cloud logging |
 | Cloud Security Posture | Working Knowledge | Misconfiguration detection, data tiering, hybrid architecture planning |
 
 ### 🏛️ Governance, Risk & Compliance
+
 | Framework/Standard | Proficiency | Application |
 |-------------------|------------|-------------|
 | NIST Cybersecurity Framework | Working Knowledge | Control mapping, risk assessment, policy alignment |
@@ -63,6 +69,7 @@
 | GDPR / CCPA Concepts | Foundational | Data privacy principles, breach notification, consent management |
 
 ### 💻 Development & Portfolio Infrastructure
+
 | Tool | Proficiency | Use Case |
 |------|------------|----------|
 | Git / GitHub | Intermediate | Version control, portfolio hosting, collaboration workflows |
