@@ -28,7 +28,7 @@
 | 10 | [Security Monitoring](./Module-10/theory.md) | [📖 View](./Module-10/theory.md) | [🔧 View](./Module-10/practical.md) | ✅ Completed |
 | 11 | [Incident Response](./Module-11/theory.md) | [📖 View](./Module-11/theory.md) | [🔧 View](./Module-11/practical.md) | ✅ Completed |
 | 12 | [Digital System Forensics](./Module-12/theory.md) | [📖 View](./Module-12/theory.md) | [🔧 View](./Module-12/practical.md) | ✅ Completed |
-| 13 | [Emerging Threats and the Future ofCybersecurity Technologies](./Module-13/theory.md) | [📖 View](./Module-13/theory.md) | N/A | ✅ Completed |
+| 13 | [Emerging Threats and The Future of Cybersecurity Technologies](./Module-13/theory.md) | [📖 View](./Module-13/theory.md) | N/A | ✅ Completed |
 
 ---
 
