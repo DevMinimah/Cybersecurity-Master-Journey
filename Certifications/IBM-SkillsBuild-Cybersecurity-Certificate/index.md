@@ -3,8 +3,8 @@
 
 | Field | Details |
 | Status | 🟡 In Progress |
-| Modules Completed | 12/13 |
-| Practical Activity Done | 12/13 |
+| Modules Completed | 13/13 |
+| Module Practical Activity Done | 12/12 |
 | Capstones Passed | 6/7 |
 | Verify Credential | [🔗 IBM Digital Badge Link] |
 
@@ -28,7 +28,7 @@
 | 10 | [Security Monitoring](./Module-10/theory.md) | [📖 View](./Module-10/theory.md) | [🔧 View](./Module-10/practical.md) | ✅ Completed |
 | 11 | [Incident Response](./Module-11/theory.md) | [📖 View](./Module-11/theory.md) | [🔧 View](./Module-11/practical.md) | ✅ Completed |
 | 12 | [Digital System Forensics](./Module-12/theory.md) | [📖 View](./Module-12/theory.md) | [🔧 View](./Module-12/practical.md) | ✅ Completed |
-| 13 | [🎓 Final Capstone](./Module-13/theory.md) | [📖 View](./Module-13/theory.md) | [🔧 View](./Module-13/practical.md) | ⚪️ Not Started |
+| 13 | [Emerging Threats and the Future ofCybersecurity Technologies](./Module-13/theory.md) | [📖 View](./Module-13/theory.md) | N/A | ✅ Completed |
 
 ---
 
@@ -42,7 +42,7 @@
 | 🔹 Capstone 4 | Mod 07 + 08 | Propose Cloud Services and Security Measures | [View](./Capstones/Capstone-4/) | ✅ Completed |
 | 🔹 Capstone 5 | Mod 09 + 10 | Assemble a SOC Team and Perform Security Monitoring Tasks | [View](./Capstones/Capstone-5/) | ✅ Completed |
 | 🔹 Capstone 6 | Mod 11 + 12 | Investigate an Incident Through Digital Forensics | [View](./Capstones/Capstone-6/) | ✅ Completed |
-| 🎓 Final Capstone | Mod 13 | End-to-End Security Project | # | ⚪️ Locked |
+| 🎓 Final Capstone | Capstone | End-to-End Security Project | # | ⚪️ Locked |
 
 > 💡 Program Structure: Capstones are completed sequentially after each module pair, validating applied skills before microcredential eligibility. Completed capstones include full documentation, deliverables, and verified credentials.
 
