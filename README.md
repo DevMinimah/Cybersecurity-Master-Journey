@@ -73,8 +73,12 @@
 | Tool | Proficiency | Use Case |
 |------|------------|----------|
 | Git / GitHub | Intermediate | Version control, portfolio hosting, collaboration workflows |
+| Python | Intermediate | Security automation, log parsing, custom tool scripting, API integration |
+| MySQL | Working Knowledge | Database querying, security log analysis, data extraction for reporting |
 | Markdown | Advanced | Technical documentation, README authoring, structured reporting |
 | VS Code / Text Editors | Advanced | Code editing, documentation drafting, file management |
+
+
 
 > 💡 *Proficiency Levels: Familiar = Conceptual understanding + guided labs | Working Knowledge = Hands-on practice in isolated environments | Intermediate = Confident independent use | Advanced = Teaching/optimizing others*
 
