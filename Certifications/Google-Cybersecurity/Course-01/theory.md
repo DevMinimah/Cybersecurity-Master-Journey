@@ -1,7 +1,7 @@
 # Course 01: Foundations of Cybersecurity
 
-## 📅 Date Started: 
-## 📅 Date Completed: 
+## 📅 Date Started: 2026-05-27
+## 📅 Date Completed: 2026-05-30
 
 ## 🎯 What I Learned:
 - Cybersecurity profession: Roles, responsibilities, and career pathways in the field
