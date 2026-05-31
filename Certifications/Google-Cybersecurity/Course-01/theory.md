@@ -16,11 +16,11 @@
 - Entry-level competencies: Foundational skills and knowledge required for cybersecurity roles
 
 ## 💡 Key Takeaways:
-- The CIA Triad is the foundation of all security decisions—every control should support confidentiality, integrity, or availability
+- The CIA Triad is the foundation of all security decisions, every control should support confidentiality, integrity, or availability
 - Threat actors vary in motivation and capability, requiring different defensive strategies for each type
 - Security frameworks provide structured, repeatable approaches to managing cyber risk rather than ad-hoc solutions
-- Defense-in-depth requires multiple layers of controls—no single technology or process provides complete protection
-- Compliance with regulations like HIPAA and GDPR is not optional—it's a legal requirement with significant penalties for non-compliance
+- Defense-in-depth requires multiple layers of controls no single technology or process provides complete protection
+- Compliance with regulations like HIPAA and GDPR is not optional it's a legal requirement with significant penalties for non-compliance
 - Cybersecurity is essential for protecting organizational assets, data, and operations in the digital age
 - Understanding the threat landscape and attacker tactics is fundamental to effective security practice
 - Entry-level roles require a combination of technical knowledge, analytical skills, and continuous learning
