@@ -99,7 +99,7 @@ Lead a comprehensive cybersecurity response for a professional services organiza
 ✅ Vulnerability assessment, CVSS mapping, and remediation prioritization  
 ✅ Host-based firewall configuration and Group Policy enforcement  
 ✅ Router firmware management and network device hardening  
-✅ Forensic disk imaging, hash verification, and artifact recovery FTK Imager, Autopsy)  
+✅ Forensic disk imaging, hash verification, and artifact recovery FTK Imager, Autopsy
 ✅ Chain of custody documentation and evidence preservation protocols  
 
 ### Professional Skills
@@ -134,10 +134,10 @@ Upon completion, I can confidently:
 
 | Field | Details |
 |-------|---------|
-| Credential | [Add exact IBM SkillsBuild badge name] |
-| Issued | [Add Date] |
-| Platform | IBM SkillsBuild |
-| Verify | [🔗 View Badge](https://skillsbuild.org/your-badge-url) |
+| Credential | Pending |
+| Issued | Pending |
+| Credential ID | Pending |
+| Verify | [🔗 View Badge](Pending-public_url) |
 | Progress | Final Capstone 1/2 Completed |
 
 ### Badge Display
