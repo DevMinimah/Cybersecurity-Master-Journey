@@ -77,15 +77,20 @@ Transition the organization from reactive recovery to proactive, compliant, and 
   - Integrated compliance-specific training (confidentiality protocols, privilege handling) into continuous improvement cycles
 
 ### 3. Comprehensive Risk Assessment & Mitigation
+- Objective: Identify threats, analyze business impact, and design targeted controls
 - Threat Categorization & Control Mapping:
-  | Threat Category | Specific Risk | Mitigation Control Implemented |
-  |----------------|---------------|-------------------------------|
-  | External | Phishing targeting personnel | Security awareness training + advanced email filtering |
-  | External | Physical breach of infrastructure | Enhanced facility security + access control protocols |
-  | Internal | Insider threat activity | Least privilege access + continuous behavioral monitoring |
-  | Internal | Weak credential management | Strong password policies + mandatory MFA enforcement |
+
+| Threat Category | Specific Risk | Mitigation Control Implemented |
+|----------------|---------------|--------------------------------|
+| External | Phishing targeting personnel | Security awareness training + advanced email filtering |
+| External | Physical breach of infrastructure | Enhanced facility security + access control protocols |
+| Internal | Insider threat activity | Least privilege access + continuous behavioral monitoring |
+| Internal | Weak credential management | Strong password policies + mandatory MFA enforcement |
+
 - Business Impact Analysis: Prioritized investments based on potential data loss, operational disruption, and reputational damage
 - Outcome: Risk-driven control implementation aligned with organizational tolerance and compliance obligations
+
+
 
 ### 4. Data Resilience Strategy (Backup, Recovery & Encryption)
 - Backup Plan:
