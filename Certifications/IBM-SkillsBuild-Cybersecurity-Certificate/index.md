@@ -40,8 +40,8 @@
 | 🔹 Capstone 4 | Mod 07 + 08 | Propose Cloud Services and Security Measures | [View](./Capstones/Capstone-4/) | ✅ Completed |
 | 🔹 Capstone 5 | Mod 09 + 10 | Assemble a SOC Team and Perform Security Monitoring Tasks | [View](./Capstones/Capstone-5/) | ✅ Completed |
 | 🔹 Capstone 6 | Mod 11 + 12 | Investigate an Incident Through Digital Forensics | [View](./Capstones/Capstone-6/) | ✅ Completed |
-| 🎓 Final Capstone Project 1| Capstone | Enhance Organizational Cybersecurity and Incidect Response | [View](./Capstones/Final-Capstone-Project-1/) | ✅ Completed |
-| 🎓 Final Capstone Project 1| Capstone | Enhance Organizational Cybersecurity and Incidect Response | [View](./Capstones/Final-Capstone-Project-2/) | ✅ Completed |
+| 🎓 Final Capstone Project 1 | Capstone | Enhance Organizational Cybersecurity and Incidect Response | [View](./Capstones/Final-Capstone-Project-1/) | ✅ Completed |
+| 🎓 Final Capstone Project 2 | Capstone | Enhance Organizational Cybersecurity and Incidect Response | [View](./Capstones/Final-Capstone-Project-2/) | ✅ Completed |
 
 
 > 💡 Program Structure: Capstones are completed sequentially after each module pair, validating applied skills before microcredential eligibility. Completed capstones include full documentation, deliverables, and verified credentials.
