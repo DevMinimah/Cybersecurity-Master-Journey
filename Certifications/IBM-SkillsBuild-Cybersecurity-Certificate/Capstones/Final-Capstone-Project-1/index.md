@@ -1,5 +1,6 @@
-# Final Capstone Project 1: Cybersecurity Incident Response & Forensic Investigation
+# Final Capstone Project 1:Enhance Organizational Cybersecurity and Incidect Response 
 ## 🔍 Evaluate and Enhance Cybersecurity Posture of an Organization
+
 
 >  Simulation-Based Capstone Project  
 > *Completed as the culminating project of the IBM SkillsBuild Cybersecurity Certificate. This capstone integrates incident response, vulnerability management, infrastructure hardening, and digital forensics into a single investigative workflow.*
@@ -134,14 +135,14 @@ Upon completion, I can confidently:
 
 | Field | Details |
 |-------|---------|
-| Credential | Pending |
-| Issued | Pending |
+| Credential | IBM SkillsBuild: IBM SkillsBuild Cybersecurity Certificate |
+| Issued | June 01, 2026 |
 | Credential ID | Pending |
-| Verify | [🔗 View Badge](Pending-public_url) |
+| Verify | [🔗 View Badge](https://www.credly.com/badges/5692b52e-c9be-4c44-bb86-d2cf739c3f57/public_url) |
 | Progress | Final Capstone 1/2 Completed |
 
 ### Badge Display
-![IBM SkillsBuild Badge](../../../../Assets/badges/[your-badge-filename].png)
+![IBM SkillsBuild Badge](../../../../Assets/badges/ibm-skillsbuild-cybersecurity-certificate.png)
 
 > ️ *Completed in a controlled simulation environment. Badge issued via IBM SkillsBuild platform. Verification link confirms authenticity.*
 
