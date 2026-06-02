@@ -42,6 +42,8 @@
 | 🔹 Capstone 6 | Mod 11 + 12 | Investigate an Incident Through Digital Forensics | [View](./Capstones/Capstone-6/) | ✅ Completed |
 | 🎓 Final Capstone Project 1 | Capstone | Enhance Organizational Cybersecurity and Incidect Response | [View](./Capstones/Final-Capstone-Project-1/) | ✅ Completed |
 | 🎓 Final Capstone Project 2 | Capstone | Enhance Organizational Cybersecurity and Incidect Response | [View](./Capstones/Final-Capstone-Project-2/) | ✅ Completed |
+| Synthesis Portfolio | End-to-End: IR → Forensics → Architecture → Resilience | [View](./Capstones/Final-Comprehensive-Capstone/) | ✅ Completed |
+
 
 
 > 💡 Program Structure: Capstones are completed sequentially after each module pair, validating applied skills before microcredential eligibility. Completed capstones include full documentation, deliverables, and verified credentials.

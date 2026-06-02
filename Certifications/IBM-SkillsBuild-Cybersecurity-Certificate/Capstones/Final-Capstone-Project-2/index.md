@@ -146,7 +146,7 @@ Upon completion, I can confidently:
 |-------|---------|
 | Credential | IBM SkillsBuild: IBM SkillsBuild Cybersecurity Certificate |
 | Issued | June 01, 2026 |
-| Credential ID | IBM SkillsBuild |
+| Credential ID | 5692b52e-c9be-4c44-bb86-d2cf739c3f57 |
 | Verify | [🔗 View Badge](https://www.credly.com/badges/5692b52e-c9be-4c44-bb86-d2cf739c3f57/public_url) |
 | Progress | Final Capstone 2/2 Completed |
 

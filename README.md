@@ -97,15 +97,20 @@
 👉 [View Detailed Progress & All Certifications](./Certifications/index.md)
 ---
 
-## 🏆 Capstone Projects
 
-*Real-world projects demonstrating applied cybersecurity skills*
+---
 
-- 🔲 ISC2 CC Capstone - Security Governance Project ⚪ Planned
-- 🔲 IBM Cybersecurity Capstone - Security Operations Workflow ⚪ Planned
-- 🔲 Google Cyber Capstone - Incident Response Plan ⚪ Planned
+## 🏆 Featured Capstone Projects
 
-👉 [Browse All Capstones](./Capstones/)
+*Comprehensive, end-to-end simulations demonstrating applied cybersecurity leadership.* *Real-world projects demonstrating applied cybersecurity skills*
+
+| Project | Focus Area | Documentation | Status |
+|---------|-----------|---------------|--------|
+| Final Capstone: From Breach to Resilience | Incident Response, Digital Forensics, Security Architecture, SOC Design, Risk Management & Data Resilience | [View Project](./Certifications/IBM-SkillsBuild-Cybersecurity-Certificate/Capstones/Final-Comprehensive-Capstone/) | ✅ Completed |
+
+
+
+
 
 ---
 
