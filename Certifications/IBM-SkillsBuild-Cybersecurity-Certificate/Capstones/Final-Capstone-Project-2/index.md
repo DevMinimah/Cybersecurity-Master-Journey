@@ -1,4 +1,4 @@
-Final Capstone Project 2: Enhance Organizational Cybersecurity and Incidect Response
+# Final Capstone Project 2: Enhance Organizational Cybersecurity and Incidect Response
 ## 🏗️ Evaluate and Enhance Cybersecurity Posture of an Organizatio
 
 End-to-End Security Strategy & Implementation
