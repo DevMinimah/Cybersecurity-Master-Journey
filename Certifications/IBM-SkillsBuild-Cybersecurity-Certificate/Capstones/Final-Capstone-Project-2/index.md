@@ -1,4 +1,4 @@
-# Final Capstone Project 2: Enhance Organizational Cybersecurity and Incidect Response
+Final Capstone Project 2: Enhance Organizational Cybersecurity and Incidect Response
 ## 🏗️ Evaluate and Enhance Cybersecurity Posture of an Organizatio
 
 End-to-End Security Strategy & Implementation
@@ -146,9 +146,10 @@ Upon completion, I can confidently:
 |-------|---------|
 | Credential | IBM SkillsBuild: IBM SkillsBuild Cybersecurity Certificate |
 | Issued | June 01, 2026 |
-| Credential ID | 5692b52e-c9be-4c44-bb86-d2cf739c3f57 |
-| Verify | [🔗 View Badge](https://www.credly.com/badges/5692b52e-c9be-4c44-bb86-d2cf739c3f57/public_url) |
+| Credential ID | 8c15a1fb-f6b9-4f1b-aacb-6a5029c99a8b |
+| Verify | [🔗 View Badge](https://www.credly.com/badges/8c15a1fb-f6b9-4f1b-aacb-6a5029c99a8b/public_url) |
 | Progress | Final Capstone 2/2 Completed |
+
 
 ### Badge Display
 ![IBM SkillsBuild Badge](../../../../Assets/badges/ibm-skillsbuild-cybersecurity-certificate.png)
