@@ -5,7 +5,7 @@
 | Modules Completed | 13/13 |
 | Module Practical Activity Done | 12/12 |
 | Capstones Passed | 8/8 |
-| Verify Credential | [🔗 View Badge](https://www.credly.com/badges/5692b52e-c9be-4c44-bb86-d2cf739c3f57/public_url) |
+| Verify Credential | [🔗 View Badge](https://www.credly.com/badges/8c15a1fb-f6b9-4f1b-aacb-6a5029c99a8b/public_url) |
 
 ---
 
