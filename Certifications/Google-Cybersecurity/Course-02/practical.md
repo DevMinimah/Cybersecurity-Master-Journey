@@ -24,7 +24,7 @@ Conducted a comprehensive enterprise security audit for a mid-size toy productio
 ## 📊 Complete Controls & Compliance Checklist
 *(Translated from the YES/NO checklist with all items included exactly as assessed. Status indicates current compliance posture.)* 
 
-### 🔐 Technical, Administrative & Physial Controls Assessment
+### 🔐 Technical, Administrative & Physical Controls Assessment
 | Control Area | Status | Context & Observations |
 |--------------|--------|------------------------|
 | Least Privilege | ❌ No | All employees have unrestricted access to internal data, including cardholder data & PII/SPII. |
@@ -32,7 +32,7 @@ Conducted a comprehensive enterprise security audit for a mid-size toy productio
 | Password Policies | ✅ Yes (Weak) | Policy exists but requirements are nominal; lacks modern complexity standards. |
 | Separation of Duties | ❌ No | Not implemented; creates risk of insider threat & unauthorized privileged access. |
 | Firewall | ✅ Yes | Properly configured with defined security rules; actively monitored by IT. |
-| Intrusion Detection System (IDS) |  No | Not deployed; limits visibility into network-based threats & lateral movement. |
+| Intrusion Detection System (IDS) | ❌ No | Not deployed; limits visibility into network-based threats & lateral movement. |
 | Backups | ❌ No | No backup strategy for critical data or systems. |
 | Antivirus Software | ✅ Yes | Installed, actively monitored, and maintained by IT department. |
 | Legacy System Monitoring/Maintenance | ❌ No | End-of-life systems monitored but lack scheduled maintenance & clear intervention protocols. |
@@ -42,7 +42,7 @@ Conducted a comprehensive enterprise security audit for a mid-size toy productio
 | CCTV Surveillance | ✅ Yes | Up-to-date closed-circuit television operational across premises. |
 | Fire Detection/Prevention Systems | ✅ Yes | Fire alarms & sprinkler systems functional and maintained. |
 
-### 💳 PCI-DSS Compliance Assessment
+###  PCI-DSS Compliance Assessment
 | Requirement | Status | Context & Observations |
 |-------------|--------|------------------------|
 | Only authorized users have access to customers’ credit card information | ❌ No | Unrestricted employee access violates least privilege & PCI requirement 7. |
@@ -50,7 +50,7 @@ Conducted a comprehensive enterprise security audit for a mid-size toy productio
 | Implement data encryption procedures to secure credit card transaction touch points & data | ❌ No | No AES/TLS encryption applied to cardholder data at rest or in transit. |
 | Adopt secure password management policies | ❌ No | Existing policy is weak; no centralized management or enforcement mechanism. |
 
-### 🇪 GDPR Compliance Assessment
+### 🇪🇺 GDPR Compliance Assessment
 | Requirement | Status | Context & Observations |
 |-------------|--------|------------------------|
 | E.U. customers’ data is kept private/secured | ❌ No | Lacks encryption, access restrictions, and data classification. |
@@ -65,6 +65,8 @@ Conducted a comprehensive enterprise security audit for a mid-size toy productio
 | Sensitive data (PII/SPII) is confidential/private | ❌ No | Unrestricted internal access compromises confidentiality. |
 | Data integrity ensures data is consistent, complete, accurate, and validated | ✅ Yes | IT has implemented controls to maintain data accuracy & validation. |
 | Data is available to individuals authorized to access it | ✅ Yes | Availability controls are functioning for authorized personnel. |
+
+---
 
 ## 🛠️ Gap Analysis & Prioritized Remediation Roadmap
 *(Mapped directly to checklist deficiencies with actionable, framework-aligned recommendations)*
@@ -82,14 +84,14 @@ Conducted a comprehensive enterprise security audit for a mid-size toy productio
 |-----|----------------|---------------------|
 | ❌ Password Policy & Management System | Enforce 12+ character complexity + MFA; deploy enterprise password manager; automate self-service resets. | NIST IA-5, PCI-DSS Req 8 |
 | ❌ Asset Inventory & Data Classification | Deploy automated asset discovery; classify data by sensitivity; map to business impact analysis (BIA). | NIST ID.A, GDPR Art 30 |
-| ❌ Legacy System Controls | Isolate legacy systems via network segmentation; create decommissioning roadmap; apply compensating controls. | NIST CM-7, SOC CC6.8 |
+|  Legacy System Controls | Isolate legacy systems via network segmentation; create decommissioning roadmap; apply compensating controls. | NIST CM-7, SOC CC6.8 |
 
-###  Strategic (90-180 Days)
+### 🔵 Strategic (90-180 Days)
 | Gap | Recommendation | Framework Alignment |
 |-----|----------------|---------------------|
 | ✅ Password Policy (Strengthen) | Upgrade to NIST 800-63B standards; remove arbitrary expiration; focus on breach-password screening. | NIST IA-5, PCI-DSS Req 8.3 |
 | ✅ CCTV/Physical Security | Integrate physical access logs with SIEM; implement badge/biometric server room access. | NIST PE-3, SOC CC6.8 |
-| Continuous Compliance | Establish quarterly access reviews; automate compliance monitoring; conduct annual PCI-DSS/GDPR audits. | NIST RA-5, SOC CC7.2 |
+| 🔄 Continuous Compliance | Establish quarterly access reviews; automate compliance monitoring; conduct annual PCI-DSS/GDPR audits. | NIST RA-5, SOC CC7.2 |
 
 ## 💼 Business Impact & Strategic Value
 - Risk Reduction: Projected risk score decrease from 8/10 to ≤3/10 upon roadmap completion
