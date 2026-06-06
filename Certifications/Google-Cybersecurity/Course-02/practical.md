@@ -75,13 +75,14 @@ Conducted a comprehensive enterprise security audit for a mid-size toy productio
 ## 🛠️ Gap Analysis & Prioritized Remediation Roadmap
 *(Mapped directly to checklist deficiencies with actionable, framework-aligned recommendations)*
 
-### 🔴 Critical (0-30 Days)
-| Gap | Recommendation | Framework Alignment |
-|---|---|---|
-| ❌ Least Privilege / Separation of Duties | Implement Role-Based Access Control (RBAC); enforce least privilege; deploy Privileged Access Management (PAM). | NIST AC-6, SOC CC6.1 |
-| ❌ Encryption / PCI-DSS Data Protection | Deploy AES-256 encryption for data at rest; enforce TLS 1.2+ for data in transit; implement payment tokenization. | PCI-DSS Req 3 & 4, GDPR Art 32 |
-|  Backups / Disaster Recovery | Implement 3-2-1 backup strategy; define RTO/RPO; test DR runbooks quarterly. | NIST CP-9, SOC CC9.1 |
-| ❌ IDS Deployment | Deploy network-based IDS/IPS; integrate with existing monitoring for real-time threat detection. | NIST SI-3, PCI-DSS Req 11 |
+### Critical (0-30 Days)
+
+| Status | Control Area | Recommendation | Framework Alignment |
+|--------|--------------|----------------|---------------------|
+| ❌ | Least Privilege / Separation of Duties | Implement Role-Based Access Control (RBAC); enforce least privilege; deploy Privileged Access Management (PAM) | NIST AC-6, SOC CC6.1 |
+| ❌ | Encryption / PCI-DSS Data Protection | Deploy AES-256 encryption for data at rest; enforce TLS 1.2+ for data in transit; implement payment tokenization | PCI-DSS Req 3 & 4, GDPR Art 32 |
+| ⚠️ | Backups / Disaster Recovery | Implement 3-2-1 backup strategy; define RTO/RPO; test DR runbooks quarterly | NIST CP-9, SOC CC9.1 |
+| ❌ | IDS Deployment | Deploy network-based IDS/IPS; integrate with existing monitoring for real-time threat detection | NIST SI-3, PCI-DSS Req 11 |
 
 ###  High Priority (30-90 Days)
 
