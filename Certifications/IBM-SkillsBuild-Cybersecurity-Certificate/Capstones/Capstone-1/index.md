@@ -103,9 +103,10 @@ I learned that true security posture requires defense-in-depth: encryption every
 
 | Field | Details |
 | Credential | IBM SkillsBuild: Governance, Risk, Compliance, and Data Privacy |
-| Issued | May 04, 2026 |
-| Credential ID | 09aa3a71-c2da-40f2-b9b7-ff11b0137c7d |
-| Verify | [🔗 View on Credly](https://www.credly.com/badges/09aa3a71-c2da-40f2-b9b7-ff11b0137c7d/public_url) |
+| Issued | June 05, 2026 |
+| Credential ID | 3e269c6a-da88-4c81-9546-f25c02c43d5a |
+| Verify | [🔗 View on Credly](https://www.credly.com/badges/3e269c6a-da88-4c81-9546-f25c02c43d5a/public_url) |
+
 
 ### Badge Display
 ![IBM SkillsBuild Microcredential Badge](../../Assets/badges/governance-risk-compliance-and-data-privacy.png)

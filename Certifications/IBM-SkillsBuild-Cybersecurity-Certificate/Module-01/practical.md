@@ -9,9 +9,6 @@ Scenario-based Cybersecurity professional simulation: Acting as an IT team membe
 ## 🎯 Lab Goal:
 To develop a secure, compliant, and efficient data backup strategy for a large retail franchise business, ensuring critical data is protected, privacy regulations are upheld, and business continuity is maintained.
 
-## 🛠 Tools Used:
-- Adobe file editor
-
 ## 📋 What I Did:
 1. Evaluated backup responsibility options and selected an Automated Backup System with IT team oversight, documenting why automation alone is insufficient without monitoring.
 2. Identified and categorized critical data types the retail franchise must back up, prioritizing sensitive, operational, and compliance-related information.

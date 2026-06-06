@@ -111,8 +111,8 @@ Upon completion, I can confidently:
 |-------|---------|
 | Credential | IBM SkillsBuild: Incident Response and Systems Forensics |
 | Issued | May 29, 2026 |
-| Credential ID | 46b8b49f-6d32-4e5c-99dd-a5b05a81ecad |
-| Verify | [🔗 View Badge](https://www.credly.com/badges/46b8b49f-6d32-4e5c-99dd-a5b05a81ecad/public_url) |
+| Credential ID | 47d7fe68-14e9-4186-899b-6f85cf576c1e |
+| Verify | [🔗 View Badge](https://www.credly.com/badges/47d7fe68-14e9-4186-899b-6f85cf576c1e/public_url) |
 
 ### Badge Display
 ![IBM SkillsBuild Badge](../../Assets/badges/incident-response-and-systems-forensics.png)

@@ -8,10 +8,10 @@
 
 | Metric | Value |
 |--------|-------|
-| ✅ Certifications Completed | 2 |
+| ✅ Certifications Completed | 3 |
 | 🟡 Certifications in Progress | 2 |
 | 🏆 Capstones Finished | 8 |
-| 📝 Practical Activities Documented | 19 |
+| 📝 Practical Activities Documented | 21 |
 
 ---
 
@@ -88,10 +88,10 @@
 | Cybersecurity Fundamentals | IBM SkillsBuild | 1/1 Course | ✅ Completed 🏆 |
 | Certified in Cybersecurity (CC) | ISC2 | 5/5 Domains | ✅ Completed 🏆 |
 | IBM SkillsBuild Cybersecurity Certificate | IBM SkillsBuild | 13/13 Modules | ✅ Completed 🏆 |
-| Google Cybersecurity Professional Certificate | Google/Coursera | 1/9 Courses | 🟡 In Progress |
+| Google Cybersecurity Professional Certificate | Google/Coursera | 2/8 Courses | 🟡 In Progress |
 | Cybersecurity | TS Academy | 0/7 Modules | ⚪ Planned |
-| IBM SkillsBuild Information Security Specialist Certificate | IBM SkillsBuild | 12 Courses | ⚪ Planned |                                                                       
 | Microsoft Certified: Security Operations Analyst Associate | Microsoft Learn | 0/5 Paths | ⚪ Planned |
+| IBM SkillsBuild Information Security Specialist Certificate | IBM SkillsBuild | 12 Courses | ⚪ Planned |                                                                     
 
 
 👉 [View Detailed Progress & All Certifications](./Certifications/index.md)

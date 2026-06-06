@@ -97,9 +97,9 @@ Upon completion, I can confidently:
 | Field | Details |
 |-------|---------|
 | Credential | IBM SkillsBuild: Security Operations and Management |
-| Issued | May 26, 2026 |
-| Credential ID | 6bca46d4-9d34-4092-927f-3528f4b2bd90 |
-| Verify | [🔗 View on Credly](https://www.credly.com/badges/6bca46d4-9d34-4092-927f-3528f4b2bd90/public_url) |
+| Issued | June 05, 2026 |
+| Credential ID | da7aa370-1f63-4af3-a558-f651793755c2 |
+| Verify | [🔗 View on Credly](https://www.credly.com/badges/da7aa370-1f63-4af3-a558-f651793755c2/public_url) |
 
 ### Badge Display
 ![IBM SkillsBuild Badge](../../Assets/badges/security-operations-and-management.png)
