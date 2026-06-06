@@ -199,6 +199,7 @@ Upon completion, I can confidently:
 | Progress | Final Capstone (Comprehensive) — 2/2 Components Completed |
 
 
+
 ### Badge Display
 ![IBM SkillsBuild Badge](../../../../Assets/badges/[your-badge-filename].png)
 

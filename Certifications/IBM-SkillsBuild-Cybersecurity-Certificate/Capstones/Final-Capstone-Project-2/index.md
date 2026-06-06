@@ -151,7 +151,6 @@ Upon completion, I can confidently:
 | Progress | Final Capstone 2/2 Completed |
 
 
-
 ### Badge Display
 ![IBM SkillsBuild Badge](../../../../Assets/badges/ibm-skillsbuild-cybersecurity-certificate.png)
 
