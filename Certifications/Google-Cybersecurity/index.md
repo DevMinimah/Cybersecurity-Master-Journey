@@ -13,7 +13,7 @@
 |--------|-------|--------|-----------|-------------|--------|
 | 01 | Foundations of Cybersecurity | [📖](./Course-01/theory.md) | [🔧](./Course-01/practical.md) | [🏆](./Course-01/Certificate.md) | ✅ Completed |
 | 02 | Play It Safe: Manage Security Risks | [📖](./Course-02/theory.md) | [🔧](./Course-02/practical.md) | [🏆](./Course-02/Certificate.md) | ✅ Completed |
-| 03 | Connect and Protect: Networks and Network Security | [📖](./Course-03/theory.md) | [🔧](./Course-03/practical.md) | 🟡 In Progress |
+| 03 | Connect and Protect: Networks and Network Security | [📖](./Course-03/theory.md) | [🔧](./Course-03/practical.md) | — | 🟡 In Progress |
 | 04 | Tools of the Trade: Linux and SQL | [📖](./Course-04/theory.md) | [🔧](./Course-04/practical.md) | — | ⚪ Not Started |
 | 05 | Assets, Threats, and Vulnerabilities | [📖](./Course-05/theory.md) | [🔧](./Course-05/practical.md) | — | ⚪ Not Started |
 | 06 | Sound the Alarm: Detection and Response | [📖](./Course-06/theory.md) | [🔧](./Course-06/practical.md) | — | ⚪ Not Started |
