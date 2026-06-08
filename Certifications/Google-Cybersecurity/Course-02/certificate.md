@@ -1,4 +1,4 @@
-# Google Course 1 Certificate
+# Google Course 2 Certificate
 
 | Field | Details |
 |-------|---------|
