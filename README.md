@@ -25,7 +25,7 @@
 |------|------------|----------|
 | FTK Imager | Intermediate | Forensic disk imaging, hash verification, write-blocker simulation |
 | Autopsy | Intermediate | File recovery, metadata analysis, timeline reconstruction, keyword search |
-| Splunk (Fundamentals) | Familiar | Log ingestion, basic search queries (SPL), dashboard creation, alert configuration |
+| Splunk (Fundamentals) | Working Knowledge | Log ingestion, basic search queries (SPL), dashboard creation, alert configuration |
 | NIST IR Framework | Working Knowledge | Incident lifecycle management, containment strategies, evidence handling |
 
 ### 🌐 Network Security & Reconnaissance
@@ -34,7 +34,7 @@
 |------|------------|----------|
 | Nmap / Zenmap GUI | Intermediate | Port scanning, service detection, OS fingerprinting, topology mapping |
 | Wireshark | Familiar | Packet capture analysis, protocol inspection, traffic baseline review |
-| OWASP ZAP | Familiar | Web application scanning, vulnerability detection, security header analysis |
+| OWASP ZAP | Working Knowledge | Web application scanning, vulnerability detection, security header analysis |
 | TCP/IP Suite | Working Knowledge | Network communication analysis, subnetting, routing concepts |
 
 ### ⚔️ Offensive Security & Penetration Testing
@@ -42,7 +42,7 @@
 | Tool | Proficiency | Use Case |
 |------|------------|----------|
 | Kali Linux | Working Knowledge | Consolidated pentesting environment for reconnaissance, exploitation, and reporting |
-| OWASP ZAP | Familiar | Automated web app scanning, manual security testing, API security validation |
+| OWASP ZAP | Working Knowledge | Automated web app scanning, manual security testing, API security validation |
 | Metasploit Framework | Familiar | Exploit development practice, payload generation, post-exploitation concepts |
 
 ### ️ Virtualization & Lab Infrastructure
@@ -79,7 +79,6 @@
 | VS Code / Text Editors | Advanced | Code editing, documentation drafting, file management |
 
 
-
 > 💡 *Proficiency Levels: Familiar = Conceptual understanding + guided labs | Working Knowledge = Hands-on practice in isolated environments | Intermediate = Confident independent use | Advanced = Teaching/optimizing others*
 
 ## 🎓 Active Certifications
@@ -95,8 +94,6 @@
 
 
 👉 [View Detailed Progress & All Certifications](./Certifications/index.md)
----
-
 
 ---
 
@@ -107,10 +104,6 @@
 | Project | Focus Area | Documentation | Status |
 |---------|-----------|---------------|--------|
 | Final Capstone: From Breach to Resilience | Incident Response, Digital Forensics, Security Architecture, SOC Design, Risk Management & Data Resilience | [View Project](./Certifications/IBM-SkillsBuild-Cybersecurity-Certificate/Capstones/Final-Comprehensive-Capstone/) | ✅ Completed |
-
-
-
-
 
 ---
 
