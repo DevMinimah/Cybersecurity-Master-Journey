@@ -2,7 +2,7 @@
 
 | Field | Details |
 |-------|---------|
-| Status | ⚪ Not Started |
+| Status | 🟡 In Progress |
 | Platform | TS Academy |
 | Modules | 0/7 Completed |
 | Capstones | 0/1 Completed |
@@ -13,7 +13,7 @@
 
 | Module | Title | Theory | Practical | Status |
 |--------|-------|--------|-----------|--------|
-| 01 | Foundations of Cybersecurity and Computing | [📖](./Module-01/theory.md) | [🔧](./Module-01/practical.md) | ⚪ Not Started |
+| 01 | Foundations of Cybersecurity and Computing | [📖](./Module-01/theory.md) | [🔧](./Module-01/practical.md) | 🟡 In Progress |
 | 02 | Network & Threat Fundamentals | [📖](./Module-02/theory.md) | [🔧](./Module-02/practical.md) | ⚪ Not Started |
 | 03 | Defensive Security Operations (SOC & Incident Response) | [📖](./Module-03/theory.md) | [🔧](./Module-03/practical.md) | ⚪ Not Started |
 | 04 | Offensive Security & Vulnerability Management | [📖](./Module-04/theory.md) | [🔧](./Module-04/practical.md) | ⚪ Not Started |

@@ -28,3 +28,7 @@
 ## 🔗 Links/Resources:
 - [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)
 - [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
+
+---
+
+🎓 Google Cybersecurity Professional Certificate | Course 1 of 8
