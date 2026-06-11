@@ -11,7 +11,6 @@
 
 | Course | Title | Theory | Practical | Portfolio | Certificate | Status |
 |--------|-------|--------|-----------|-----------|-------------|--------|
-
 | 01 | Foundations of Cybersecurity | [📖](./Course-01/theory.md) | [🔧](./Course-01/practical.md) | — | [🎓](./Course-01/certificate.md) | ✅ Completed |
 | 02 | Play It Safe: Manage Security Risks | [📖](./Course-02/theory.md) | [🔧](./Course-02/practical.md) | — | [🎓](./Course-02/certificate.md) | ✅ Completed |
 | 03 | Connect and Protect | [📖](./Course-03/theory.md) | [Practice 1](./Course-03/practical-01.md)<br>[Practice 2](./Course-03/practical-02.md)<br>[Practice 3](./Course-03/practical-03.md) | [🏆](./Course-03/portfolio.md) | [🎓](./Course-03/certificate.md) | ✅ Completed |
