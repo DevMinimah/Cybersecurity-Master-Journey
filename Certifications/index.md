@@ -8,7 +8,7 @@
 - [IBM SkillsBuild Cybersecurity Certificate](./IBM-SkillsBuild-Cybersecurity-Certificate/index.md) — Modules 13/13 Completed 🏆
 
 ## 🟡 In Progress
-- [Google Cybersecurity Professional Certificate](./Google-Cybersecurity/index.md) — Course 2/8 Completed
+- [Google Cybersecurity Professional Certificate](./Google-Cybersecurity/index.md) — Course 3/8 Completed
 - [TS Academy Cybersecurity](./TS-Academy-Cybersecurity/index.md) — Planned
 - [Microsoft Certified: Security Operations Analyst Associate](./Microsoft-Security-Operations-Analyst/index.md) — Planned
 - [IBM SkillsBuild Information Security Specialist](./IBM-InfoSec-Specialist/index.md) — Planned
