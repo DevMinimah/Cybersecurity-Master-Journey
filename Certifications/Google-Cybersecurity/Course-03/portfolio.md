@@ -1,7 +1,7 @@
-# Incident Analysis & Network Hardening Strategy
+# Incident Report Analysis
 
 Framework Alignment: NIST Cybersecurity Framework (CSF) 2.0  
-Scenario Context: Post-incident review and strategic remediation following a 2-hour ICMP Denial of Service (DoS) attack at a multimedia services company.
+Scenario Context: Post-incident report and strategic remediation following a 2-hour ICMP Denial of Service (DoS) attack at a multimedia services company.
 
 ---
 
@@ -35,6 +35,8 @@ Analyzing this incident highlighted a critical lesson: technical failures are al
 
 ---
 
-📄 [View Full Strategy Document](./Incident_Analysis_Network_Hardening.md) | 📥 [Download PDF](./incident-report-analysis.pdf)
+📄 [View Full Strategy Document (PDF)](./incident-report-analysis.pdf)
+
+---
 
 *Note: This document was developed as part of a cybersecurity portfolio project to demonstrate practical application of the NIST CSF 2.0 in post-incident analysis and strategic network hardening.*
