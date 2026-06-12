@@ -1,7 +1,7 @@
 # Incident Response : Web Server Compromise & Malware Distribution
 
 Assessment Context: Scenario-Based Simulation (Google Cybersecurity Professional Certificate)  
-Activity: Apply OS Hardening (Course 3)  
+Activity: Applying OS Hardening 
 Role Assumed: Cybersecurity Analyst / Incident Responder  
 Incident Type: Web Defacement, Malware Distribution, Brute Force Attack  
 Status: Resolved & Remediated  
@@ -21,7 +21,7 @@ Through sandbox analysis and network traffic inspection using tcpdump, the attac
 1. Initial Access: The attacker targeted the website's administrative portal. Due to the account relying on default credentials and lacking brute-force mitigation (e.g., account lockouts), the attacker successfully guessed the password.
 2. Persistence & Payload Delivery: Once inside the admin panel, the attacker modified the website's source code. They injected a JavaScript function designed to prompt visitors to download an executable file disguised as a mandatory browser update or "free recipe" access. 
 3. Lockout: To maintain control and delay detection, the attacker changed the administrative password, locking out the legitimate website owner.
-4. Detection: The breach was identified when the IT helpdesk received a surge of customer complaints regarding unexpected download prompts, sudden URL redirects, and degraded PC performance. The incident was formally escalated when the website owner discovered they were locked out of the admin panel.
+4. Detection: The breach was identified when the IT helpdesk received a surge of customer complaints regarding unexpected download prompts, sudden URL redirects, and degraded PC performance. The incident was formally escalated when the owners of the website discovered they were locked out of the admin panel.
 5. Analyst Confirmation & Code Review: A senior analyst confirmed the website was compromised by inspecting the site's source code. They discovered that malicious JavaScript code had been injected to prompt visitors into downloading an executable file. Analysis of the downloaded file revealed a redirect script designed to bounce visitors' browsers from the official Website to the Fake Webiste.
 
 ---
