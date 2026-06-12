@@ -2,9 +2,8 @@
 
 Assessment Context: Scenario-Based Simulation (Google Cybersecurity Professional Certificate)  
 Activity: Applying OS Hardening 
-Role Assumed: Cybersecurity Analyst / Incident Responder  
+Role Assumed: Cybersecurity Analyst 
 Incident Type: Web Defacement, Malware Distribution, Brute Force Attack  
-Status: Resolved & Remediated  
 
 > *Note: This document is a practical activity for the Google Cybersecurity Professional Certificate. It represents a scenario-based simulation where I assume the role of a Cybersecurity Analyst / Incident Responder investigating a web server compromise and developing a strategic remediation plan. Proprietary details have been redacted for confidentiality.*
 
