@@ -1,9 +1,12 @@
 # Security Risk Assessment: Post-Breach Network Hardening
 
-Assessment Context: Scenario-Based Simulation (Google Cybersecurity Professional Certificate) 
- Activity: Applying Network Hardening
-Role Assumed: Security Analyst, Network Operations    
+Assessment Context: Scenario-Based Simulation (Google Cybersecurity Professional Certificate)  
+Activity: Applying Network Hardening  
+Role Assumed: Security Analyst, Network Operations  
 Subject: Analysis of Recent PII Data Breach and Network Hardening Recommendations  
+
+---
+
 
 > *Note: This document is a practical activity for the Google Cybersecurity Professional Certificate. It represents a scenario-based simulation where I assume the role of a Security Analyst conducting a post-breach assessment and network hardening strategy for a fictional social media organization.*
 

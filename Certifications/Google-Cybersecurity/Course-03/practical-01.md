@@ -1,9 +1,11 @@
-# Security Analysis: Analyze network attacks
+# Security Analysis: Analyze Network Attacks
 
 Assessment Context: Scenario-Based Simulation (Google Cybersecurity Professional Certificate)  
-Activity: Analyze network attacks 
-Role Assumed: Security Analyst 
-Incident Type: Denial of Service (DoS) / Network Interruption 
+Activity: Analyze Network Attacks  
+Role Assumed: Security Analyst  
+Incident Type: Denial of Service (DoS) / Network Interruption  
+
+---
 
 
 > *Note: This document is a practical activity for the Google Cybersecurity Professional Certificate. It represents a scenario-based simulation where I assume the role of a Security Analyst conducting a post-incident analysis for a fictional travel agency that advertises sales and promotions on the company’s website.*
