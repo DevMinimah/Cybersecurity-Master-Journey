@@ -52,7 +52,7 @@ The root cause of this breach was a failure in basic Identity and Access Managem
 
 ---
 
-## Remediation & Strategic Recommendations
+## Remediation
 To ensure this does not happen again, I developed and presented a remediation plan focusing on OS hardening and robust password management.
 
 ### Identity & Access Management (IAM) Overhaul
