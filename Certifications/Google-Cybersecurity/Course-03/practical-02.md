@@ -55,7 +55,7 @@ The root cause of this breach was a failure in basic Identity and Access Managem
 ## Remediation & Strategic Recommendations
 To ensure this does not happen again, I developed and presented a remediation plan focusing on OS hardening and robust password management.
 
-### . Identity & Access Management (IAM) Overhaul
+### Identity & Access Management (IAM) Overhaul
 * Implement Account Lockout Policies and Rate Limiting: To directly neutralize brute force attacks, the Operating System and web application must be configured to automatically lock user accounts after a maximum of 3 to 5 consecutive failed login attempts. Because brute force attacks rely on making thousands of rapid password guesses, an account lockout instantly halts the attack by cutting off access at the source. This should be paired with a mandatory cooldown period or requiring administrator intervention to unlock the account, ensuring the attacker cannot simply resume guessing.
 
 ---
@@ -72,4 +72,5 @@ This incident reinforced several critical cybersecurity principles that I now ap
 
 *Note: This case study has been anonymized and adapted for portfolio purposes to demonstrate incident response methodology, technical analysis, and strategic remediation planning. Proprietary details and specific domain names have been redacted for confidentiality.*
 
-📥 [Download Full Incident Response Report (PDF)](./security-incident-report.pdf)
+
+📄 [View Full Risk Assessment Document (PDF)](./security-incident-report.pdf)

@@ -51,4 +51,3 @@ I recommend we treat these remediations as an emergency priority. I am ready to 
 ---
 
 📄 [View Full Risk Assessment Document (PDF)](./security-risk-assessment-report.pdf)
-security-risk assessment-report
