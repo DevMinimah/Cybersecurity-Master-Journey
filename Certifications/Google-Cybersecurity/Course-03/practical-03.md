@@ -27,12 +27,14 @@ The Risk: During the inspection, I found that the administrative account for our
 
 Remediation: The database admin password must be changed immediately. Following that, we need to enforce a strict, OS-level password policy that requires long, complex passwords and prevents password recycling. We also need to restrict database admin access so it can only be accessed from specific, authorized management servers, not directly from the open internet.
 
+
 ### 3. Unrestricted Firewall Traffic (No Filtering Rules)
 The Risk: Our firewalls are currently configured to pass all traffic without inspection. They are essentially acting as expensive routers rather than security controls. Because we have no rules filtering inbound traffic, attackers can easily reach any exposed port on our network. More importantly, because we have no outbound (egress) filtering, when the attackers stole the customer data, the firewall didn't stop the data from leaving our network. 
 
-Remediation: We need to reconfigure our firewalls using a default deny posture. This means all traffic is blocked unless we explicitly create a rule allowing it.
+Remediation: We need to reconfigure our firewalls using a "default deny" posture. This means all traffic is blocked unless we explicitly create a rule allowing it. 
 * Inbound: We will only open the specific ports required for the social media platform to function (e.g., 80, 443) and block everything else. 
 * Outbound: We must implement egress filtering to ensure our internal servers can only communicate with known, trusted IP addresses. If an attacker gets in again, outbound filtering will prevent them from exfiltrating the database to their own servers.
+* Perimeter Monitoring (IDPS): To provide an active layer of defense, I strongly recommend deploying an Intrusion Detection and Prevention System (IDPS) across our network perimeter. This system will continuously monitor all network traffic in real-time to instantly identify and block known attack signatures or suspicious behavioral anomalies. By actively dropping malicious packets before they reach our internal systems, the IDPS acts as a critical safety net to stop future exploits in their tracks.
 
 ### 4. Complete Lack of Multifactor Authentication (MFA)
 The Risk: Right now, we are relying 100% on passwords to protect our most sensitive systems. Passwords can be guessed, phished, or stolen from an employee's browser. Without a second layer of verification, a stolen password is all an attacker needs to take over an account, access the database, and move laterally through our network.
@@ -42,7 +44,7 @@ Remediation: We need to roll out Multifactor Authentication (MFA) across the ent
 ---
 
 ## My Final Submission
-The recent breach was not the result of a highly sophisticated, zero-day exploit; it was the result of basic security hygiene failures. By addressing these four vulnerabilities — enforcing individual accounts, eliminating default passwords, properly configuring firewall rules, and mandating MFA, we can drastically reduce our attack surface. 
+The recent breach was not the result of a highly sophisticated, zero-day exploit; it was the result of basic security hygiene failures. By addressing these four vulnerabilities including enforcing individual accounts, eliminating default passwords, properly configuring firewall rules, and mandating MFA, we can drastically reduce our attack surface. 
 
 I recommend we treat these remediations as an emergency priority. I am ready to begin drafting the technical implementation plans for the firewall rules and MFA rollout as soon as this assessment is approved.
 
