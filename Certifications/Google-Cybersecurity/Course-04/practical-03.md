@@ -54,7 +54,7 @@ When investigating an alert, I rarely need to read a massive log file all at onc
     *   Command: ls
     *   Outcome: The directory contents were displayed, revealing the target log file.
 *   Action: I displayed only the first 10 lines of the log file to check recent activity.
-    *   Command: head -n 10 [insert_log_file_name_here] 
+    *   Command: head -n 10 server_logs.txt 
     *   Outcome: The shell outputted exactly the first 10 lines of the file, allowing me to quickly review the log entries without overwhelming my terminal with thousands of lines of data.
 
 ---
@@ -64,6 +64,12 @@ Navigating directories and reading files are basic Linux skills, I recognize imp
 1. Operating in Headless Environments: Most enterprise servers and cloud instances do not have a GUI. Through this practice, I reinforced that being able to confidently navigate the file system via the command line is mandatory for investigating compromised systems.
 2. Efficient Log Triage: I learned that using head (or tail) instead of cat on massive log files prevents terminal lockups and allows me to quickly spot recent anomalies or verify log formats before running complex search queries.
 3. Data Extraction: I noted that commands like cat are frequently paired with text-processing tools like grep. Mastering how to read files cleanly is my first step toward building pipelines that can parse thousands of lines of authentication logs to find unauthorized access attempts.
+
+
+### 📸 Evidence: Finding Files with Linux Commands
+
+![Finding Files with Linux Commands Screenshot](./images/finding-files-with-linux-command.png)
+*Figure 1: Screenshot demonstrating the use of Linux commands to locate files.*
 
 ---
 *Note: This document outlines my hands-on practice and learning proficiency in foundational Linux file system navigation, log triage, and command-line data extraction skills required for cybersecurity operations.*
