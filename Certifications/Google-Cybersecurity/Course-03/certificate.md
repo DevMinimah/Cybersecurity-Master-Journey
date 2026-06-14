@@ -17,4 +17,4 @@
 
 ---
 
-*🔙 [Back to Course 3](./) | [Back to Google Dashboard](../index.md)*
+*🔙 [Back to Google Dashboard](../index.md)*

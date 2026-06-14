@@ -1,4 +1,10 @@
-# Google Course 1 Certificate
+# Course 01: Foundations of Cybersecurity — Certificate
+
+> 🎓 *Google Cybersecurity Professional Certificate*
+
+---
+
+## 🏆 Course Completion
 
 | Field | Details |
 |-------|---------|
@@ -8,5 +14,7 @@
 | Verify | [🔗 View on Cousera](https://www.coursera.org/account/accomplishments/records/TF2GI9HUZBM4) |
 
 ![Certificate](../../Assets/certificates/google-course-01.pdf)
+
+---
 
 *🔙 [Back to Google Dashboard](../index.md)*

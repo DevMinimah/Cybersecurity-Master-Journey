@@ -15,4 +15,4 @@
 
 ---
 
-*🔙 [Back to Course 4](./) | [Back to Google Dashboard](../index.md)*
+*🔙 [Back to Google Dashboard](../index.md)*
