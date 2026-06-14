@@ -64,5 +64,10 @@ I recognize that this basic command lines represent the absolute foundation of L
 2. Efficiency in Triage: I reinforced that being able to perform quick calculations (like false positive ratios) directly in the terminal saves time during an active investigation, keeping me in my primary workspace.
 3. Scripting Foundations: I noted that the echo command is the backbone of Bash scripting. Knowing how to manipulate strings and variables now paves the way for me to write automated scripts that can parse thousands of security logs in seconds.
 
+
+### 📸 Evidence: Linux Input/Output
+![Linux Lab Input/Output Screenshot](./images/linux-input-output.png)
+*Figure 1: Screenshot demonstrating Linux standard input/output redirection.*
+
 ---
 *Note: This document outlines my hands-on practice and learning proficiency in foundational Linux shell navigation, command-line I/O processing, and basic operational math skills required for cybersecurity operations.*

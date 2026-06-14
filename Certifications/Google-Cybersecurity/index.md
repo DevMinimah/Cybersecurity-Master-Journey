@@ -1,7 +1,7 @@
 # ️ Google Cybersecurity Professional Certificate
  
 | Field | Details |
-| Status | 🟡 In Progress |
+| Status | 🔄 In Progress |
 | Platform | Coursera / Google |
 | Courses | 3/8 Completed |
 | Capstones | 0/1 Completed |
