@@ -1,4 +1,4 @@
-# Course 03: Connect and Prectot: Networks and Network Security — Certificate
+# Course 03: Connect and Protect: Networks and Network Security — Certificate
 
 > 🎓 *Google Cybersecurity Professional Certificate*
 
@@ -8,7 +8,7 @@
 
 | Field | Details |
 |-------|---------|
-| Course | Connect and Prectot: Networks and Network Security |
+| Course | Connect and Protect: Networks and Network Security |
 | Issued | June 09, 2026 |
 | Credential ID | NCPSGDL4A0RK |
 | Verify | [🔗 View on Cousera](https://www.coursera.org/account/accomplishments/records/NCPSGDL4A0RK) |
