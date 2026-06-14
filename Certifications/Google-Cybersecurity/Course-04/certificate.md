@@ -1,4 +1,4 @@
-# Course 04: Tools of the Trade — Certificate
+# Course 04: Tools of the Trade: Linux and SQL — Certificate
 
 > 🎓 *Google Cybersecurity Professional Certificate*
 

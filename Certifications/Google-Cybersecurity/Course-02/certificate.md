@@ -1,4 +1,10 @@
-# Google Course 2 Certificate
+# Course 02: Play It Safe: Manage Security Risks — Certificate
+
+> 🎓 *Google Cybersecurity Professional Certificate*
+
+---
+
+## 🏆 Course Completion
 
 | Field | Details |
 |-------|---------|
@@ -9,4 +15,6 @@
 
 ![Certificate](../../Assets/certificates/google-course-01.pdf)
 
-*🔙 [Back to Google Dashboard](../index.md)*
+---
+
+*🔙 [Back to Course 2](./) | [Back to Google Dashboard](../index.md)*
