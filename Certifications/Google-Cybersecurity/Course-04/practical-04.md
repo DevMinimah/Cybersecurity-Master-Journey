@@ -32,8 +32,8 @@ When reviewing server logs, reading every single line is inefficient. I needed t
 Sometimes the goal isn't to search *inside* a file, but to find the file itself based on its name. I practiced combining commands to streamline this process.
 
 * Action: I navigated to the user reports directory and filtered the directory listing to find specific quarterly files.
-  * Command: cd /home/analyst/reports/users followed by ls | grep "Q1"
-  * Outcome: By piping (|) the output of ls directly into grep, the shell returned only the filenames containing the string "Q1". This demonstrated how chaining commands creates a highly efficient, single-step workflow.
+  * Command: cd /home/analyst/reports/users followed by ls \| grep "Q1"
+  * Outcome: By piping (\|) the output of ls directly into grep, the shell returned only the filenames containing the string "Q1". This demonstrated how chaining commands creates a highly efficient, single-step workflow.
 
 ![Piping Commands to Filter File Lists](./images/p04-grep-02.png)
 
@@ -61,7 +61,7 @@ Auditing user accounts often requires hunting for specific usernames or departme
 ## Professional Reflection & Key Takeaways
 This exercise was a major stepping stone in my Linux proficiency, specifically regarding how to make the shell do the heavy lifting for me.
 
-1. The Power of Piping: Learning to use the pipe operator (|) changed how I approach the command line. Instead of running a command, copying the output, and searching it manually, I can now chain tools together to get immediate, filtered results.
+1. The Power of Piping: Learning to use the pipe operator (\|) changed how I approach the command line. Instead of running a command, copying the output, and searching it manually, I can now chain tools together to get immediate, filtered results.
 2. Signal vs. Noise: In a real Security Operations Center (SOC), logs are overwhelmingly large. Practicing grep reinforced the importance of knowing exactly what string to search for to cut through the noise and find the actionable intelligence.
 3. Foundation for Advanced Parsing: While grep is powerful on its own, I recognize that mastering it is the prerequisite for learning more advanced text-processing tools like awk and sed, which I will need for complex log parsing and automation scripts in the future.
 
