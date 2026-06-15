@@ -19,4 +19,9 @@
 
 ---
 
+## 🛠️ Lab 4: Activity: Filter with grep
+[📄 View Documentation](./practical-04.md)
+
+---
+
 *🔙 [Back to Google Dashboard](../index.md)*
