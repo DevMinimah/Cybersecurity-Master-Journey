@@ -29,4 +29,9 @@
 
 ---
 
+## 🛠️ Lab 6: Activity: Manage Authorization
+[📄 View Documentation](./practical-06.md)
+
+---
+
 *🔙 [Back to Google Dashboard](../index.md)*
