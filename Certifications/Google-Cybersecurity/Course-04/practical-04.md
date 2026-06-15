@@ -23,6 +23,7 @@ When reviewing server logs, reading every single line is inefficient. I needed t
   * Outcome: The terminal outputted only the specific lines containing the word "error", instantly stripping away all the routine informational noise and highlighting the exact issues I needed to investigate.
 
 ![Filtering Log Data for Errors](./images/p04-grep-01.png)
+
 *Figure 1: Filtering server logs to isolate specific error messages.*
 
 ---
@@ -35,6 +36,7 @@ Sometimes the goal isn't to search *inside* a file, but to find the file itself 
   * Outcome: By piping (|) the output of ls directly into grep, the shell returned only the filenames containing the string "Q1". This demonstrated how chaining commands creates a highly efficient, single-step workflow.
 
 ![Piping Commands to Filter File Lists](./images/p04-grep-02.png)
+
 *Figure 2: Using the pipe operator to filter directory listings for specific quarterly files.*
 
 ---
@@ -47,6 +49,7 @@ Auditing user accounts often requires hunting for specific usernames or departme
   * Outcome: The shell isolated and displayed the exact line containing the username "jhill", confirming their removal from the system.
 
 ![Extracting Specific User Records 1](./images/p04-grep-03.png)
+
 *Figure 3: Extracting specific user records and department data using grep.*
 
 * Action: I searched for all new hires in a specific department.
