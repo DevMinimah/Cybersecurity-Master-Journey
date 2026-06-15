@@ -24,4 +24,9 @@
 
 ---
 
+## 🛠️ Lab 5: Manage Files with Linux File Command
+[📄 View Documentation](./practical-05.md)
+
+---
+
 *🔙 [Back to Google Dashboard](../index.md)*
