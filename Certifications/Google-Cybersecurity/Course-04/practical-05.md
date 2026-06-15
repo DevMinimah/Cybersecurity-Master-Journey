@@ -11,7 +11,7 @@ Tools Utilized: mkdir, rmdir, rm, mv, touch, nano, cat, ls, cd
 ---
 
 ## Executive Summary
-In cybersecurity investigations, a disorganized file system can lead to lost evidence, failed audits, and unnecessary operational delays. This exercise focused on my hands-on practice with Linux file lifecycle management—creating, moving, removing, and editing files directly from the command line. By structuring my workspace, removing stale data, and maintaining accurate documentation through the nano text editor, I built the proficiency needed to keep investigation directories clean, maintain clear audit trails, and operate efficiently without a graphical interface.
+In cybersecurity investigations, a disorganized file system can lead to lost evidence, failed audits, and unnecessary operational delays. This exercise focused on my hands-on practice with Linux file lifecycle management creating, moving, removing, and editing files directly from the command line. By structuring my workspace, removing stale data, and maintaining accurate documentation through the nano text editor, I built the proficiency needed to keep investigation directories clean, maintain clear audit trails, and operate efficiently without a graphical interface.
 
 ---
 
@@ -23,6 +23,7 @@ Before organizing files, I needed to establish a dedicated location for future l
   * Outcome: I ran ls to confirm the logs directory was successfully created alongside the existing notes and reports directories.
 
 ![Creating logs directory](./images/task1-mkdir-logs.png)
+
 *Figure 1: Creating a dedicated logs subdirectory using the mkdir command.*
 
 ---
@@ -35,6 +36,7 @@ Keeping unused directories out of the working environment reduces clutter and ma
   * Outcome: I verified with ls that the directory was completely removed, leaving only logs, notes, and reports.
 
 ![Removing temp directory](./images/task2-rmdir-temp.png)
+
 *Figure 2: Removing an empty stale directory using the rmdir command.*
 
 ---
@@ -47,6 +49,7 @@ During investigations, files often need to be moved between staging areas and fi
   * Outcome: I ran ls /home/analyst/reports to confirm the file was successfully relocated alongside the other quarterly patch files.
 
 ![Moving Q3patches file](./images/task3-mv-q3patches.png)
+
 *Figure 3: Relocating patch documentation to the proper reports directory using the mv command.*
 
 ---
@@ -59,6 +62,7 @@ To maintain a clean workspace, I needed to delete temporary files that were no l
   * Outcome: Running ls confirmed the file was successfully deleted, leaving the notes directory completely empty.
 
 ![Removing tempnotes file](./images/task4-rm-tempnotes.png)
+
 *Figure 4: Deleting an unused temporary file using the rm command.*
 
 ---
@@ -71,6 +75,7 @@ I needed a new file to track the changes I was making to the directory structure
   * Outcome: I verified with ls that the new tasks.txt file was successfully created.
 
 ![Creating tasks.txt](./images/task5-touch-tasks.png)
+
 *Figure 5: Creating a new empty documentation file using the touch command.*
 
 ---
@@ -82,17 +87,20 @@ Finally, I needed to populate the new file with an audit log of the tasks I had 
   * Outcome: The nano text editor opened in the terminal, ready for input.
 
 ![Opening nano](./images/task6-nano-open.png)
+
 *Figure 6: Opening the tasks.txt file in the nano text editor.*
 
 * Action: I typed the completed tasks documentation into the editor.
 
 ![Editing in nano](./images/task6-nano-editing.png)
+
 *Figure 7: Inputting the audit log of completed tasks into nano.*
 
 * Action: I saved the changes and exited the editor.
   * Outcome: I pressed Ctrl+X to exit, confirmed the save by pressing Y, and pressed Enter to confirm the filename.
 
 ![Saving in nano](./images/task6-nano-save.png)
+
 *Figure 8: Saving the changes and exiting the nano editor.*
 
 * Action: I verified the contents of the saved file.
@@ -100,6 +108,7 @@ Finally, I needed to populate the new file with an audit log of the tasks I had 
   * Outcome: After using clear to clean the terminal screen, I ran cat to display the contents and confirm my documentation was saved correctly.
 
 ![Verifying with cat](./images/task6-cat-verify.png)
+
 *Figure 9: Verifying the saved contents of tasks.txt using the cat command.*
 
 ---
