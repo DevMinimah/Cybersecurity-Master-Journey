@@ -23,6 +23,7 @@ When a new employee joins the Research department, they need a system account an
   * Outcome: The system successfully created the user researcher9 along with their default home directory and personal group.
 
 ![Creating new user researcher9](./images/usermgmt-task1-useradd.png)
+
 *Figure 1: Creating the new user account and default home directory.*
 
 * Action: I assigned the user to their primary departmental group.
@@ -30,6 +31,7 @@ When a new employee joins the Research department, they need a system account an
   * Outcome: The user's primary group was updated to research_team, granting them the baseline permissions required for their role.
 
 ![Setting primary group to research_team](./images/usermgmt-task1-usermod-primary-group.png)
+
 *Figure 2: Assigning the user to the primary research_team departmental group.*
 
 ---
@@ -42,6 +44,7 @@ As part of their onboarding, the new employee was assigned responsibility for a 
   * Outcome: The ownership of project_r.txt was successfully transferred from researcher2 to researcher9, giving the new employee full control over their assigned project data.
 
 ![Changing file ownership to researcher9](./images/usermgmt-task2-chown-file.png)
+
 *Figure 3: Transferring file ownership to the newly onboarded employee.*
 
 ---
@@ -54,6 +57,7 @@ A few months later, the employee's role expanded, requiring them to collaborate 
   * Outcome: The user was successfully added to the sales_team group. I made sure to use the -a (append) flag alongside -G, which is critical; without it, the command would have overwritten their existing secondary groups instead of adding to them.
 
 ![Adding user to secondary sales_team group](./images/usermgmt-task3-usermod-secondary-group.png)
+
 *Figure 4: Safely appending the user to the secondary sales_team group.*
 
 ---
@@ -66,6 +70,7 @@ A year later, the employee left the company. To maintain system security, I need
   * Outcome: The user account was removed, instantly revoking all their login capabilities and access to the system.
 
   ![Deleting user account researcher9](./images/usermgmt-task4-userdel.png)
+
 *Figure 5: Deleting the user account to revoke system access.*
 
 * Action: I deleted the user's personal group that was created during onboarding.
@@ -73,6 +78,7 @@ A year later, the employee left the company. To maintain system security, I need
   * Outcome: The orphaned group was successfully removed, keeping the system's group registry clean and preventing unused security groups from lingering on the network.
 
 ![Deleting orphaned group researcher9](./images/usermgmt-task4-groupdel.png)
+
 *Figure 6: Removing the orphaned personal group to maintain a clean system registry.*
 
 ---
