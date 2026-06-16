@@ -34,4 +34,9 @@
 
 ---
 
+## 🛠️ Lab 7: Activity: Add and manage users with Linux commands
+[📄 View Documentation](./practical-07.md)
+
+---
+
 *🔙 [Back to Google Dashboard](../index.md)*
