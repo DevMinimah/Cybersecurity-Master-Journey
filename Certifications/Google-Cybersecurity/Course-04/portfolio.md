@@ -27,18 +27,6 @@ ls -la
 ```
 
 **Current file permissions (from `ls -la` output):**
-```text
-total 32
-drwxr-xr-x 3 researcher2 research_team 4096 Jun 16 09:11 .
-drwxr-xr-x 3 researcher2 research_team 4096 Jun 16 09:30 ..
--rw-w---- 1 researcher2 research_team   46 Jun 16 09:11 .project_x.txt
-drwx--x--- 2 researcher2 research_team 4096 Jun 16 08:23 drafts
--rw-rw-rw- 1 researcher2 research_team   46 Jun 16 08:23 project_k.txt
--rw-r----- 1 researcher2 research_team   46 Jun 16 08:23 project_m.txt
--rw-rw-r-- 1 researcher2 research_team   46 Jun 16 08:23 project_r.txt
--rw-rw-r-- 1 researcher2 research_team   46 Jun 16 08:23 project_t.txt
-```
-
 ![Initial permission check showing ls -l and ls -la output](./images/permissions-task1-initial-check.png)
 
 ### Interpreting the 10-Character Permissions String
