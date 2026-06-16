@@ -90,7 +90,7 @@ After running the command and verifying with `ls -la`, the directory permissions
 ---
 
 ## Summary
-Through this authorization management exercise, I systematically audited and secured file permissions across the projects directory to enforce the principle of least privilege. By using `ls -la` to identify permission vulnerabilities and `chmod` to remove unauthorized write access, restrict archived files, and protect directory contents, I ensured compliance with organizational security policies. These tasks demonstrate essential Linux security skills—including permission string interpretation, hidden file management, and access control implementation—which are critical competencies for protecting sensitive data in real-world cybersecurity operations.
+Through this authorization management exercise, I systematically audited and secured file permissions across the projects directory to enforce the principle of least privilege. By using `ls -la` to identify permission vulnerabilities and `chmod` to remove unauthorized write access, restrict archived files, and protect directory contents, I ensured compliance with organizational security policies. These tasks demonstrate essential Linux security skills including permission string interpretation, hidden file management, and access control implementation which are critical competencies for protecting sensitive data in real-world cybersecurity operations.
 
 ---
 
