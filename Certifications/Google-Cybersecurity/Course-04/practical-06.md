@@ -12,6 +12,7 @@ Tools Utilized: chmod, ls -la, ls -l, cd
 
 ## Executive Summary
 Enforcing the principle of least privilege is how we actually protect sensitive data from unauthorized access. During this exercise, I took on the role of a security analyst tasked with locking down the researcher2 user environment. I used the chmod command to analyze permission strings, strip away excessive access rights, and restrict sensitive directories. This hands-on work transformed my theoretical understanding of Linux authorization into practical skills, ensuring I can confidently secure research data against both group and public exposure.
+
 ---
 
 ## 1. Checking File and Directory Details
