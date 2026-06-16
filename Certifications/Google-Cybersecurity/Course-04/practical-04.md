@@ -11,7 +11,8 @@ Tools Utilized: grep, | (pipe operator), ls, cd
 ---
 
 ## Executive Summary
-Sifting through thousands of lines of raw log data manually is an inefficient way to triage security events. To solve this, I used this exercise to master the grep command and command-line piping. By chaining these tools together, I learned how to instantly filter system logs and user reports for targeted data. This hands-on practice gave me the exact skills I need to cut through the noise, investigate alerts faster, and audit user changes effectively.
+Sifting through thousands of lines of raw log data manually is an inefficient way to triage security events. To solve this, I used this exercise to master the grep command and command-line piping. By chaining these tools together, I learned how to instantly filter system logs and user reports for targeted data. This hands-on practice gave me the exact skills I need to cut through the noise, investigate alerts faster, and audit user changes effectively.                        
+
 
 ---
 
