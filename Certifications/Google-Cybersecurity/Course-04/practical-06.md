@@ -11,8 +11,7 @@ Tools Utilized: chmod, ls -la, ls -l, cd
 ---
 
 ## Executive Summary
-In cybersecurity, proper file authorization is the frontline defense against unauthorized data access and modification. This exercise focused on my hands-on practice with Linux permission management using chmod to secure files and directories belonging to the researcher2 user. By analyzing permission strings, removing excessive access rights, and restricting sensitive files to authorized users only, I built the proficiency needed to enforce the principle of least privilege and protect sensitive research data from unauthorized group or public access.
-
+Enforcing the principle of least privilege is how we actually protect sensitive data from unauthorized access. During this exercise, I took on the role of a security analyst tasked with locking down the researcher2 user environment. I used the chmod command to analyze permission strings, strip away excessive access rights, and restrict sensitive directories. This hands-on work transformed my theoretical understanding of Linux authorization into practical skills, ensuring I can confidently secure research data against both group and public exposure.
 ---
 
 ## 1. Checking File and Directory Details

@@ -11,7 +11,7 @@ Tools Utilized: mkdir, rmdir, rm, mv, touch, nano, cat, ls, cd
 ---
 
 ## Executive Summary
-In cybersecurity investigations, a disorganized file system can lead to lost evidence, failed audits, and unnecessary operational delays. This exercise focused on my hands-on practice with Linux file lifecycle management creating, moving, removing, and editing files directly from the command line. By structuring my workspace, removing stale data, and maintaining accurate documentation through the nano text editor, I built the proficiency needed to keep investigation directories clean, maintain clear audit trails, and operate efficiently without a graphical interface.
+A cluttered workspace or lost evidence can completely derail a cybersecurity investigation. To prevent this, I spent this practical exercise mastering Linux file lifecycle management entirely from the command line. I practiced creating, moving, and removing files, as well as maintaining accurate documentation using the nano text editor. Structuring my workspace and clearing out stale data without relying on a graphical interface has given me the operational discipline to keep investigation directories clean and maintain clear, unbroken audit trails.
 
 ---
 

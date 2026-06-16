@@ -11,8 +11,7 @@ Tools Utilized: grep, | (pipe operator), ls, cd
 ---
 
 ## Executive Summary
-In cybersecurity, the ability to quickly separate critical signals from massive amounts of noise is a core competency. This exercise focused on my hands-on practice with the grep command and command-line piping to extract targeted data from system logs and user reports. By learning to chain commands together and filter raw text, I built the foundational proficiency needed to efficiently investigate alerts, audit user changes, and triage security events without manually sifting through thousands of lines of data.
-
+Sifting through thousands of lines of raw log data manually is an inefficient way to triage security events. To solve this, I used this exercise to master the grep command and command-line piping. By chaining these tools together, I learned how to instantly filter system logs and user reports for targeted data. This hands-on practice gave me the exact skills I need to cut through the noise, investigate alerts faster, and audit user changes effectively.
 ---
 
 ## 1. Filtering Log Data for Errors
