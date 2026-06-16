@@ -3,7 +3,7 @@
 Assessment Context: Scenario-Based Simulation (Google Cybersecurity Professional Certificate)  
 Activity: Add and manage users with Linux commands  
 Environment: Linux Bash Shell  
-Role Assumed: Security Analyst / System Administrator  
+Role Assumed: Security Analyst 
 Tools Utilized: sudo, useradd, usermod, userdel, groupdel, chown  
 
 > *Note: This document represents a hands-on practical activity where I assume the role of a System Administrator managing the complete lifecycle of Linux user accounts and enforcing access controls.*
@@ -67,7 +67,9 @@ A year later, the employee left the company. To maintain system security, I need
 
 * Action: I deleted the user account from the system.
   * Command: sudo userdel researcher9
-  * Outcome: The user account was removed, instantly revoking all their login capabilities and access to the system.
+  * Outcome: This command output the following message:
+  "Userdel: Group researcher9 not removed because it is not the primary group of user researcher9" 
+  This is because user and a group is automatically created and the user is the only member of that group and requires to be clean. The next step completes the job
 
   ![Deleting user account researcher9](./images/usermgmt-task4-userdel.png)
 
