@@ -26,7 +26,7 @@ ls -l
 ls -la
 ```
 
-**Current file permissions (from `ls -la` output):**
+**Current file permissions (from `ls -l and ls -la` output):**
 ![Initial permission check showing ls -l and ls -la output](./images/permissions-task1-initial-check.png)
 
 ### Interpreting the 10-Character Permissions String
