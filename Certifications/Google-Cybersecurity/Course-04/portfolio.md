@@ -94,4 +94,8 @@ Through this authorization management exercise, I systematically audited and sec
 
 ---
 
+📄 [View Full Strategy Document (PDF)](./file-permissions-in-linux.pdf)
+
+---
+
 *Note: This document outlines my hands-on practice and learning proficiency in Linux file permission management, authorization controls, and security hardening skills required for cybersecurity operations.*
