@@ -9,7 +9,7 @@
 
 ---
 
-## 🏆 Portfolio 2: SQL Security Analysis
+## 🏆 Portfolio Project: Apply filters to SQL queries
 [📄 View Portfolio](./portfolio-sql.md)
 
 ---
