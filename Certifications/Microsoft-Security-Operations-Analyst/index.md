@@ -1,6 +1,6 @@
 # 🛡 Microsoft Certified: Security Operations Analyst Associate
 
-## Full Course Path: Defend against cyberthreats with Microsoft's security operations platform
+## Full Course: Defend against cyberthreats with Microsoft's security operations platform
 
 | Field | Details |
 |-------|---------|
