@@ -27,6 +27,7 @@ To establish a baseline of the organization's device inventory, I started by ret
   * Outcome: The query returned a complete list of all devices with their operating systems, providing the foundational data needed to plan update deployments.
 
 ![All machines with OS](./images/sql-filter-machines-all.png)
+
 *Figure 1: Retrieving a complete baseline list of all devices and their operating systems.*
 
 ---
@@ -44,6 +45,7 @@ The security team identified that machines running 'OS 2' require an urgent secu
   * Outcome: The query returned only devices running OS 2, allowing the team to quickly identify and prioritize the machines requiring the security patch.
 
 ![Machines running OS 2](./images/sql-filter-os2.png)
+
 *Figure 2: Filtering the inventory to isolate only machines running OS 2 for urgent patching.*
 
 ---
@@ -61,6 +63,7 @@ The organization needed to post privacy notices about handling confidential fina
   * Outcome: The query returned all Finance department employees with their office numbers, enabling the team to post the required privacy notices in the correct locations.
 
 ![Finance department employees](./images/sql-filter-finance.png)
+
 *Figure 3: Isolating Finance department employees for compliance notice deployment.*
 
 * Action: I modified the query to return employees in the Sales department.
@@ -73,6 +76,7 @@ The organization needed to post privacy notices about handling confidential fina
   * Outcome: The query returned all Sales department employees with their office locations, completing the list of offices requiring the privacy notice.
 
 ![Sales department employees](./images/sql-filter-sales.png)
+
 *Figure 4: Isolating Sales department employees to complete the compliance notice list.*
 
 ---
@@ -90,6 +94,7 @@ The security team discovered issues with machines in the South building and need
   * Outcome: The query returned the employee (jlansky from Finance) assigned to office South-109, allowing the team to send a targeted alert about the machine issue.
 
 ![Employee in South-109](./images/sql-filter-south109.png)
+
 *Figure 5: Using exact matching to locate the specific employee in office South-109.*
 
 * Action: I used the LIKE operator with a wildcard to find all employees in the South building.
@@ -102,6 +107,7 @@ The security team discovered issues with machines in the South building and need
   * Outcome: The query returned all employees whose office names start with 'South', including South-109, South-127, South-134, etc. This allowed the team to send a building-wide alert about the system-wide issue affecting the South building.
 
 ![All South building employees](./images/sql-filter-south-building.png)
+
 *Figure 6: Using the LIKE operator and wildcards to identify all personnel in the South building.*
 
 ---
