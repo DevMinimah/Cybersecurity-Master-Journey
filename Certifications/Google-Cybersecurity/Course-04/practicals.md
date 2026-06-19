@@ -49,5 +49,9 @@
 
 ---
 
+## 🛠️ Lab 10: Advanced SQL Filtering with Dates, Times, and Numeric Operators
+[📄 View Documentation](./practical-10.md)
+
+---
 
 *🔙 [Back to Google Dashboard](../index.md)*
