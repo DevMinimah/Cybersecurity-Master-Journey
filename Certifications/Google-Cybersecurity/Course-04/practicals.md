@@ -44,4 +44,10 @@
 
 ---
 
+## 🛠️ Lab 9: SQL Filtering with WHERE and LIKE Clauses
+[📄 View Documentation](./practical-09.md)
+
+---
+
+
 *🔙 [Back to Google Dashboard](../index.md)*

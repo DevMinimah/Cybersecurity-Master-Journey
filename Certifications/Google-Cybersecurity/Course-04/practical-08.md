@@ -132,7 +132,7 @@ SQL is one of the most powerful tools in a security analyst's toolkit, and this 
 
 1. Precision in Data Retrieval: I learned that selecting specific columns (like device_id, email_client) instead of using SELECT * is more efficient when I only need certain information. This reduces network overhead and makes the results easier to analyze, which is critical when investigating large-scale security incidents.
 2. Chronological Analysis is Critical: Using ORDER BY login_date, login_time taught me how essential proper sorting is for incident response. When investigating a breach, I need to reconstruct the exact timeline of events, and multi-column sorting gives me that precision.
-3. Security Monitoring Through Queries: By querying login attempts for unusual patterns (like logins at 04:56 AM or from unexpected countries), I can proactively identify potential account compromises. This exercise showed me that SQL isn't just about retrieving data—it's about asking the right questions to uncover security threats.
+3. Security Monitoring Through Queries: By querying login attempts for unusual patterns (like logins at 04:56 AM or from unexpected countries), I can proactively identify potential account compromises. This exercise showed me that SQL isn't just about retrieving data, it's about asking the right questions to uncover security threats.
 4. Foundation for Advanced Analysis: These basic SELECT queries are the building blocks for more complex security analytics. Once I master filtering with WHERE clauses and joining multiple tables, I'll be able to correlate device vulnerabilities with login anomalies to detect sophisticated attack patterns.
 
 ---
