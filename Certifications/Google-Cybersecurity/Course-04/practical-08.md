@@ -74,3 +74,59 @@ To detect potential security threats, I analyzed login attempt data from the log
     FROM log_in_attempts;
     
   * Outcome: The query returned login timestamps for each user, revealing potential suspicious activity such as logins at 04:56:27 and 03:05:59, which are outside typical business hours.
+  ![Login timestamps](./images/sql-login-time.png)
+*Figure 5: Extracting timestamps to identify suspicious after-hours access.*
+
+* Action: I retrieved all columns from the login_attempts table for a complete security audit.
+  * Query:
+   
+    SELECT *
+    FROM log_in_attempts;
+    
+  * Outcome: The query returned comprehensive login data including event_id, username, login_date, login_time, country, ip_address, and success status, providing the full context needed for incident investigation.
+
+![All login data](./images/sql-login-all.png)
+*Figure 6: Retrieving full login data for a comprehensive security audit.*
+
+---
+
+## 3. Ordering Login Attempts Data
+To effectively analyze login patterns and identify suspicious sequences, I used the ORDER BY keyword to sort the login attempt data chronologically.
+
+* Action: I sorted all login attempts by login_date to view activity in chronological order.
+  * Query:
+   
+    SELECT *
+    FROM log_in_attempts
+    ORDER BY login_date;
+    
+  * Outcome: The query returned login attempts sorted by date, making it easy to track the sequence of login events and identify patterns on specific dates like 2022-05-08.
+
+![Ordered by date](./images/sql-order-date.png)
+*Figure 7: Sorting login attempts by date to track event sequences.*
+
+* Action: I refined the sorting by ordering results by both login_date and login_time for precise chronological analysis.
+  * Query:
+   
+    SELECT *
+    FROM log_in_attempts
+    ORDER BY login_date, login_time;
+    
+  * Outcome: The query returned login attempts sorted first by date, then by time within each date, providing a precise timeline of events from 00:19:11 through 02:18:10 on 2022-05-08.
+
+![Ordered by date and time](./images/sql-order-datetime.png)
+*Figure 8: Multi-column sorting to establish a precise chronological timeline of events.*
+
+---
+
+## Professional Reflection & Key Takeaways
+SQL is one of the most powerful tools in a security analyst's toolkit, and this exercise reinforced why database querying skills are non-negotiable for cybersecurity professionals.
+
+1. Precision in Data Retrieval: I learned that selecting specific columns (like device_id, email_client) instead of using SELECT * is more efficient when I only need certain information. This reduces network overhead and makes the results easier to analyze, which is critical when investigating large-scale security incidents.
+2. Chronological Analysis is Critical: Using ORDER BY login_date, login_time taught me how essential proper sorting is for incident response. When investigating a breach, I need to reconstruct the exact timeline of events, and multi-column sorting gives me that precision.
+3. Security Monitoring Through Queries: By querying login attempts for unusual patterns (like logins at 04:56 AM or from unexpected countries), I can proactively identify potential account compromises. This exercise showed me that SQL isn't just about retrieving data—it's about asking the right questions to uncover security threats.
+4. Foundation for Advanced Analysis: These basic SELECT queries are the building blocks for more complex security analytics. Once I master filtering with WHERE clauses and joining multiple tables, I'll be able to correlate device vulnerabilities with login anomalies to detect sophisticated attack patterns.
+
+---
+
+*Note: This document outlines my hands-on practice and learning proficiency in SQL database querying, security data analysis, and investigative techniques required for cybersecurity operations.*
