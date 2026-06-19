@@ -27,6 +27,7 @@ To support the team's device update initiative, I needed to extract information 
   * Outcome: The query returned all device information including device_id, operating_system, email_client, OS_patch_date, and employee_id, giving me a comprehensive view of the device fleet.
 
 ![All device data](./images/sql-machines-all.png)
+
 *Figure 1: Retrieving all columns to view the complete device inventory.*
 
 * Action: I extracted specific columns to focus on email client configurations across devices.
@@ -38,6 +39,7 @@ To support the team's device update initiative, I needed to extract information 
   * Outcome: The query returned only the device_id and email_client columns, allowing me to quickly identify which email clients are deployed across the organization.
 
 ![Device email clients](./images/sql-machines-email.png)
+
 *Figure 2: Extracting specific columns to analyze email client deployments.*
 
 * Action: I retrieved operating system and patch date information to identify devices requiring updates.
@@ -49,6 +51,7 @@ To support the team's device update initiative, I needed to extract information 
   * Outcome: The query returned device IDs, their operating systems, and the last patch dates, enabling me to identify which devices are overdue for security updates.
 
 ![Device OS and patch dates](./images/sql-machines-os.png)
+
 *Figure 3: Querying OS and patch dates to identify devices needing security updates.*
 
 ---
@@ -65,6 +68,7 @@ To detect potential security threats, I analyzed login attempt data from the log
   * Outcome: The query returned login event IDs and their geographic locations (CAN, USA, CANADA), allowing me to verify that logins originated from expected regions (United States, Canada, or Mexico).
 
 ![Login locations](./images/sql-login-country.png)
+
 *Figure 4: Verifying login locations to ensure they originate from expected regions.*
 
 * Action: I extracted username, login_date, and login_time to check for after-hours access.
@@ -75,6 +79,7 @@ To detect potential security threats, I analyzed login attempt data from the log
     
   * Outcome: The query returned login timestamps for each user, revealing potential suspicious activity such as logins at 04:56:27 and 03:05:59, which are outside typical business hours.
   ![Login timestamps](./images/sql-login-time.png)
+
 *Figure 5: Extracting timestamps to identify suspicious after-hours access.*
 
 * Action: I retrieved all columns from the login_attempts table for a complete security audit.
@@ -86,6 +91,7 @@ To detect potential security threats, I analyzed login attempt data from the log
   * Outcome: The query returned comprehensive login data including event_id, username, login_date, login_time, country, ip_address, and success status, providing the full context needed for incident investigation.
 
 ![All login data](./images/sql-login-all.png)
+
 *Figure 6: Retrieving full login data for a comprehensive security audit.*
 
 ---
@@ -103,6 +109,7 @@ To effectively analyze login patterns and identify suspicious sequences, I used 
   * Outcome: The query returned login attempts sorted by date, making it easy to track the sequence of login events and identify patterns on specific dates like 2022-05-08.
 
 ![Ordered by date](./images/sql-order-date.png)
+
 *Figure 7: Sorting login attempts by date to track event sequences.*
 
 * Action: I refined the sorting by ordering results by both login_date and login_time for precise chronological analysis.
@@ -115,6 +122,7 @@ To effectively analyze login patterns and identify suspicious sequences, I used 
   * Outcome: The query returned login attempts sorted first by date, then by time within each date, providing a precise timeline of events from 00:19:11 through 02:18:10 on 2022-05-08.
 
 ![Ordered by date and time](./images/sql-order-datetime.png)
+
 *Figure 8: Multi-column sorting to establish a precise chronological timeline of events.*
 
 ---
