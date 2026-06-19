@@ -39,4 +39,9 @@
 
 ---
 
+## 🛠️ Lab 8: SQL Query Fundamentals for Security Investigations
+[📄 View Documentation](./practical-08.md)
+
+---
+
 *🔙 [Back to Google Dashboard](../index.md)*
