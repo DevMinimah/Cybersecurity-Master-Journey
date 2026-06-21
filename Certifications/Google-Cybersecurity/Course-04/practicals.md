@@ -54,4 +54,10 @@
 
 ---
 
+## 🛠️ Lab 11: Complex SQL Filtering with AND, OR, and NOT Operators
+[📄 View Documentation](./practical-11.md)
+
+---
+
+
 *🔙 [Back to Google Dashboard](../index.md)*
