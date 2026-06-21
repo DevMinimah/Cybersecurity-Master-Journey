@@ -29,7 +29,7 @@ WHERE login_time > '18:00' AND success = FALSE;
 **Output/Result:**
 The query successfully returned only the failed login attempts that occurred after 6 PM. This precise filter is critical for identifying suspicious after-hours activity that warrants further security investigation.
 
-![Failed logins after hours](sql-logic-failed-afterhours.png)
+![Failed logins after hours](./images/sql-logic-failed-afterhours.png)
 
 ---
 
@@ -47,7 +47,7 @@ WHERE login_date = '2022-05-09' OR login_date = '2022-05-08';
 **Output/Result:**
 The query returned all login attempts from both May 8th and May 9th, providing the complete timeline of user activity needed to investigate the suspicious event without having to run separate queries.
 
-![Logins on specific dates](sql-logic-specific-dates.png)
+![Logins on specific dates](./images/sql-logic-specific-dates.png)
 
 ---
 
@@ -65,7 +65,7 @@ WHERE NOT country LIKE 'MEX%';
 **Output/Result:**
 The query successfully excluded entries like 'MEX' and 'MEXICO', returning only logins from other regions (like CAN and USA). This demonstrates how to quickly filter out known-safe data to focus on geographic anomalies.
 
-![Logins outside Mexico](sql-logic-not-mexico.png)
+![Logins outside Mexico](./images/sql-logic-not-mexico.png)
 
 ---
 
@@ -83,7 +83,7 @@ WHERE department = 'Marketing' AND office LIKE 'East%';
 **Output/Result:**
 The query returned exactly the Marketing employees located in East building offices (e.g., East-170, East-195). This precision prevents unnecessary updates to employees in other buildings and ensures the right assets are targeted.
 
-![Marketing employees in East building](sql-logic-marketing-east.png)
+![Marketing employees in East building](./images/sql-logic-marketing-east.png)
 
 ---
 
@@ -101,7 +101,7 @@ WHERE department = 'Finance' OR department = 'Sales';
 **Output/Result:**
 The query successfully returned a combined list of all Finance and Sales employees, streamlining the process of gathering the required device information for the cross-departmental update.
 
-![Finance and Sales employees](sql-logic-finance-sales.png)
+![Finance and Sales employees](./images/sql-logic-finance-sales.png)
 
 ---
 
@@ -119,7 +119,7 @@ WHERE NOT department = 'Information Technology';
 **Output/Result:**
 The query returned all employees across the organization while successfully filtering out the IT staff, ensuring the update team only targets the remaining departments that still require the security patch.
 
-![Employees not in IT](sql-logic-not-it.png)
+![Employees not in IT](./images/sql-logic-not-it.png)
 
 ---
 
