@@ -59,5 +59,9 @@
 
 ---
 
+## 🛠️ Lab 12: Correlating Data with SQL Joins
+[📄 View Documentation](./practical-12.md)
+
+---
 
 *🔙 [Back to Google Dashboard](../index.md)*
