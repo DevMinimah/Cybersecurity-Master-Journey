@@ -28,6 +28,7 @@ To investigate potential brute-force attacks or compromised credentials, I neede
   * Outcome: The query successfully returned only the failed login attempts that occurred after 6 PM. This is a critical filter for identifying suspicious after-hours activity that warrants further investigation.
 
 ![Failed logins after hours](./images/sql-logic-failed-afterhours.png)
+
 *Figure 1: Isolating failed login attempts occurring outside standard business hours.*
 
 ---
@@ -45,6 +46,7 @@ The security team needed to review all login activity surrounding a specific sus
   * Outcome: The query returned all login attempts from both May 8th and May 9th, providing the complete timeline of user activity needed to investigate the suspicious event.
 
 ![Logins on specific dates](./images/sql-logic-specific-dates.png)
+
 *Figure 2: Using OR to combine login activity from two specific investigation dates.*
 
 ---
@@ -62,6 +64,7 @@ To investigate potential unauthorized access, I needed to filter out all legitim
   * Outcome: The query successfully excluded entries like 'MEX' and 'MEXICO', returning only logins from other regions (like CAN and USA). This demonstrates how to quickly filter out known-safe or irrelevant data to focus on anomalies.
 
 ![Logins outside Mexico](./images/sql-logic-not-mexico.png)
+
 *Figure 3: Using NOT and LIKE to exclude known-safe geographic regions.*
 
 ---
@@ -79,6 +82,7 @@ The IT team needed to update machines for employees in the Marketing department,
   * Outcome: The query returned exactly the 7 Marketing employees located in East building offices (e.g., East-170, East-195). This precision prevents unnecessary updates to employees in other buildings.
 
 ![Marketing employees in East building](./images/sql-logic-marketing-east.png)
+
 *Figure 4: Combining exact match and pattern matching to target a specific department in a specific building.*
 
 ---
@@ -96,6 +100,7 @@ A separate update was required for all employees in either the Finance or Sales 
   * Outcome: The query successfully returned a combined list of all Finance and Sales employees, streamlining the process of gathering the required device information for the update.
 
 ![Finance and Sales employees](./images/sql-logic-finance-sales.png)
+
 *Figure 5: Using OR to combine multiple departmental records into a single result set.*
 
 ---
@@ -113,6 +118,7 @@ The final update had already been completed for the Information Technology depar
   * Outcome: The query returned all employees across the organization while successfully filtering out the IT staff, ensuring the update team only targets the remaining departments.
 
 ![Employees not in IT](./images/sql-logic-not-it.png)
+
 *Figure 6: Using NOT to exclude completed departments from the deployment scope.*
 
 ---
