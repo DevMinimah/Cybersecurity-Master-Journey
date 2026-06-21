@@ -1,4 +1,4 @@
- # Portfolio Project: SQL Filtering for Security Investigations
+# Portfolio Project: SQL Filtering for Security Investigations
 
 **Assessment Context:** Scenario-Based Simulation (Google Cybersecurity Professional Certificate)  
 **Activity:** SQL Filtering for Security Investigations  
