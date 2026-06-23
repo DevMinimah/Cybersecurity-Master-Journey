@@ -91,8 +91,10 @@
 - [Microsoft Defender for Identity](https://learn.microsoft.com/en-us/defender-for-identity/)
 - [Microsoft Defender for Cloud Apps](https://learn.microsoft.com/en-us/defender-cloud-apps/)
 - [Manage incidents and alerts](https://learn.microsoft.com/en-us/defender-xdr/manage-incidents)
-- [Advanced Hunting using KQL](https://learn.microsoft.com/en-us/defender-xdr/advanced-hunting)
+- [Advanced Hunting using KQL](https://learn.microsoft.com/en-us/defender-xdr/advanced-hunting-overview)
 - [Microsoft Security Portal (security.microsoft.com)](https://security.microsoft.com)
+
+https://learn.microsoft.com/en-us/defender-xdr/advanced-hunting-overview
 
 ---
 
