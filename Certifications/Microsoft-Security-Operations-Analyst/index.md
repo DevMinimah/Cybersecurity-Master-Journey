@@ -5,7 +5,7 @@
 | Field | Details |
 |-------|---------|
 | Status | 🟡 In Progress |
-| Modules Completed | 0/10 |
+| Modules Completed | 1/10 |
 | Verify Credential | [🔗 Microsoft Credential Link] |
 
 ---
@@ -14,8 +14,9 @@
 
 | Module | Title | Theory | Status |
 |--------|-------|--------|--------|
-| 01 | Mitigate threats using Microsoft Defender XDR | [📖](./Module-01/theory.md) | 🔄 In Progress |
-| 02 | Mitigate threats using Microsoft Security Copilot | [📖](./Module-02/theory.md) | ⚪️ Not Started |
+
+| 01 | Mitigate threats using Microsoft Defender XDR | [📖 View](./Module-01/theory.md) | ✅ Completed |
+| 02 | Mitigate threats using Microsoft Security Copilot | [📖](./Module-02/theory.md) | 🔄 In Progress |
 | 03 | Mitigate threats using Microsoft Purview | [📖](./Module-03/theory.md) | ⚪️ Not Started |
 | 04 | Mitigate threats using Microsoft Defender for Endpoint | [📖](./Module-04/theory.md) | ⚪️ Not Started |
 | 05 | Mitigate threats using Microsoft Defender for Cloud | [📖](./Module-05/theory.md) | ⚪️ Not Started |
