@@ -58,3 +58,5 @@
 ---
 
 **🎓 Microsoft Certified: Security Operations Associate (SC-200) | Learning Path: Mitigate threats using Microsoft Defender XDR**
+
+*🔙 [Back to Microsoft SC-200 Learning Path](../index.md)*
