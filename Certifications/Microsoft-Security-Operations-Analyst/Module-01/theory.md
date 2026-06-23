@@ -55,9 +55,6 @@
 - [Advanced Hunting using KQL](https://learn.microsoft.com/en-us/defender-xdr/advanced-hunting)
 - [Microsoft Security Portal (security.microsoft.com)](https://security.microsoft.com)
 
-## 📸 Screenshots:
-*(Add screenshots of the Defender XDR dashboard, Incident Queue, Attack Timeline, or Advanced Hunting interface here)*
-
 ---
 
 **🎓 Microsoft Certified: Security Operations Associate (SC-200) | Learning Path: Mitigate threats using Microsoft Defender XDR**
