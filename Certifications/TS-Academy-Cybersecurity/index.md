@@ -9,10 +9,6 @@
 
 ---
 
-| 01 | Foundations of Cybersecurity and Computing | [📖 View](./Module-01/theory.md) | ✅ Completed |
-
-
-
 ## 📚 Module Progress
 
 | Module | Title | Theory | Practical | Status |
