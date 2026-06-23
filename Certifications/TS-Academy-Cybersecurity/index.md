@@ -4,7 +4,7 @@
 |-------|---------|
 | Status | 🟡 In Progress |
 | Platform | TS Academy |
-| Modules | 0/7 Completed |
+| Modules | 1/7 Completed |
 | Capstones | 0/1 Completed |
 
 ---
