@@ -5,7 +5,7 @@
 | Field | Details |
 |-------|---------|
 | Status | 🟡 In Progress |
-| Modules Completed | 2/10 |
+| Modules Completed | 3/10 |
 | Verify Credential | [🔗 Microsoft Credential Link] |
 
 ---
@@ -17,8 +17,8 @@
 |--------|-------|--------|--------|
 | 01 | Mitigate threats using Microsoft Defender XDR | [📖 View](./Module-01/theory.md) | ✅ Completed |
 | 02 | Mitigate threats using Microsoft Security Copilot | [📖 View](./Module-02/theory.md) | ✅ Completed |
-| 03 | Mitigate threats using Microsoft Purview | [📖 View](./Module-03/theory.md) | ️🔄 In Progress |
-| 04 | Mitigate threats using Microsoft Defender for Endpoint | [📖 View](./Module-04/theory.md) | ⚪️ Not Started |
+| 03 | Mitigate threats using Microsoft Purview | [📖 View](./Module-03/theory.md) | ️✅ Completed |
+| 04 | Mitigate threats using Microsoft Defender for Endpoint | [📖 View](./Module-04/theory.md) | 🔄 In Progress |
 | 05 | Mitigate threats using Microsoft Defender for Cloud | [📖 View](./Module-05/theory.md) | ⚪️ Not Started |
 | 06 | Create queries for Microsoft Sentinel using Kusto Query Language (KQL) | [📖 View](./Module-06/theory.md) | ⚪️ Not Started |
 | 07 | Configure your Microsoft Sentinel environment | [📖 View](./Module-07/theory.md) | ⚪️ Not Started |
