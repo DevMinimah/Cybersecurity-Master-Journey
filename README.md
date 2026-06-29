@@ -119,10 +119,14 @@
 
 ---
 
-## 🌐 View This Portfolio
-🔗 GitHub Home: https://github.com/DevMinimah/
-🔗 Live Website: https://Devminimah.github.io/Cybersecurity-Master-Journey/
-🔗 GitHub Repository: https://github.com/Devminimah/Cybersecurity-Master-Journey
+## 🔗 Quick Links
+
+| Resource | Link |
+|----------|------|
+|  GitHub Profile | [github.com/DevMinimah](https://github.com/DevMinimah) |
+| 💼 Cybersecurity Portfolio | [View Repository](https://github.com/DevMinimah/Cybersecurity-Master-Journey) |
+| 🌐 Live Portfolio Site | [DevMinimah.github.io](https://DevMinimah.github.io/Cybersecurity-Master-Journey) |
+| 📄 Profile README | [About Me](https://github.com/DevMinimah/DevMinimah) |
 
 ---
 
