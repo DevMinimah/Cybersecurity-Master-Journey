@@ -9,7 +9,7 @@
 | Metric | Value |
 |--------|-------|
 | ✅ Certifications Completed | 3 |
-| 🟡 Certifications in Progress | 2 |
+| 🟡 Certifications in Progress | 3 |
 | 🏆 Capstones Finished | 8 |
 | 📝 Practical Activities Documented | 21 |
 
@@ -119,9 +119,14 @@
 
 ---
 
-## 🌐 View This Portfolio
-🔗 Live Website: https://Devminimah.github.io/Cybersecurity-Master-Journey/  
-🔗 GitHub Repository: https://github.com/Devminimah/Cybersecurity-Master-Journey
+## 🔗 Quick Links
+
+| Resource | Link |
+|----------|------|
+|  GitHub Profile | [github.com/DevMinimah](https://github.com/DevMinimah) |
+| 💼 Cybersecurity Portfolio | [View Repository](https://github.com/DevMinimah/Cybersecurity-Master-Journey) |
+| 🌐 Live Portfolio Site | [DevMinimah.github.io](https://DevMinimah.github.io/Cybersecurity-Master-Journey) |
+| 📄 Profile README | [About Me](https://github.com/DevMinimah/DevMinimah) |
 
 ---
 

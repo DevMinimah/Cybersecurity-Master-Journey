@@ -18,9 +18,9 @@
 
 | Certification | Issuing Organization | Current Progress | Status | View |
 |---------------|---------------------|------------------|--------|------|
-| Cybersecurity Professional Certificate | Google | Course 3/8 Completed | 🔄 In Progress | [📄 View](./Google-Cybersecurity/index.md) |
-| Security Operations Analyst Associate | Microsoft | Started | 🔄 In Progress | [📄 View](./Microsoft-Security-Operations-Analyst/index.md) |
-| Cybersecurity Program | TS Academy | Started | 🔄 In Progress | [📄 View](./TS-Academy-Cybersecurity/index.md) |
+| Cybersecurity Professional Certificate | Google | Course 4/8 Completed | 🔄 In Progress | [📄 View](./Google-Cybersecurity/index.md) |
+| Security Operations Analyst Associate | Microsoft | Course 3/10 Completed | 🔄 In Progress | [📄 View](./Microsoft-Security-Operations-Analyst/index.md) |
+| Cybersecurity Program | TS Academy | Course 1/7 Completed | 🔄 In Progress | [📄 View](./TS-Academy-Cybersecurity/index.md) |
 | Information Security Specialist | IBM SkillsBuild | Planned | ⚪ Planned | [📄 View](./IBM-InfoSec-Specialist/index.md) |
 
 ---
