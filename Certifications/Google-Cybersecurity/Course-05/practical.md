@@ -13,7 +13,7 @@ As part of the security team at a Hospital, I found a USB stick with the company
 ---
 
 ## 1. Initial Discovery & Content Analysis
-The drive contained Personally Identifiable Information (PII), including names, wedding dates, and financial details. However, what stood out was that it also contained work-related documents mixed in with the personal data. Normally, personal details and professional documents are kept separate, but here they were sitting side by side.
+The drive contained Personally Identifiable Information (PII), including names, wedding dates, and financial details. However, what stood out was that it also contained work related documents mixed in with the personal data. Normally, personal details and professional documents are kept separate, but here they were sitting side by side.
 
 Furthermore, since the USB appears to belong to someone in a resource management role, it likely contains sensitive information about colleagues as well. This makes the device a goldmine of personal and professional data, creating a severe confidentiality risk.
 
@@ -23,7 +23,7 @@ Furthermore, since the USB appears to belong to someone in a resource management
 To properly assess the risk, I shifted my mindset. Instead of just cataloging what was on the drive, I asked myself: *"If I were a malicious threat actor, how could I use this?"*
 
 * Social Engineering Toolkit: All this information provides an attacker with everything they need to craft highly convincing phishing emails or vishing (voice phishing) calls. They could reach out to a target saying, "Hey, I'm calling about your wedding gift registry," and the target would have no reason to doubt them because the details are real.
-* The "Bait" Scenario: There is a strong possibility that the USB itself is a deliberate setup. The drive could be bait designed to get someone to plug it in, which then installs sophisticated malware or spyware on their system, giving the attacker a foothold in the hospital's network.
+* The Bait Scenario: There is a strong possibility that the USB itself is a deliberate setup. The drive could be bait designed to get someone to plug it in, which then installs sophisticated malware or spyware on their system, giving the attacker a foothold in the hospital's network.
 
 ---
 
@@ -41,7 +41,7 @@ After analyzing the situation, I identified three major risk vectors and develop
 ### C. Social Engineering Through Brand Trust
 * The Risk: The USB has the hospital's logo on it, which immediately makes it look legitimate. An attacker could use this as a pretext to gain employees' trust, tricking them into plugging it into their workstations.
 People see the company logo, assume the device belongs to a colleague, and lower their guard.
-* Remediation: This comes down to training and culture. We need to run regular security awareness sessions that cover physical threats like USB drops, and establish a simple, unbreakable rule: If you find a drive, hand it to IT—do not plug it in.
+* Remediation: This comes down to training and culture. We need to run regular security awareness sessions that cover physical threats like USB drops, and establish a simple, unbreakable rule: If you find a drive, hand it to IT, do not plug it in.
 
 ---
 
