@@ -40,4 +40,4 @@
 
 ---
 
-*🔙 [Back to Certifications Hub](../certifications.md)*
+*🔙 [Back to Certifications Hub](../index.md)*
