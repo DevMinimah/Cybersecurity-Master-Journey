@@ -14,6 +14,9 @@
 | 📝 Practical Activities Documented | 21 |
 
 ---
+👉 [View Detailed Progress & All Certifications](./Certifications/index.md)
+
+---
 
 ## 🛠️ Tools & Technologies
 

@@ -65,7 +65,7 @@ What this taught me: Vulnerabilities are often hiding in plain sight—inside ch
 ---
 
 ### Stage 6: Attack Modeling
-I analyzed the sample attack tree diagram to map out how a threat actor could realistically chain together the identified vulnerabilities to achieve their objectives—whether that's stealing customer payment data, hijacking user accounts, or disrupting the entire platform.
+I analyzed the sample attack tree diagram to map out how a threat actor could realistically chain together the identified vulnerabilities to achieve their objectives, whether that's stealing customer payment data, hijacking user accounts, or disrupting the entire platform.
 
 The attack tree made it clear that these vulnerabilities don't exist in isolation. A successful attacker would combine social engineering to gain internal access, then exploit the unsalted hashes to crack credentials, and finally use those credentials to escalate privileges through the broken API controls.
 
