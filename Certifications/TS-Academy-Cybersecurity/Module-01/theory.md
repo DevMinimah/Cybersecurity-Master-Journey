@@ -121,6 +121,15 @@
 
 ---
 
+### 9. Kali Linux Fundamentals & CLI Operations
+- Explored Kali Linux as a specialized, open-source distribution designed specifically for security auditing and penetration testing, emphasizing the need for proficiency in both its GUI and Command Line Interface (CLI).
+- Learned how to perform essential file and directory management using core commands for navigation (`cd`, `pwd`), creation (`mkdir`, `touch`), manipulation (`cp`, `mv`), deletion (`rm`), and content viewing (`cat`, `less`).
+- Studied Linux file permissions and ownership, understanding the `rwx` (read=4, write=2, execute=1) permission model and learning how to apply changes using `chmod` and `chown` to enforce strict access controls.
+- Understood user and group management workflows, including creating new groups (`groupadd`), safely appending users to groups without removing existing memberships (`usermod -aG`), and verifying access levels.
+- Explored essential system and network utility commands for troubleshooting and monitoring, including connectivity checks (`ping`), network configuration (`ifconfig`), resource monitoring (`df -h`, `free -h`, `ps aux`), and package management (`apt update/upgrade/install`).
+
+---
+
 ## 💡 Key Takeaways
 
 1. **Cybersecurity is not a destination** but a continuous, evolving discipline. A professional who stops learning is quickly rendered obsolete by emerging threats.
