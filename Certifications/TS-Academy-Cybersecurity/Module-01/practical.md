@@ -1,4 +1,4 @@
-# TS Academy Module 01: Foundation of Cybersecurity and Computing - Kali Linux Practical Lab
+# Module 01: Foundation of Cybersecurity and Computing - Kali Linux Practical Lab
 
 ## 📅 Date Started: 2026-06-30
 ## 📅 Date Completed: 2026-07-01
