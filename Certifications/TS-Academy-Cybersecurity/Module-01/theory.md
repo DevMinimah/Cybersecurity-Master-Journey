@@ -1,4 +1,4 @@
-# Module 01: Foundations of Cybersecurity and Computing (Weeks 1 & 2)
+# Module 01: Foundations of Cybersecurity and Computing
 
 **Date Started:** June 20, 2026  
 **Date Completed:** June 23, 2026  
