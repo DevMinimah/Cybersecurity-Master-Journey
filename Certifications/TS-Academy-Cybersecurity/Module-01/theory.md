@@ -1,6 +1,5 @@
 # Module 01: Foundations of Cybersecurity and Computing (Weeks 1 & 2)
 
-**Program:** TS Academy Cybersecurity  
 **Date Started:** June 20, 2026  
 **Date Completed:** June 23, 2026  
 
