@@ -13,3 +13,6 @@
 [📄 View Documentation](./practical-02.md)
 
 ---
+
+## 🛠️ Lab 3: Phishing Incident Investigation and SOC Escalation
+[📄 View Documentation](./practical-03.md)
