@@ -92,4 +92,4 @@
 
 ---
 
-**🎓 Google Cybersecurity Professional Certificate | Course 5 of 8**
+🎓 Google Cybersecurity Professional Certificate | Course 5 of 8
