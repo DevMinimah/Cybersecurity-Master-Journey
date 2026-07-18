@@ -14,8 +14,8 @@
 | Module | Title | Theory | Practical | Status |
 |--------|-------|--------|-----------|--------|
 | 01 | Foundations of Cybersecurity and Computing | [📖 View](./Module-01/theory.md) | [🔧 View](./Module-01/practical.md) | ✅ Completed |
-| 02 | Network & Threat Fundamentals | [📖](./Module-02/theory.md) | [🔧](./Module-02/practical.md) | 🟡 In Progress |
-| 03 | Defensive Security Operations (SOC & Incident Response) | [📖](./Module-03/theory.md) | [🔧](./Module-03/practical.md) | ⚪ Not Started |
+| 02 | Network & Threat Fundamentals | [📖](./Module-02/theory.md) | [🔧](./Module-02/practical.md) | ✅ Completed |
+| 03 | Defensive Security Operations (SOC & Incident Response) | [📖](./Module-03/theory.md) | [🔧](./Module-03/practical.md) | 🟡 In Progress |
 | 04 | Offensive Security & Vulnerability Management | [📖](./Module-04/theory.md) | [🔧](./Module-04/practical.md) | ⚪ Not Started |
 | 05 | Cloud Security & Identity Management | [📖](./Module-05/theory.md) | [🔧](./Module-05/practical.md) | ⚪ Not Started |
 | 06 | Governance, Risk & Compliance (GRC) | [📖](./Module-06/theory.md) | [🔧](./Module-06/practical.md) | ⚪ Not Started |

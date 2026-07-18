@@ -44,15 +44,15 @@ bash
 - Learned how to navigate the Wireshark interface (Packet List, Details, and Bytes panes) and capture live or sampled network traffic.
 - Studied how to apply and combine display filters to isolate specific traffic:
   
-  # Protocol-based
+  ### Protocol-based
   http  dns  tls
   
-  # IP/Port-based
+  ### IP/Port-based
   ip.addr == 192.168.1.100 && tcp.port == 443
-  # MAC-based
+  ### MAC-based
   eth.addr == aa:bb:cc:dd:ee:ff
   
-  # Security-focused
+  ### Security-focused
   tcp.flags.syn==1 and tcp.flags.ack==0          # SYN scan detection
   dns.qry.name contains "evil"                   # Suspicious DNS query
   http.response.code >= 400                      # HTTP error monitoring
