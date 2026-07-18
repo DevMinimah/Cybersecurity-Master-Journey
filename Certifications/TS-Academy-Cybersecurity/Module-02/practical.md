@@ -1,9 +1,9 @@
 # Module 02: Network Traffic Capturing and Analysis with Wireshark
-
-**Practical Activity:** Network Traffic Capturing and Analysis with Wireshark
-**Environment:** Kali Linux virtual machine
-**Role Assumed:** Security Analyst
-**Tools Utilized:** Wireshark Packet Analyzer
+  
+Practical Activity: Network Traffic Capturing and Analysis with Wireshark 
+Environment: Kali Linux virtual machine (Ubuntu/Debian-based)  
+Role Assumed: Network Security Analyst  
+Tools Utilized: Wireshark Packet Analyzer 
 
 ---
 

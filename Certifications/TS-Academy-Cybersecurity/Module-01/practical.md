@@ -1,9 +1,9 @@
 # Module 01: Linux Commands, Files and Permissions
 
-Practical Activity: Linux Commands, Files and Permissions
-Environment: Kali Linux virtual machine
-Role Assumed: Security Analyst
-Tools Utilized: Terminal/Shell (Bash)
+Practical Activity: Linux Commands, Files and Permissions  
+Environment: Linux Virtual Machine (Ubuntu/Debian-based)  
+Role Assumed: Security Analyst  
+Tools Utilized: Terminal/Shell (Bash) 
 
 ---
 
