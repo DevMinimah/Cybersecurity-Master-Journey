@@ -1,11 +1,11 @@
-# Module 02: Network Traffic Capturing and Analysiswith Wireshark
+# Module 02: Network Traffic Capturing and Analysis with Wireshark
 
-Practical Activity: Network Traffic Capturing and Analysiswith Wireshark
-Environment: Kali Linux virtual machine
-Role Assumed: Security Analyst
-Tools Utilized: Wireshark Packet Analyzer
+**Practical Activity:** Network Traffic Capturing and Analysis with Wireshark
+**Environment:** Kali Linux virtual machine
+**Role Assumed:** Security Analyst
+**Tools Utilized:** Wireshark Packet Analyzer
 
-================================================================
+---
 
 ⚠️ Disclaimer:
 This activity is a simulation for practical educational purposes only. All exercises are conducted in controlled, isolated virtual environments to develop cybersecurity skills and knowledge. No real production networks, systems, or sensitive data were accessed or modified.
@@ -184,61 +184,93 @@ This filter shows HTTP response packets with status codes of 400 or higher. All 
 - Explore Wireshark plugins and Lua scripting for automated analysis workflows
 - Study protocol specifications (RFCs) to deepen interpretation capabilities
 
+
 ---
 
-### Status Codes to Remember
+# HTTP Status Codes to Remember
 
-Informational (1xx)
-100 Continue
-— The server has received the request headers and the client should proceed to send the request body.
-101 Switching Protocols
-— The requester has asked the server to switch protocols and the server has agreed to do so.
-102 Processing
-— The server has received and is processing the request, but no response is available yet.
+## Informational (1xx)
 
-Success (2xx)
-200 OK
-— The request has succeeded.
+### 100 Continue
+The server has received the request headers and the client should proceed to send the request body.
 
-Redirection (3xx)
-301 Moved Permanently
-— The URL of the requested resource has been changed permanently.
-302 Found
-— The URL of the requested resource has been changed temporarily.
-303 See Other
-— The response to the request can be found under another URI using a GET method.
-307 Temporary Redirect
-— The URL of the requested resource has been changed temporarily.
-308 Permanent Redirect
-— The URL of the requested resource has been changed permanently.
+### 101 Switching Protocols
+The requester has asked the server to switch protocols and the server has agreed to do so.
 
-Client Error (4xx)
-400 Bad Request
-— The server cannot or will not process the request due to an apparent client error.
-401 Unauthorized
-— Authentication is required and has failed or has not yet been provided.
-403 Forbidden
-— The request was valid, but the server is refusing action.
-404 Not Found
-— The requested resource could not be found but may be available in the future.
-408 Request Timeout
-— The server timed out waiting for the request.
-414 URI Too Long
-— The URI provided was too long for the server to process.
-415 Unsupported Media Type
-— The request entity has a media type which the server or resource does not support.
+### 102 Processing
+The server has received and is processing the request, but no response is available yet.
 
-Server Error (5xx)
-500 Internal Server Error
-— A generic error message, given when an unexpected condition was encountered.
-501 Not Implemented
-— The server either does not recognize the request method, or it lacks the ability to fulfill the request.
-502 Bad Gateway
-— The server was acting as a gateway or proxy and received an invalid response from the upstream server.
-503 Service Unavailable
-— The server is currently unavailable (because it is overloaded or down for maintenance).
-504 Gateway Timeout
-— The server was acting as a gateway or proxy and did not receive a timely response from the upstream server.
+---
+
+## Success (2xx)
+
+### 200 OK
+The request has succeeded.
+
+---
+
+## Redirection (3xx)
+
+### 301 Moved Permanently
+The URL of the requested resource has been changed permanently.
+
+### 302 Found
+The URL of the requested resource has been changed temporarily.
+
+### 303 See Other
+The response to the request can be found under another URI using a GET method.
+
+### 307 Temporary Redirect
+The URL of the requested resource has been changed temporarily.
+
+### 308 Permanent Redirect
+The URL of the requested resource has been changed permanently.
+
+---
+
+## Client Error (4xx)
+
+### 400 Bad Request
+The server cannot or will not process the request due to an apparent client error.
+
+### 401 Unauthorized
+Authentication is required and has failed or has not yet been provided.
+
+### 403 Forbidden
+The request was valid, but the server is refusing action.
+
+### 404 Not Found
+The requested resource could not be found but may be available in the future.
+
+### 408 Request Timeout
+The server timed out waiting for the request.
+
+### 414 URI Too Long
+The URI provided was too long for the server to process.
+
+### 415 Unsupported Media Type
+The request entity has a media type which the server or resource does not support.
+
+---
+
+## Server Error (5xx)
+
+### 500 Internal Server Error
+A generic error message, given when an unexpected condition was encountered.
+
+### 501 Not Implemented
+The server either does not recognize the request method, or it lacks the ability to fulfill the request.
+
+### 502 Bad Gateway
+The server was acting as a gateway or proxy and received an invalid response from the upstream server.
+
+### 503 Service Unavailable
+The server is currently unavailable (because it is overloaded or down for maintenance).
+
+### 504 Gateway Timeout
+The server was acting as a gateway or proxy and did not receive a timely response from the upstream server.
+
+
 
 ---
 
