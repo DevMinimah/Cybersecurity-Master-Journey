@@ -1,13 +1,19 @@
-# Module 01: Foundation of Cybersecurity and Computing - Kali Linux Practical Lab
+# Module 01: Linux Commands, Files and Permissions
 
-## 📅 Date Started: 2026-06-30
-## 📅 Date Completed: 2026-07-01
+Practical Activity: Linux Commands, Files and Permissions
+Environment: Kali Linux virtual machine
+Role Assumed: Security Analyst
+Tools Utilized: Terminal/Shell (Bash)
+
+---
 
 ## ⚠️ Disclaimer:
 **This activity is a simulation for practical educational purposes only. All exercises are conducted in controlled, isolated virtual environments to develop cybersecurity skills and knowledge. No real systems, networks, or production data were accessed or modified.**
 
+
 ## 🧪 Activity Type:
 Hands-on technical lab: Mastering Kali Linux navigation, command-line operations, file system management, and permission controls as foundational cybersecurity competencies.
+
 
 ## 🎯 Lab Goal:
 To develop proficiency in Kali Linux by navigating both GUI and terminal environments, executing essential file/directory operations, understanding and manipulating Linux file permissions, and applying foundational commands used in security auditing and penetration testing workflows.
@@ -17,6 +23,8 @@ To develop proficiency in Kali Linux by navigating both GUI and terminal environ
 - Terminal/Shell (Bash)
 - Thunar file manager (GUI)
 - Linux command-line utilities: `whoami`, `pwd`, `cd`, `ls`, `mkdir`, `touch`, `cp`, `mv`, `rm`, `cat`, `less`, `chmod`, `chown`, `groupadd`, `usermod`, `grep`, `ps`, `ip`, `apt`, `ping`, `df`, `free`, `man`
+
+---
 
 ## 📋 What I Did:
 
@@ -197,6 +205,8 @@ To develop proficiency in Kali Linux by navigating both GUI and terminal environ
   $ sudo apt install nmap -y
   ```
 
+---
+
 ## 🔍 What I Found:
 
 ### **File System Navigation**
@@ -260,6 +270,8 @@ To develop proficiency in Kali Linux by navigating both GUI and terminal environ
 - Learn process management (`kill`, `top`, `htop`, `systemctl`) for system monitoring, threat hunting, and service hardening
 - Study package management and dependency resolution for maintaining secure, updated tooling in isolated environments
 
+---
+
 ## 📸 Screenshot:
 🔒 **Screenshot Restriction Notice**
 
@@ -275,4 +287,6 @@ Screenshots from TS Academy or affiliated simulated lab environments may contain
   - System commands exploration (`ping`, `ip addr`, `ps`, `apt`, `df`, `free`)
 - ✅ Completion Date: 2026-07-01
 
+
+---
 **Alternative Evidence:** Comprehensive written documentation of commands executed, permission models analyzed, and security-relevant insights provided in sections above.
