@@ -11,7 +11,7 @@
 | ✅ Certifications Completed | 3 |
 | 🟡 Certifications in Progress | 3 |
 | 🏆 Capstones Finished | 8 |
-| 📝 Practical Activities Documented | 21 |
+| 📝 Practical Activities Documented | 48 |
 
 ---
 👉 [View Detailed Progress & All Certifications](./Certifications/index.md)

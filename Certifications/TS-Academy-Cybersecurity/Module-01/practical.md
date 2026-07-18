@@ -8,7 +8,7 @@ Tools Utilized: Terminal/Shell (Bash)
 ---
 
 ## ⚠️ Disclaimer:
-**This activity is a simulation for practical educational purposes only. All exercises are conducted in controlled, isolated virtual environments to develop cybersecurity skills and knowledge. No real systems, networks, or production data were accessed or modified.**
+*This activity is a simulation for practical educational purposes only. All exercises are conducted in controlled, isolated virtual environments to develop cybersecurity skills and knowledge. No real systems, networks, or production data were accessed or modified.*
 
 
 ## 🧪 Activity Type:
@@ -289,4 +289,4 @@ Screenshots from TS Academy or affiliated simulated lab environments may contain
 
 
 ---
-**Alternative Evidence:** Comprehensive written documentation of commands executed, permission models analyzed, and security-relevant insights provided in sections above.
+*Alternative Evidence:** *Comprehensive written documentation of commands executed, permission models analyzed, and security-relevant insights provided in sections above.*

@@ -7,16 +7,17 @@ Tools Utilized: Wireshark Packet Analyzer
 
 ---
 
-⚠️ Disclaimer:
-This activity is a simulation for practical educational purposes only. All exercises are conducted in controlled, isolated virtual environments to develop cybersecurity skills and knowledge. No real production networks, systems, or sensitive data were accessed or modified.
+## ⚠️ Disclaimer:
+*This activity is a simulation for practical educational purposes only. All exercises are conducted in controlled, isolated virtual environments to develop cybersecurity skills and knowledge. No real production networks, systems, or sensitive data were accessed or modified.*
 
 
-🧪 Activity Type:
+## 🧪 Activity Type:
 Hands-on technical lab: Practicing Wireshark for packet capture, filter application, protocol analysis, and security-focused network traffic investigation as part of foundational cybersecurity training.
 
 
-🎯 Lab Goal:
+## 🎯 Lab Goal:
 To develop proficiency in using Wireshark for network traffic analysis by capturing packets, applying display filters, identifying security-relevant patterns (port scanning, DNS anomalies, HTTP errors), and interpreting HTTP status codes for incident investigation.
+
 
 🛠 Tools Used:
 - Kali Linux virtual machine
