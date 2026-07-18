@@ -4,15 +4,15 @@
 
 ---
 
-## 🛠️ Lab 1: Network Traffic Analysis with Wireshark
+## 🛠️ Lab 1: Python Conditional Statements for Security Automation
 [📄 View Documentation](./practical-01.md)
 
 ---
 
-## 🛠️ Lab 2: Network Traffic Capture and Analysis with tcpdump
+## 🛠️ Lab 2: Python Iterative Statements for Security Automation
 [📄 View Documentation](./practical-02.md)
 
 ---
 
-## 🛠️ Lab 3: Phishing Incident Investigation and SOC Escalation
+## 🛠️ Lab 3: Python Function Definition and Execution for Security Automation
 [📄 View Documentation](./practical-03.md)
