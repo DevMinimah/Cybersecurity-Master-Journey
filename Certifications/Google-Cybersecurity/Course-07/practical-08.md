@@ -83,14 +83,9 @@ As a security analyst, I developed an algorithm to parse a text file containing 
     ip_address
     192.168.25.60
     192.168.205.12
-    --------------
+    ... (truncated for brevity) ...
     192.168.6.9
     192.168.52.90
-    --------------
-    192.168.156.224
-    192.168.60.153
-    192.168.58.57
-    192.168.69.116
     ```
 *   **Observation:** Reading the file shows each IP on a separate line, which means the file uses newline characters for organization. This vertical format is more structured than a space-separated string, making it easier to parse and manipulate individual IP addresses when removing entries from the allow list.
 
@@ -159,12 +154,8 @@ As a security analyst, I developed an algorithm to parse a text file containing 
     192.168.25.60
     192.168.205.12
     192.168.52.90
-    --------------
+    ... (truncated for brevity) ...
     192.168.90.124
-    192.168.186.176
-    192.168.133.188
-    --------------
-    192.168.156.224
     
     ```
 *   **Observation:** The iterative statement successfully traversed the list, verifying that each IP address could be accessed individually and sequentially.
