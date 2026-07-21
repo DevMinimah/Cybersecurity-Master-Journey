@@ -36,3 +36,8 @@
 
 ## 🛠️ Lab 7: Python File I/O and Log Parsing for Security Analysis
 [📄 View Documentation](./practical-07.md)
+
+---
+
+## 🛠️ Lab 8: Python Algorithm Development for Access Control Automation
+[📄 View Documentation](./practical-08.md)
