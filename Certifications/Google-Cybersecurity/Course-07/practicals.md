@@ -31,3 +31,8 @@
 
 ## 🛠️ Lab 6: Python Regular Expressions for Log Analysis and Threat Triage
 [📄 View Documentation](./practical-06.md)
+
+---
+
+## 🛠️ Lab 7: Python File I/O and Log Parsing for Security Analysis
+[📄 View Documentation](./practical-07.md)
