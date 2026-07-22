@@ -11,7 +11,7 @@
 | Course | Tools of the Trade: Linux and SQL |
 | Issued | June 21, 2026 |
 | Credential ID | DX68VQOPHDD0 |
-| Verify | [🔗 View on Cousera](https://www.coursera.org/account/accomplishments/verify/DX68VQOPHDD0) |
+| Verify | [🔗 View on Cousera](https://www.coursera.org/account/accomplishments/records/DX68VQOPHDD0) |
 
 ---
 
