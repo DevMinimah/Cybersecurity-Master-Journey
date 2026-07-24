@@ -12,6 +12,7 @@
 | Cybersecurity Fundamentals | IBM | All Modules Complete | 🏆 Completed | [📄 View](./IBM-Cybersecurity-Fundamentals/index.md) |
 | Cybersecurity Certificate | IBM SkillsBuild | 13/13 Modules Complete | 🏆 Completed | [📄 View](./IBM-SkillsBuild-Cybersecurity-Certificate/index.md) |
 | Cybersecurity Professional Certificate | Google | Course 8/8 Completed | 🏆 Completed | [📄 View](./Google-Cybersecurity/index.md) |
+
 ---
 
 ## 🟡 In Progress & Planned
