@@ -38,6 +38,10 @@
 | Lab 01 | [Lab Title] | Module 01 | [📄 View](./labs/lab-01.md) | 🔄 In Progress |
 | Lab 02 | [Lab Title] | Module 01 | [📄 View](./labs/lab-02.md) | ⚪️ Not Started |
 
+
+---
+> 💡 Note: Links are placeholders. I'll activate them as I complete each course.
+
 ---
 
 *🔙 [Back to Certifications Hub](../index.md)*
