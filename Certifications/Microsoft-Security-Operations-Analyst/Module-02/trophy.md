@@ -1,4 +1,4 @@
-# Path 02: Mitigate threats using Microsoft Security Copilot — Trophy
+# Learning Path 02: Mitigate threats using Microsoft Security Copilot — Trophy
 
 > 🎓 *Microsoft Certified: Security Operations Analyst Associate*
 

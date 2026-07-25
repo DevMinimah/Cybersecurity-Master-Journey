@@ -1,10 +1,10 @@
-# Path 01: Mitigate threats using Microsoft Defender XDR — Trophy
+# Learning Path 01: Mitigate threats using Microsoft Defender XDR — Trophy
 
 > 🎓 *Microsoft Certified: Security Operations Analyst Associate*
 
 ---
 
-## 🏆 Path Completion
+## 🏆 Learning Path Completion
 
 | Field | Details |
 |-------|---------|

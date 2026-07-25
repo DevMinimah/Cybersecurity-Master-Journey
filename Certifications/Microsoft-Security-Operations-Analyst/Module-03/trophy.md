@@ -1,4 +1,4 @@
-# Path 02: Mitigate threats using Microsoft Purview — Trophy
+# Learning Path 03: Mitigate threats using Microsoft Purview — Trophy
 
 > 🎓 *Microsoft Certified: Security Operations Analyst Associate*
 
