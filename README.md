@@ -136,4 +136,4 @@
 > *"Continuous learning is the minimum requirement for success in cybersecurity."*  
 > 🛡️ Building versatile skills across IBM, Google, Microsoft, ISC2, TS Academy & more
 
-*Last updated: July 2026*
+*Last updated: August 2026*
