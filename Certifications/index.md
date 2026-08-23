@@ -19,7 +19,7 @@
 
 | Certification | Issuing Organization | Current Progress | Status | View |
 |---------------|---------------------|------------------|--------|------|
-| Security Operations Analyst Associate | Microsoft | Course 3/10 Completed | 🔄 In Progress | [📄 View](./Microsoft-Security-Operations-Analyst/index.md) |
+| Security Operations Analyst Associate | Microsoft | Course 6/10 Completed | 🔄 In Progress | [📄 View](./Microsoft-Security-Operations-Analyst/index.md) |
 | Cybersecurity Program | TS Academy | Course 2/7 Completed | 🔄 In Progress | [📄 View](./TS-Academy-Cybersecurity/index.md) |
 | Information Security Specialist | IBM SkillsBuild | Planned | ⚪ Planned | [📄 View](./IBM-InfoSec-Specialist/index.md) |
 
