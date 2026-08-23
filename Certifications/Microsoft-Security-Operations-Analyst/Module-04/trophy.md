@@ -9,7 +9,7 @@
 | Field | Details |
 |-------|---------|
 | Learning Path | Mitigate threats using Microsoft Defender for Endpoint |
-| Issued | August 20, 2026 |
+| Issued | August 23, 2026 |
 | Credential ID | JH77DW9T |
 | Verify | [🔗 View on Micrsoft Learn](https://learn.microsoft.com/api/achievements/share/en-us/AbiegbuMinimah/JH77DW9T?sharingId=569E420DAF3EF873) |
 
