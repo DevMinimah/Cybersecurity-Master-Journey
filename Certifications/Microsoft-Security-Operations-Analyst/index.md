@@ -20,8 +20,8 @@
 | 03 | Mitigate threats using Microsoft Purview | [📖 View](./Module-03/theory.md) | [🏆 View](./Module-03/trophy.md) | ✅ Completed |
 | 04 | Mitigate threats using Microsoft Defender for Endpoint | [📖 View](./Module-04/theory.md) | [🏆 View](./Module-04/trophy.md) | ✅ Completed |
 | 05 | Mitigate threats using Microsoft Defender for Cloud | [📖 View](./Module-05/theory.md) | [🏆 View](./Module-05/trophy.md) | ✅ Completed |
-| 06 | Create queries for Microsoft Sentinel using Kusto Query Language (KQL) | [📖 View](./Module-06/theory.md) | ⚪️ Pending | 🔄 In Progress |
-| 07 | Configure your Microsoft Sentinel environment | [📖 View](./Module-07/theory.md) | ⚪️ Pending | ⚪️ Not Started |
+| 06 | Create queries for Microsoft Sentinel using Kusto Query Language (KQL) | [📖 View](./Module-06/theory.md) | ⚪️ [🏆 View](./Module-06/trophy.md | ✅ Completed |
+| 07 | Configure your Microsoft Sentinel environment | [📖 View](./Module-07/theory.md) | ⚪️ Pending | 🔄 In Progress |
 | 08 | Connect logs to Microsoft Sentinel | [📖 View](./Module-08/theory.md) | ⚪️ Pending | ⚪️ Not Started |
 | 09 | Create detections and perform investigations using Microsoft Sentinel | [📖 View](./Module-09/theory.md) | ⚪️ Pending | ⚪️ Not Started |
 | 10 | Perform threat hunting in Microsoft Sentinel | [📖 View](./Module-10/theory.md) | ⚪️ Pending | ⚪️ Not Started |
