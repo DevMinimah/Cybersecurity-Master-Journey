@@ -1,4 +1,4 @@
-# Learning Path 04: Mitigate threats using Microsoft Defender for Endpoint — Trophy
+# Learning Path 06: Create queries for Microsoft Sentinel using Kusto Query Language (KQL) — Trophy
 
 > 🎓 *Microsoft Certified: Security Operations Analyst Associate*
 
@@ -10,8 +10,8 @@
 |-------|---------|
 | Learning Path | Mitigate threats using Microsoft Defender for Endpoint |
 | Issued | August 20, 2026 |
-| Credential ID | FE5MFUQX |
-| Verify | [🔗 View on Micrsoft Learn](https://learn.microsoft.com/api/achievements/share/en-us/AbiegbuMinimah/FE5MFUQX?sharingId=569E420DAF3EF873) |
+| Credential ID | JH77DW9T |
+| Verify | [🔗 View on Micrsoft Learn](https://learn.microsoft.com/api/achievements/share/en-us/AbiegbuMinimah/JH77DW9T?sharingId=569E420DAF3EF873) |
 
 
 ---
