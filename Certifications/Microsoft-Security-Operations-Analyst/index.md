@@ -23,7 +23,7 @@
 | 06 | Create queries for Microsoft Sentinel using Kusto Query Language (KQL) | [📖 View](./Module-06/theory.md) | [🏆 View](./Module-06/trophy.md) | ✅ Completed |
 | 07 | Configure your Microsoft Sentinel environment | [📖 View](./Module-07/theory.md) | [🏆 View](./Module-07/trophy.md) | ✅ Completed |
 | 08 | Connect logs to Microsoft Sentinel | [📖 View](./Module-08/theory.md) | [🏆 View](./Module-08/trophy.md) | ✅ Completed |
-| 09 | Create detections and perform investigations using Microsoft Sentinel | [📖 View](./Module-09/theory.md) | ⚪️ Pending | 🔄 In Progress |
+| 09 | Create detections and perform investigations using Microsoft Sentinel | [📖 View](./Module-09/theory.md) | [🏆 View](./Module-09/trophy.md) | 🔄 In Progress |
 | 10 | Perform threat hunting in Microsoft Sentinel | [📖 View](./Module-10/theory.md) | ⚪️ Pending | ⚪️ Not Started |
 
 ---
