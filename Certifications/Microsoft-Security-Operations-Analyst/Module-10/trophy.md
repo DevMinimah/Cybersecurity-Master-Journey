@@ -10,8 +10,8 @@
 |-------|---------|
 | Learning Path | Connect logs to Microsoft Sentinel |
 | Issued | August 30, 2026 |
-| Credential ID | D37YNLTJ |
-| Verify | [🔗 View on Micrsoft Learn](https://learn.microsoft.com/api/achievements/share/en-us/AbiegbuMinimah/D37YNLTJ?sharingId=569E420DAF3EF873) |
+| Credential ID | NQ5LD2UF |
+| Verify | [🔗 View on Micrsoft Learn](https://learn.microsoft.com/api/achievements/share/en-us/AbiegbuMinimah/NQ5LD2UF?sharingId=569E420DAF3EF873) |
 
 
 ---
