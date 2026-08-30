@@ -40,6 +40,9 @@
 ## 🔗 Links/Resources
 
 - [Microsoft Learn: SC-200 Security Operations Analyst](https://learn.microsoft.com/en-us/certifications/exams/sc-200)
+- [A Getting Started Guide for Azure Sentinel ML Notebooks](https://nbviewer.org/github/Azure/Azure-Sentinel-Notebooks/blob/master/A%20Getting%20Started%20Guide%20For%20Azure%20Sentinel%20ML%20Notebooks.ipynb)
+- [MSTICPy Documentation](https://msticpy.readthedocs.io/)
+- [Become a Microsoft Sentinel Ninja (Level 400)](https://techcommunity.microsoft.com/t5/azure-sentinel/become-an-azure-sentinel-ninja-the-complete-level-400-training/ba-p/1246310)
 - [Threat hunting overview in Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/hunting-overview)
 - [Track threat hunting with hunts and bookmarks](https://learn.microsoft.com/en-us/azure/sentinel/hunting-bookmarks)
 - [Use Search jobs to query large datasets](https://learn.microsoft.com/en-us/azure/sentinel/search-jobs)
