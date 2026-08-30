@@ -8,8 +8,8 @@
 
 | Metric | Value |
 |--------|-------|
-| ✅ Certifications Completed | 4 |
-| 🟡 Certifications in Progress | 2 |
+| ✅ Certifications Completed | 5 |
+| 🟡 Certifications in Progress | 1 |
 | 🏆 Capstones Finished | 8 |
 | 📝 Practical Activities Documented | 50 |
 
@@ -91,8 +91,8 @@
 | Certified in Cybersecurity (CC) | ISC2 | 5/5 Domains | ✅ Completed 🏆 |
 | IBM SkillsBuild Cybersecurity Certificate | IBM SkillsBuild | 13/13 Modules | ✅ Completed 🏆 |
 | Google Cybersecurity Professional Certificate | Google/Coursera | 8/8 Courses | ✅ Completed 🏆 |
+| Microsoft Certified: Security Operations Analyst Associate | Microsoft Learn | 10/10 Paths | ✅ Completed 🏆 |
 | Cybersecurity | TS Academy | 2/7 Modules | 🟡 In Progress |
-| Microsoft Certified: Security Operations Analyst Associate | Microsoft Learn | 3/10 Paths | 🟡 In Progress |
 | IBM SkillsBuild Information Security Specialist Certificate | IBM SkillsBuild | 12 Courses | ⚪ Planned |                                                                     
 
 
@@ -136,4 +136,4 @@
 > *"Continuous learning is the minimum requirement for success in cybersecurity."*  
 > 🛡️ Building versatile skills across IBM, Google, Microsoft, ISC2, TS Academy & more
 
-*Last updated: August 2026*
+*Last updated: September 2026*
