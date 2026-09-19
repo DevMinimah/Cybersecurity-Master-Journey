@@ -20,7 +20,7 @@
 
 | Certification | Issuing Organization | Current Progress | Status | View |
 |---------------|---------------------|------------------|--------|------|
-| Cybersecurity Program | TS Academy | Course 2/7 Completed | 🔄 In Progress | [📄 View](./TS-Academy-Cybersecurity/index.md) |
+| Cybersecurity Program | TS Academy | Course 3/7 Completed | 🔄 In Progress | [📄 View](./TS-Academy-Cybersecurity/index.md) |
 | Information Security Specialist | IBM SkillsBuild | Planned | ⚪ Planned | [📄 View](./IBM-InfoSec-Specialist/index.md) |
 
 ---
