@@ -4,8 +4,8 @@
 | Field | Details |
 |-------|---------|
 | Status | ✅ Certified |
-| Date Earned | May 2026 |
-| Verify Badge | [🔗 Credly/ISC2 Link] |
+| Date Earned | October 2026 |
+| Verify Badge | [🔗 View Badge](https://www.credly.com/badges/02c48e0c-67d0-4fda-bfa6-090fa3794297/public_url) | |
 
 ## 📋 Domain Documentation
 Click any domain to view theory notes & practical activities:
