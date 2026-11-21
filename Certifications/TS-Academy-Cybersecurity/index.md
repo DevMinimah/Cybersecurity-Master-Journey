@@ -2,10 +2,10 @@
 
 | Field | Details |
 |-------|---------|
-| Status | 🟡 In Progress |
+| Status | ✅ Completed |
 | Platform | TS Academy |
-| Modules | 4/7 Completed |
-| Capstones | 0/1 Completed |
+| Modules | 7/7 Completed |
+| Capstones | 1/1 Completed |
 
 ---
 
@@ -17,9 +17,9 @@
 | 02 | Network & Threat Fundamentals | [📖 View](./Module-02/theory.md) | [🔧 View](./Module-02/practical.md) | ✅ Completed |
 | 03 | Defensive Security Operations (SOC & Incident Response) | [📖 View](./Module-03/theory.md) | [🔧](./Module-03/practical.md) | ✅ Completed |
 | 04 | Offensive Security & Vulnerability Management | [📖 View](./Module-04/theory.md) | [🔧](./Module-04/practical.md) | ✅ Completed |
-| 05 | Governance, Risk & Compliance (GRC) | [📖](./Module-05/theory.md) | [🔧](./Module-05/practical.md) |  🟡 In Progress |
-| 06 | Cloud Security & Identity Management | [📖](./Module-06/theory.md) | [🔧](./Module-06/practical.md) | ⚪ Not Started |
-| 07 | Final Capstone Project - Defend & Respond | [📖](./Module-07/theory.md) | [🔧](./Module-07/practical.md) | ⚪ Locked |
+| 05 | Governance, Risk & Compliance (GRC) | [📖 View](./Module-05/theory.md) | [🔧 View](./Module-05/practical.md) |  ✅ Completed |
+| 06 | Cloud Security & Identity Management | [📖 View](./Module-06/theory.md) | [🔧 View](./Module-06/practical.md) | ✅ Completed |
+| 07 | Final Capstone Project - Defend & Respond | [📖](./Module-07/theory.md) | [🔧 View](./Module-07/practical.md) | 🟡 In Progress |
 
 ---
 ## 🏆 Capstone Project
